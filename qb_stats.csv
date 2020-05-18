@@ -1,0 +1,1806 @@
+,YEAR,TEAM,G,ATT,COMP,PCT,YDS,AVG,LNG,TD,INT,1st,1st%,20+,SCK,SCKY,RATE,qb_name,year_played,retired
+0,2015,Tampa Bay Buccaneers,16,535,312,58.32,4042,7.6,68,22,15,201,37.57,57,27,190,84.2,Jameis Winston,1,No
+1,2016,Tampa Bay Buccaneers,16,567,345,60.85,4090,7.2,45,28,18,214,37.74,43,35,239,86.1,Jameis Winston,2,No
+2,2017,Tampa Bay Buccaneers,13,442,282,63.8,3504,7.9,70,19,11,180,40.72,32,33,207,92.2,Jameis Winston,3,No
+3,2018,Tampa Bay Buccaneers,11,378,244,64.55,2992,7.9,64,19,14,152,40.21,34,27,157,90.2,Jameis Winston,4,No
+4,2019,Tampa Bay Buccaneers,16,626,380,60.7,5109,8.2,71,33,30,243,38.82,75,47,282,84.3,Jameis Winston,5,No
+0,2016,Dallas Cowboys,16,459,311,67.76,3667,8,83,23,4,182,39.65,38,25,143,104.9,Dak Prescott,1,No
+1,2017,Dallas Cowboys,16,490,308,62.86,3324,6.8,81,22,13,162,33.06,34,32,185,86.6,Dak Prescott,2,No
+2,2018,Dallas Cowboys,16,526,356,67.68,3885,7.4,90,22,8,184,34.98,39,56,347,96.9,Dak Prescott,3,No
+3,2019,Dallas Cowboys,16,596,388,65.1,4902,8.2,62,30,11,229,38.42,68,23,151,99.7,Dak Prescott,4,No
+0,2016,Los Angeles Rams,7,205,112,54.63,1089,5.3,66,5,7,47,22.93,12,26,222,63.6,Jared Goff,1,No
+1,2017,Los Angeles Rams,15,477,296,62.05,3804,8,94,28,7,176,36.9,54,25,172,100.5,Jared Goff,2,No
+2,2018,Los Angeles Rams,16,561,364,64.88,4688,8.4,70,32,12,233,41.53,69,33,223,101.1,Jared Goff,3,No
+3,2019,Los Angeles Rams,16,626,394,62.94,4638,7.4,66,22,16,220,35.14,72,22,170,86.5,Jared Goff,4,No
+0,2004,San Diego Chargers,2,8,5,62.5,33,4.1,13,1,0,3,37.5,0,1,10,110.9,Philip Rivers,1,No
+1,2005,San Diego Chargers,2,22,12,54.55,115,5.2,22,0,1,6,27.27,1,3,16,50.4,Philip Rivers,2,No
+2,2006,San Diego Chargers,16,460,284,61.74,3388,7.4,57,22,9,167,36.3,41,27,144,92,Philip Rivers,3,No
+3,2007,San Diego Chargers,16,460,277,60.22,3152,6.9,49,21,15,157,34.13,44,22,163,82.4,Philip Rivers,4,No
+4,2008,San Diego Chargers,16,478,312,65.27,4009,8.4,67,34,11,191,39.96,48,25,151,105.5,Philip Rivers,5,No
+5,2009,San Diego Chargers,16,486,317,65.23,4254,8.8,81,28,9,208,42.8,64,25,167,104.4,Philip Rivers,6,No
+6,2010,San Diego Chargers,16,541,357,65.99,4710,8.7,59,30,13,234,43.25,65,38,227,101.8,Philip Rivers,7,No
+7,2011,San Diego Chargers,16,582,366,62.89,4624,8,58,27,20,234,40.21,69,30,198,88.7,Philip Rivers,8,No
+8,2012,San Diego Chargers,16,527,338,64.14,3606,6.8,80,26,15,184,34.91,41,49,311,88.6,Philip Rivers,9,No
+9,2013,San Diego Chargers,16,544,378,69.49,4478,8.2,60,32,11,230,42.28,60,30,150,105.5,Philip Rivers,10,No
+10,2014,San Diego Chargers,16,570,379,66.49,4286,7.5,59,31,18,213,37.37,57,36,189,93.8,Philip Rivers,11,No
+11,2015,San Diego Chargers,16,661,437,66.11,4792,7.3,80,29,13,226,34.19,53,40,264,93.8,Philip Rivers,12,No
+12,2016,San Diego Chargers,16,578,349,60.38,4386,7.6,59,33,21,214,37.02,57,36,188,87.9,Philip Rivers,13,No
+13,2017,Los Angeles Chargers,16,575,360,62.61,4515,7.9,75,28,10,216,37.57,61,18,120,96,Philip Rivers,14,No
+14,2018,Los Angeles Chargers,16,508,347,68.31,4308,8.5,75,32,12,213,41.93,60,32,204,105.5,Philip Rivers,15,No
+15,2019,Los Angeles Chargers,16,591,390,65.99,4615,7.8,84,23,20,217,36.72,57,34,222,88.5,Philip Rivers,16,No
+0,2008,Atlanta Falcons,16,434,265,61.06,3440,7.9,70,16,11,157,36.18,45,17,104,87.7,Matt Ryan,1,No
+1,2009,Atlanta Falcons,14,451,263,58.31,2916,6.5,90,22,14,152,33.7,31,19,92,80.9,Matt Ryan,2,No
+2,2010,Atlanta Falcons,16,571,357,62.52,3705,6.5,46,28,9,199,34.85,32,23,158,91,Matt Ryan,3,No
+3,2011,Atlanta Falcons,16,566,347,61.31,4177,7.4,80,29,12,205,36.22,55,26,173,92.2,Matt Ryan,4,No
+4,2012,Atlanta Falcons,16,615,422,68.62,4719,7.7,80,32,14,246,40,46,28,210,99.1,Matt Ryan,5,No
+5,2013,Atlanta Falcons,16,651,439,67.43,4515,6.9,81,26,17,225,34.56,44,44,298,89.6,Matt Ryan,6,No
+6,2014,Atlanta Falcons,16,628,415,66.08,4694,7.5,79,28,14,230,36.62,60,31,205,93.9,Matt Ryan,7,No
+7,2015,Atlanta Falcons,16,614,407,66.29,4591,7.5,70,21,16,229,37.3,49,30,206,89,Matt Ryan,8,No
+8,2016,Atlanta Falcons,16,534,373,69.85,4944,9.3,76,38,7,238,44.57,69,37,235,117.1,Matt Ryan,9,No
+9,2017,Atlanta Falcons,16,529,342,64.65,4095,7.7,88,20,12,199,37.62,54,24,156,91.4,Matt Ryan,10,No
+10,2018,Atlanta Falcons,16,608,422,69.41,4924,8.1,75,35,7,236,38.82,56,42,296,108.1,Matt Ryan,11,No
+11,2019,Atlanta Falcons,15,616,408,66.23,4466,7.3,93,26,14,228,37.01,47,48,316,92.1,Matt Ryan,12,No
+0,2012,Seattle Seahawks,16,393,252,64.12,3118,7.9,67,26,10,149,37.91,42,33,203,100,Russell Wilson,1,No
+1,2013,Seattle Seahawks,16,407,257,63.14,3357,8.3,80,26,9,153,37.59,49,44,272,101.2,Russell Wilson,2,No
+2,2014,Seattle Seahawks,16,452,285,63.05,3475,7.7,80,20,7,159,35.18,54,42,242,95,Russell Wilson,3,No
+3,2015,Seattle Seahawks,16,483,329,68.12,4024,8.3,80,34,8,187,38.72,60,45,265,110.1,Russell Wilson,4,No
+4,2016,Seattle Seahawks,16,546,353,64.65,4219,7.7,59,21,11,193,35.35,51,41,293,92.6,Russell Wilson,5,No
+5,2017,Seattle Seahawks,16,553,339,61.3,3983,7.2,74,34,11,183,33.09,58,43,322,95.4,Russell Wilson,6,No
+6,2018,Seattle Seahawks,16,427,280,65.57,3448,8.1,66,35,7,156,36.53,47,51,355,110.9,Russell Wilson,7,No
+7,2019,Seattle Seahawks,16,516,341,66.09,4110,8,60,31,5,190,36.82,55,48,319,106.3,Russell Wilson,8,No
+0,2000,New England Patriots,1,3,1,33.33,6,2,6,0,0,0,0,0,0,0,42.4,Tom Brady,1,No
+1,2001,New England Patriots,15,413,264,63.92,2843,6.9,91,18,12,143,34.62,32,41,216,86.5,Tom Brady,2,No
+2,2002,New England Patriots,16,601,373,62.06,3764,6.3,49,28,14,184,30.62,37,31,190,85.7,Tom Brady,3,No
+3,2003,New England Patriots,16,527,317,60.15,3620,6.9,82,23,12,175,33.21,44,32,219,85.9,Tom Brady,4,No
+4,2004,New England Patriots,16,474,288,60.76,3692,7.8,50,28,14,188,39.66,52,26,162,92.6,Tom Brady,5,No
+5,2005,New England Patriots,16,530,334,63.02,4110,7.8,71,26,14,193,36.42,59,26,188,92.3,Tom Brady,6,No
+6,2006,New England Patriots,16,516,319,61.82,3529,6.8,62,24,12,176,34.11,46,26,175,87.9,Tom Brady,7,No
+7,2007,New England Patriots,16,578,398,68.86,4806,8.3,69,50,8,240,41.52,56,21,128,117.2,Tom Brady,8,No
+8,2008,New England Patriots,1,11,7,63.64,76,6.9,26,0,0,3,27.27,1,0,0,83.9,Tom Brady,9,No
+9,2009,New England Patriots,16,565,371,65.66,4398,7.8,81,28,13,214,37.88,43,16,86,96.2,Tom Brady,10,No
+10,2010,New England Patriots,16,492,324,65.85,3900,7.9,79,36,4,189,38.41,53,25,175,111,Tom Brady,11,No
+11,2011,New England Patriots,16,611,401,65.63,5235,8.6,99,39,12,261,42.72,71,32,173,105.6,Tom Brady,12,No
+12,2012,New England Patriots,16,637,401,62.95,4827,7.6,83,34,8,255,40.03,57,27,182,98.7,Tom Brady,13,No
+13,2013,New England Patriots,16,628,380,60.51,4343,6.9,81,25,11,225,35.83,49,40,256,87.3,Tom Brady,14,No
+14,2014,New England Patriots,16,582,373,64.09,4109,7.1,69,33,9,220,37.8,44,21,134,97.4,Tom Brady,15,No
+15,2015,New England Patriots,16,624,402,64.42,4770,7.6,76,36,7,228,36.54,58,38,225,102.2,Tom Brady,16,No
+16,2016,New England Patriots,12,432,291,67.36,3554,8.2,79,28,2,163,37.73,45,15,87,112.2,Tom Brady,17,No
+17,2017,New England Patriots,16,581,385,66.27,4577,7.9,64,32,8,230,39.59,62,35,201,102.8,Tom Brady,18,No
+18,2018,New England Patriots,16,570,375,65.79,4355,7.6,63,29,11,205,35.96,53,21,147,97.7,Tom Brady,19,No
+19,2019,New England Patriots,16,613,373,60.85,4057,6.6,59,24,8,193,31.48,60,27,185,88,Tom Brady,20,No
+0,2014,Oakland Raiders,16,599,348,58.1,3270,5.5,77,21,12,163,27.21,28,24,149,76.6,Derek Carr,1,No
+1,2015,Oakland Raiders,16,573,350,61.08,3987,7,68,32,13,183,31.94,53,31,230,91.1,Derek Carr,2,No
+2,2016,Oakland Raiders,15,560,357,63.75,3937,7,75,28,6,189,33.75,50,16,79,96.7,Derek Carr,3,No
+3,2017,Oakland Raiders,15,515,323,62.72,3496,6.8,87,22,13,165,32.04,43,20,101,86.4,Derek Carr,4,No
+4,2018,Oakland Raiders,16,553,381,68.9,4049,7.3,66,19,10,197,35.62,52,51,299,93.9,Derek Carr,5,No
+5,2019,Oakland Raiders,16,513,361,70.37,4054,7.9,75,21,8,191,37.23,54,29,184,100.8,Derek Carr,6,No
+0,2016,Philadelphia Eagles,16,607,379,62.44,3782,6.2,73,16,14,191,31.47,39,33,213,79.3,Carson Wentz,1,No
+1,2017,Philadelphia Eagles,13,440,265,60.23,3296,7.5,72,33,7,160,36.36,40,28,162,101.9,Carson Wentz,2,No
+2,2018,Philadelphia Eagles,11,401,279,69.58,3074,7.7,58,21,7,159,39.65,37,31,202,102.2,Carson Wentz,3,No
+3,2019,Philadelphia Eagles,16,607,388,63.92,4039,6.7,53,27,7,213,35.09,52,37,230,93.1,Carson Wentz,4,No
+0,2017,Kansas City Chiefs,1,35,22,62.86,284,8.1,51,0,1,14,40,2,2,15,76.4,Patrick Mahomes,1,No
+1,2018,Kansas City Chiefs,16,580,383,66.03,5097,8.8,89,50,12,237,40.86,75,26,171,113.8,Patrick Mahomes,2,No
+2,2019,Kansas City Chiefs,14,484,319,65.91,4031,8.3,83,26,5,176,36.36,50,17,127,105.3,Patrick Mahomes,3,No
+0,2005,Green Bay Packers,3,16,9,56.25,65,4.1,16,0,1,3,18.75,0,3,28,39.8,Aaron Rodgers,1,No
+1,2006,Green Bay Packers,2,15,6,40,46,3.1,16,0,0,2,13.33,0,3,18,48.2,Aaron Rodgers,2,No
+2,2007,Green Bay Packers,2,28,20,71.43,218,7.8,43,1,0,9,32.14,2,3,24,106,Aaron Rodgers,3,No
+3,2008,Green Bay Packers,16,536,341,63.62,4038,7.5,71,28,13,182,33.96,48,34,231,93.8,Aaron Rodgers,4,No
+4,2009,Green Bay Packers,16,541,350,64.7,4434,8.2,83,30,7,197,36.41,55,50,306,103.2,Aaron Rodgers,5,No
+5,2010,Green Bay Packers,15,475,312,65.68,3922,8.3,86,28,11,183,38.53,54,31,193,101.2,Aaron Rodgers,6,No
+6,2011,Green Bay Packers,15,502,343,68.33,4643,9.3,93,45,6,208,41.43,64,36,219,122.5,Aaron Rodgers,7,No
+7,2012,Green Bay Packers,16,552,371,67.21,4295,7.8,73,39,8,211,38.22,54,51,293,108,Aaron Rodgers,8,No
+8,2013,Green Bay Packers,9,290,193,66.55,2536,8.7,83,17,6,108,37.24,35,21,117,104.9,Aaron Rodgers,9,No
+9,2014,Green Bay Packers,16,520,341,65.58,4381,8.4,80,38,5,219,42.12,59,28,174,112.2,Aaron Rodgers,10,No
+10,2015,Green Bay Packers,16,572,347,60.66,3821,6.7,65,31,8,173,30.24,55,46,314,92.7,Aaron Rodgers,11,No
+11,2016,Green Bay Packers,16,610,401,65.74,4428,7.3,66,40,7,222,36.39,57,35,246,104.2,Aaron Rodgers,12,No
+12,2017,Green Bay Packers,7,238,154,64.71,1675,7,72,16,6,85,35.71,21,22,168,97.2,Aaron Rodgers,13,No
+13,2018,Green Bay Packers,16,597,372,62.31,4442,7.4,75,25,2,200,33.5,55,49,353,97.6,Aaron Rodgers,14,No
+14,2019,Green Bay Packers,16,569,353,62.04,4002,7,74,26,4,189,33.22,52,36,284,95.4,Aaron Rodgers,15,No
+0,2014,New England Patriots,6,27,19,70.37,182,6.7,37,1,0,8,29.63,2,5,36,101.2,Jimmy Garoppolo,1,No
+1,2015,New England Patriots,5,4,1,25,6,1.5,6,0,0,0,0,0,0,0,39.6,Jimmy Garoppolo,2,No
+2,2016,New England Patriots,6,63,43,68.25,502,8,37,4,0,22,34.92,7,3,15,113.3,Jimmy Garoppolo,3,No
+3,2017,San Francisco 49ers,6,178,120,67.42,1560,8.8,61,7,5,78,43.82,20,8,57,96.2,Jimmy Garoppolo,4,No
+4,2018,San Francisco 49ers,3,89,53,59.55,718,8.1,56,5,3,35,39.33,9,13,97,90,Jimmy Garoppolo,5,No
+5,2019,San Francisco 49ers,16,476,329,69.12,3978,8.4,75,27,13,193,40.55,61,36,237,102,Jimmy Garoppolo,6,No
+0,2017,Houston Texans,7,204,126,61.76,1699,8.3,72,19,8,84,41.18,28,19,116,103,Deshaun Watson,1,No
+1,2018,Houston Texans,16,505,345,68.32,4165,8.3,73,26,9,202,40,51,62,384,103.1,Deshaun Watson,2,No
+2,2019,Houston Texans,15,495,333,67.27,3852,7.8,54,26,12,191,38.59,47,44,257,98,Deshaun Watson,3,No
+0,2018,Cleveland Browns,14,486,310,63.79,3725,7.7,71,27,14,171,35.19,52,25,173,93.7,Baker Mayfield,1,No
+1,2019,Cleveland Browns,16,534,317,59.36,3827,7.2,89,22,21,179,33.52,57,40,285,78.8,Baker Mayfield,2,No
+0,2019,Arizona Cardinals,16,542,349,64.39,3722,6.9,88,20,12,173,31.92,47,48,309,87.4,Kyler Murray,1,No
+0,2012,Washington Redskins,3,48,33,68.75,466,9.7,77,4,3,20,41.67,6,3,27,101.6,Kirk Cousins,1,No
+1,2013,Washington Redskins,5,155,81,52.26,854,5.5,62,4,7,41,26.45,7,5,32,58.4,Kirk Cousins,2,No
+2,2014,Washington Redskins,6,204,126,61.76,1710,8.4,81,10,9,75,36.76,27,8,70,86.4,Kirk Cousins,3,No
+3,2015,Washington Redskins,16,543,379,69.8,4166,7.7,78,29,11,204,37.57,50,26,186,101.6,Kirk Cousins,4,No
+4,2016,Washington Redskins,16,606,406,67,4917,8.1,80,25,12,225,37.13,69,23,190,97.2,Kirk Cousins,5,No
+5,2017,Washington Redskins,16,540,347,64.26,4093,7.6,74,27,13,191,35.37,59,41,342,93.9,Kirk Cousins,6,No
+6,2018,Minnesota Vikings,16,606,425,70.13,4298,7.1,75,30,10,218,35.97,47,40,262,99.7,Kirk Cousins,7,No
+7,2019,Minnesota Vikings,15,444,307,69.14,3603,8.1,66,26,6,165,37.16,52,28,206,107.4,Kirk Cousins,8,No
+0,2005,St. Louis Rams,4,135,76,56.3,777,5.8,56,4,8,40,29.63,4,9,49,58.2,Ryan Fitzpatrick,1,No
+1,2006,St. Louis Rams,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ryan Fitzpatrick,2,No
+2,2007,Cincinnati Bengals,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ryan Fitzpatrick,3,No
+3,2008,Cincinnati Bengals,13,372,221,59.41,1905,5.1,79,8,9,100,26.88,14,38,193,70,Ryan Fitzpatrick,4,No
+4,2009,Buffalo Bills,10,227,127,55.95,1422,6.3,98,9,10,63,27.75,15,21,127,69.7,Ryan Fitzpatrick,5,No
+5,2010,Buffalo Bills,13,441,255,57.82,3000,6.8,65,23,15,151,34.24,39,24,145,81.8,Ryan Fitzpatrick,6,No
+6,2011,Buffalo Bills,16,569,353,62.04,3832,6.7,60,24,23,178,31.28,48,22,148,79.1,Ryan Fitzpatrick,7,No
+7,2012,Buffalo Bills,16,505,306,60.59,3400,6.7,68,24,16,174,34.46,44,30,161,83.3,Ryan Fitzpatrick,8,No
+8,2013,Tennessee Titans,11,350,217,62,2454,7,77,14,12,116,33.14,32,21,109,82,Ryan Fitzpatrick,9,No
+9,2014,Houston Texans,12,312,197,63.14,2483,8,76,17,8,119,38.14,38,21,83,95.3,Ryan Fitzpatrick,10,No
+10,2015,New York Jets,16,562,335,59.61,3905,7,69,31,15,196,34.88,53,19,94,88,Ryan Fitzpatrick,11,No
+11,2016,New York Jets,14,403,228,56.58,2710,6.7,57,12,17,128,31.76,38,19,81,69.6,Ryan Fitzpatrick,12,No
+12,2017,Tampa Bay Buccaneers,6,163,96,58.9,1103,6.8,41,7,3,63,38.65,15,7,34,86,Ryan Fitzpatrick,13,No
+13,2018,Tampa Bay Buccaneers,8,246,164,66.67,2366,9.6,75,17,12,113,45.93,37,14,76,100.4,Ryan Fitzpatrick,14,No
+14,2019,Miami Dolphins,15,502,311,61.95,3529,7,51,20,13,182,36.25,43,40,209,85.5,Ryan Fitzpatrick,15,No
+0,2011,Cincinnati Bengals,16,516,300,58.14,3398,6.6,84,20,13,156,30.23,48,24,160,80.4,Andy Dalton,1,No
+1,2012,Cincinnati Bengals,16,528,329,62.31,3669,7,59,27,16,171,32.39,37,46,229,87.4,Andy Dalton,2,No
+2,2013,Cincinnati Bengals,16,586,363,61.95,4293,7.3,82,33,20,204,34.81,56,29,182,88.8,Andy Dalton,3,No
+3,2014,Cincinnati Bengals,16,481,309,64.24,3398,7.1,81,19,17,158,32.85,33,21,124,83.5,Andy Dalton,4,No
+4,2015,Cincinnati Bengals,13,386,255,66.06,3250,8.4,80,25,7,147,38.08,52,20,118,106.3,Andy Dalton,5,No
+5,2016,Cincinnati Bengals,16,563,364,64.65,4206,7.5,86,18,8,204,36.23,53,41,264,91.8,Andy Dalton,6,No
+6,2017,Cincinnati Bengals,16,496,297,59.88,3320,6.7,77,25,12,162,32.66,33,39,255,86.6,Andy Dalton,7,No
+7,2018,Cincinnati Bengals,11,365,226,61.92,2566,7,49,21,11,132,36.16,38,21,157,89.6,Andy Dalton,8,No
+8,2019,Cincinnati Bengals,13,528,314,59.47,3494,6.6,66,16,14,170,32.2,41,37,249,78.3,Andy Dalton,9,No
+0,2018,Carolina Panthers,2,31,20,64.52,266,8.6,53,2,0,11,35.48,4,0,0,113.1,Kyle Allen,1,No
+1,2019,Carolina Panthers,13,489,303,61.96,3322,6.8,52,17,16,188,38.45,35,46,397,80,Kyle Allen,2,No
+0,2019,Jacksonville Jaguars,14,470,285,60.64,3271,7,70,21,6,150,31.91,43,33,184,91.2,Gardner Minshew,1,No
+0,2017,Chicago Bears,12,330,196,59.39,2193,6.7,70,7,7,100,30.3,24,31,196,77.5,Mitchell Trubisky,1,No
+1,2018,Chicago Bears,14,434,289,66.59,3223,7.4,70,24,12,151,34.79,40,24,143,95.4,Mitchell Trubisky,2,No
+2,2019,Chicago Bears,15,516,326,63.18,3138,6.1,53,17,10,156,30.23,35,38,234,83,Mitchell Trubisky,3,No
+0,2018,Baltimore Ravens,16,170,99,58.24,1201,7.1,74,6,3,60,35.29,13,16,71,84.5,Lamar Jackson,1,No
+1,2019,Baltimore Ravens,15,401,265,66.08,3127,7.8,83,36,6,161,40.15,42,23,106,113.3,Lamar Jackson,2,No
+0,2018,Buffalo Bills,12,320,169,52.81,2074,6.5,75,10,12,89,27.81,30,28,213,67.9,Josh Allen,1,No
+1,2019,Buffalo Bills,16,461,271,58.79,3089,6.7,53,20,9,146,31.67,47,38,237,85.3,Josh Allen,2,No
+0,2019,New York Giants,13,459,284,61.87,3027,6.6,75,24,12,140,30.5,39,38,295,87.7,Daniel Jones,1,No
+0,2018,New York Jets,13,414,239,57.73,2865,6.9,76,17,15,130,31.4,40,30,204,77.6,Sam Darnold,1,No
+1,2019,New York Jets,13,441,273,61.9,3024,6.9,92,19,13,147,33.33,40,33,212,84.3,Sam Darnold,2,No
+0,2001,San Diego Chargers,1,27,15,55.56,221,8.2,40,1,0,11,40.74,4,2,12,94.8,Drew Brees,1,No
+1,2002,San Diego Chargers,16,526,320,60.84,3284,6.2,52,17,16,163,30.99,40,24,180,76.9,Drew Brees,2,No
+2,2003,San Diego Chargers,11,356,205,57.58,2108,5.9,68,11,15,95,26.69,28,21,178,67.5,Drew Brees,3,No
+3,2004,San Diego Chargers,15,400,262,65.5,3159,7.9,79,27,7,141,35.25,40,18,131,104.8,Drew Brees,4,No
+4,2005,San Diego Chargers,16,500,323,64.6,3576,7.2,54,24,15,182,36.4,46,27,223,89.2,Drew Brees,5,No
+5,2006,New Orleans Saints,16,554,356,64.26,4418,8,86,26,11,201,36.28,61,18,105,96.2,Drew Brees,6,No
+6,2007,New Orleans Saints,16,652,440,67.48,4423,6.8,58,28,18,232,35.58,47,16,109,89.4,Drew Brees,7,No
+7,2008,New Orleans Saints,16,635,413,65.04,5069,8,84,34,17,232,36.54,66,13,92,96.2,Drew Brees,8,No
+8,2009,New Orleans Saints,15,514,363,70.62,4388,8.5,75,34,11,210,40.86,58,20,135,109.6,Drew Brees,9,No
+9,2010,New Orleans Saints,16,658,448,68.09,4620,7,80,33,22,236,35.87,47,25,185,90.9,Drew Brees,10,No
+10,2011,New Orleans Saints,16,657,468,71.23,5476,8.3,79,46,14,278,42.31,69,24,158,110.6,Drew Brees,11,No
+11,2012,New Orleans Saints,16,670,422,62.99,5177,7.7,80,43,19,266,39.7,66,26,190,96.3,Drew Brees,12,No
+12,2013,New Orleans Saints,16,650,446,68.62,5162,7.9,76,39,12,244,37.54,67,37,244,104.7,Drew Brees,13,No
+13,2014,New Orleans Saints,16,659,456,69.2,4952,7.5,69,33,17,258,39.15,52,29,186,97,Drew Brees,14,No
+14,2015,New Orleans Saints,15,627,428,68.26,4870,7.8,80,32,11,228,36.36,68,31,235,101,Drew Brees,15,No
+15,2016,New Orleans Saints,16,673,471,69.99,5208,7.7,98,37,15,264,39.23,70,27,184,101.7,Drew Brees,16,No
+16,2017,New Orleans Saints,16,536,386,72.01,4334,8.1,54,23,8,201,37.5,72,20,145,103.9,Drew Brees,17,No
+17,2018,New Orleans Saints,15,489,364,74.44,3992,8.2,72,32,5,199,40.7,58,17,121,115.7,Drew Brees,18,No
+18,2019,New Orleans Saints,11,378,281,74.34,2979,7.9,61,27,4,159,42.06,37,12,89,116.3,Drew Brees,19,No
+0,2016,New England Patriots,3,55,34,61.82,400,7.3,58,0,0,18,32.73,4,6,46,83.9,Jacoby Brissett,1,No
+1,2017,Indianapolis Colts,16,469,276,58.85,3098,6.6,80,13,7,143,30.49,32,52,305,81.7,Jacoby Brissett,2,No
+2,2018,Indianapolis Colts,4,4,2,50,2,0.5,4,0,0,1,25,0,0,0,56.3,Jacoby Brissett,3,No
+3,2019,Indianapolis Colts,15,447,272,60.85,2942,6.6,50,18,6,143,31.99,32,27,159,88,Jacoby Brissett,4,No
+0,2012,Miami Dolphins,16,484,282,58.26,3294,6.8,80,12,13,151,31.2,40,35,234,76.1,Ryan Tannehill,1,No
+1,2013,Miami Dolphins,16,588,355,60.37,3913,6.7,67,24,17,204,34.69,46,58,399,81.7,Ryan Tannehill,2,No
+2,2014,Miami Dolphins,16,590,392,66.44,4045,6.9,50,27,12,224,37.97,41,46,337,92.8,Ryan Tannehill,3,No
+3,2015,Miami Dolphins,16,586,363,61.95,4208,7.2,54,24,12,193,32.94,57,45,420,88.7,Ryan Tannehill,4,No
+4,2016,Miami Dolphins,13,389,261,67.1,2995,7.7,74,19,12,132,33.93,37,29,216,93.5,Ryan Tannehill,5,No
+5,2018,Miami Dolphins,11,274,176,64.23,1979,7.2,75,17,9,92,33.58,19,35,279,92.7,Ryan Tannehill,6,No
+6,2019,Tennessee Titans,12,286,201,70.28,2742,9.6,91,22,6,126,44.06,41,31,212,117.5,Ryan Tannehill,7,No
+0,2009,Detroit Lions,10,377,201,53.32,2267,6,75,13,20,111,29.44,26,24,169,61,Matthew Stafford,1,No
+1,2010,Detroit Lions,3,96,57,59.38,535,5.6,36,6,1,27,28.13,4,4,36,91.3,Matthew Stafford,2,No
+2,2011,Detroit Lions,16,663,421,63.5,5038,7.6,73,41,16,243,36.65,64,36,257,97.2,Matthew Stafford,3,No
+3,2012,Detroit Lions,16,727,435,59.83,4967,6.8,57,20,17,264,36.31,63,29,212,79.8,Matthew Stafford,4,No
+4,2013,Detroit Lions,16,634,371,58.52,4650,7.3,87,29,19,221,34.86,62,23,168,84.2,Matthew Stafford,5,No
+5,2014,Detroit Lions,16,602,363,60.3,4257,7.1,73,22,12,209,34.72,53,45,254,85.7,Matthew Stafford,6,No
+6,2015,Detroit Lions,16,592,398,67.23,4262,7.2,57,32,13,223,37.67,49,44,251,97,Matthew Stafford,7,No
+7,2016,Detroit Lions,16,594,388,65.32,4327,7.3,73,24,10,217,36.53,52,37,216,93.3,Matthew Stafford,8,No
+8,2017,Detroit Lions,16,565,371,65.66,4446,7.9,71,29,10,209,36.99,61,47,287,99.3,Matthew Stafford,9,No
+9,2018,Detroit Lions,16,555,367,66.13,3777,6.8,67,21,11,198,35.68,44,40,255,89.9,Matthew Stafford,10,No
+10,2019,Detroit Lions,8,291,187,64.26,2499,8.6,66,19,5,117,40.21,41,18,137,106,Matthew Stafford,11,No
+0,2008,Baltimore Ravens,16,428,257,60.05,2971,6.9,70,14,12,143,33.41,37,32,276,80.3,Joe Flacco,1,No
+1,2009,Baltimore Ravens,16,499,315,63.13,3613,7.2,72,21,12,186,37.27,44,36,218,88.9,Joe Flacco,2,No
+2,2010,Baltimore Ravens,16,489,306,62.58,3622,7.4,67,25,10,174,35.58,40,40,294,93.6,Joe Flacco,3,No
+3,2011,Baltimore Ravens,16,542,312,57.56,3610,6.7,74,20,12,179,33.03,44,31,203,80.9,Joe Flacco,4,No
+4,2012,Baltimore Ravens,16,531,317,59.7,3817,7.2,61,22,10,174,32.77,60,35,227,87.7,Joe Flacco,5,No
+5,2013,Baltimore Ravens,16,614,362,58.96,3912,6.4,74,19,22,189,30.78,45,48,324,73.1,Joe Flacco,6,No
+6,2014,Baltimore Ravens,16,554,344,62.09,3986,7.2,80,27,12,194,35.02,50,19,167,91,Joe Flacco,7,No
+7,2015,Baltimore Ravens,10,413,266,64.41,2791,6.8,50,14,12,123,29.78,36,16,124,83.1,Joe Flacco,8,No
+8,2016,Baltimore Ravens,16,672,436,64.88,4317,6.4,95,20,15,204,30.36,40,33,243,83.5,Joe Flacco,9,No
+9,2017,Baltimore Ravens,16,549,352,64.12,3141,5.7,66,18,13,161,29.33,28,27,205,80.4,Joe Flacco,10,No
+10,2018,Baltimore Ravens,9,379,232,61.21,2465,6.5,71,12,6,122,32.19,29,16,79,84.2,Joe Flacco,11,No
+11,2019,Denver Broncos,8,262,171,65.27,1822,7,70,6,5,86,32.82,24,26,194,85.1,Joe Flacco,12,No
+0,2018,Pittsburgh Steelers,0,,,,,,,,,,,,,,,Mason Rudolph,1,No
+1,2019,Pittsburgh Steelers,10,283,176,62.19,1765,6.2,76,13,9,80,28.27,21,15,124,82,Mason Rudolph,2,No
+0,2013,Houston Texans,8,253,137,54.15,1760,7,66,9,6,76,30.04,26,19,201,78.2,Case Keenum,1,No
+1,2014,Houston Texans,2,77,45,58.44,435,5.7,35,2,2,21,27.27,6,3,15,72.2,Case Keenum,2,No
+2,2015,St. Louis Rams,6,125,76,60.8,828,6.6,60,4,1,41,32.8,7,4,28,87.7,Case Keenum,3,No
+3,2016,Los Angeles Rams,10,322,196,60.87,2201,6.8,65,9,11,102,31.68,31,23,140,76.4,Case Keenum,4,No
+4,2017,Minnesota Vikings,15,481,325,67.57,3547,7.4,65,22,7,179,37.21,45,22,136,98.3,Case Keenum,5,No
+5,2018,Denver Broncos,16,586,365,62.29,3890,6.6,64,18,15,179,30.55,52,34,235,81.2,Case Keenum,6,No
+6,2019,Washington Redskins,10,247,160,64.78,1707,6.9,69,11,5,83,33.6,18,15,145,91.3,Case Keenum,7,No
+0,2014,Minnesota Vikings,13,402,259,64.43,2919,7.3,87,14,12,137,34.08,38,39,249,85.2,Teddy Bridgewater,1,No
+1,2015,Minnesota Vikings,16,447,292,65.32,3231,7.2,52,14,9,153,34.23,41,44,307,88.7,Teddy Bridgewater,2,No
+2,2017,Minnesota Vikings,1,2,0,0,0,0,,0,1,0,0,0,0,0,0,Teddy Bridgewater,3,No
+3,2018,New Orleans Saints,5,23,14,60.87,118,5.1,18,1,1,8,34.78,0,2,8,70.6,Teddy Bridgewater,4,No
+4,2019,New Orleans Saints,9,196,133,67.86,1384,7.1,45,9,2,67,34.18,16,12,89,99.1,Teddy Bridgewater,5,No
+0,2019,Washington Redskins,9,203,119,58.62,1365,6.7,75,7,7,65,32.02,19,29,204,76.1,Dwayne Haskins,1,No
+0,2015,Tennessee Titans,12,370,230,62.16,2818,7.6,61,19,10,142,38.38,40,38,258,91.5,Marcus Mariota,1,No
+1,2016,Tennessee Titans,15,451,276,61.2,3426,7.6,60,26,9,158,35.03,50,23,156,95.6,Marcus Mariota,2,No
+2,2017,Tennessee Titans,15,453,281,62.03,3232,7.1,75,13,15,147,32.45,39,27,173,79.3,Marcus Mariota,3,No
+3,2018,Tennessee Titans,14,331,228,68.88,2528,7.6,61,11,8,121,36.56,31,42,243,92.3,Marcus Mariota,4,No
+4,2019,Tennessee Titans,7,160,95,59.38,1203,7.5,75,7,2,50,31.25,17,25,162,92.3,Marcus Mariota,5,No
+0,2019,Pittsburgh Steelers,8,160,100,62.5,1063,6.6,79,5,8,51,31.87,11,15,102,71.4,Devlin Hodges,1,No
+0,2004,New York Giants,9,197,95,48.22,1043,5.3,52,6,9,50,25.38,11,13,83,55.4,Eli Manning,1,No
+1,2005,New York Giants,16,557,294,52.78,3762,6.8,78,24,17,172,30.88,49,28,184,75.9,Eli Manning,2,No
+2,2006,New York Giants,16,522,301,57.66,3244,6.2,55,24,18,163,31.23,33,25,186,77,Eli Manning,3,No
+3,2007,New York Giants,16,529,297,56.14,3336,6.3,60,23,20,165,31.19,36,27,217,73.9,Eli Manning,4,No
+4,2008,New York Giants,16,479,289,60.33,3238,6.8,48,21,10,169,35.28,32,27,174,86.4,Eli Manning,5,No
+5,2009,New York Giants,16,509,317,62.28,4021,7.9,74,27,14,183,35.95,60,30,216,93.1,Eli Manning,6,No
+6,2010,New York Giants,16,539,339,62.89,4002,7.4,92,31,25,192,35.62,57,16,117,85.3,Eli Manning,7,No
+7,2011,New York Giants,16,589,359,60.95,4933,8.4,99,29,16,216,36.67,67,28,199,92.9,Eli Manning,8,No
+8,2012,New York Giants,16,536,321,59.89,3948,7.4,80,26,15,186,34.7,50,19,136,87.2,Eli Manning,9,No
+9,2013,New York Giants,16,551,317,57.53,3818,6.9,70,18,27,174,31.58,54,39,281,69.4,Eli Manning,10,No
+10,2014,New York Giants,16,601,379,63.06,4410,7.3,80,30,14,216,35.94,52,28,187,92.1,Eli Manning,11,No
+11,2015,New York Giants,16,618,387,62.62,4432,7.2,87,35,14,204,33.01,52,27,157,93.6,Eli Manning,12,No
+12,2016,New York Giants,16,598,377,63.04,4027,6.7,75,26,16,190,31.77,46,21,142,86,Eli Manning,13,No
+13,2017,New York Giants,15,571,352,61.65,3468,6.1,77,19,13,170,29.77,30,31,189,80.4,Eli Manning,14,No
+14,2018,New York Giants,16,576,380,65.97,4299,7.5,58,21,11,206,35.76,57,47,358,92.4,Eli Manning,15,No
+15,2019,New York Giants,4,147,91,61.9,1042,7.1,55,6,5,47,31.97,15,5,44,82.6,Eli Manning,16,No
+0,2019,Detroit Lions,5,174,94,54.02,984,5.7,75,4,6,47,27.01,10,14,104,64,David Blough,1,No
+0,2012,Philadelphia Eagles,7,265,161,60.75,1699,6.4,46,6,5,76,28.68,24,20,131,79.1,Nick Foles,1,No
+1,2013,Philadelphia Eagles,13,317,203,64.04,2891,9.1,63,27,2,129,40.69,52,28,173,119.2,Nick Foles,2,No
+2,2014,Philadelphia Eagles,8,311,186,59.81,2163,7,68,13,10,101,32.48,29,9,74,81.4,Nick Foles,3,No
+3,2015,St. Louis Rams,11,337,190,56.38,2052,6.1,68,7,10,82,24.33,27,14,98,69,Nick Foles,4,No
+4,2016,Kansas City Chiefs,3,55,36,65.45,410,7.5,49,3,0,15,27.27,7,4,34,105.9,Nick Foles,5,No
+5,2017,Philadelphia Eagles,7,101,57,56.44,537,5.3,35,5,2,29,28.71,3,5,44,79.5,Nick Foles,6,No
+6,2018,Philadelphia Eagles,5,195,141,72.31,1413,7.3,83,7,4,60,30.77,14,9,47,96,Nick Foles,7,No
+7,2019,Jacksonville Jaguars,4,117,77,65.81,736,6.3,39,3,2,31,26.5,10,8,60,84.6,Nick Foles,8,No
+0,2016,Cincinnati Bengals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Jeff Driskel,1,No
+1,2018,Cincinnati Bengals,9,176,105,59.66,1003,5.7,37,6,2,50,28.41,15,16,122,82.2,Jeff Driskel,2,No
+2,2019,Detroit Lions,3,105,62,59.05,685,6.5,47,4,4,31,29.52,9,11,46,75.3,Jeff Driskel,3,No
+0,2007,Carolina Panthers,9,111,63,56.76,730,6.6,57,3,5,37,33.33,7,6,40,67,Matt Moore,1,No
+1,2008,Carolina Panthers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matt Moore,2,No
+2,2009,Carolina Panthers,7,138,85,61.59,1053,7.6,66,8,2,52,37.68,14,9,78,98.5,Matt Moore,3,No
+3,2010,Carolina Panthers,6,143,79,55.24,857,6,39,5,10,47,32.87,11,13,90,55.6,Matt Moore,4,No
+4,2011,Miami Dolphins,13,347,210,60.52,2497,7.2,65,16,9,122,35.16,38,36,229,87.1,Matt Moore,5,No
+5,2012,Miami Dolphins,2,19,11,57.89,131,6.9,37,1,0,7,36.84,2,2,9,96.6,Matt Moore,6,No
+6,2013,Miami Dolphins,1,6,2,33.33,53,8.8,50,0,2,1,16.67,1,0,0,27.1,Matt Moore,7,No
+7,2014,Miami Dolphins,2,4,2,50,21,5.3,14,0,0,2,50,0,0,0,65.6,Matt Moore,8,No
+8,2015,Miami Dolphins,1,1,1,100,14,14,14,0,0,1,100,0,0,0,118.8,Matt Moore,9,No
+9,2016,Miami Dolphins,4,87,55,63.22,721,8.3,66,8,3,35,40.23,9,1,0,105.6,Matt Moore,10,No
+10,2017,Miami Dolphins,4,127,78,61.42,861,6.8,61,4,5,38,29.92,11,12,95,75.6,Matt Moore,11,No
+11,2019,Kansas City Chiefs,6,91,59,64.84,659,7.2,57,4,0,35,38.46,9,8,65,100.9,Matt Moore,12,No
+0,2004,Atlanta Falcons,6,70,33,47.14,330,4.7,59,1,4,15,21.43,2,4,14,42,Matt Schaub,1,No
+1,2005,Atlanta Falcons,16,64,33,51.56,495,7.7,53,4,0,23,35.94,6,6,27,98.1,Matt Schaub,2,No
+2,2006,Atlanta Falcons,16,27,18,66.67,208,7.7,47,1,2,10,37.04,3,2,8,71.2,Matt Schaub,3,No
+3,2007,Houston Texans,11,289,192,66.44,2241,7.8,77,9,9,97,33.56,23,16,126,87.2,Matt Schaub,4,No
+4,2008,Houston Texans,11,380,251,66.05,3043,8,65,15,10,146,38.42,42,23,149,92.7,Matt Schaub,5,No
+5,2009,Houston Texans,16,583,396,67.92,4770,8.2,72,29,15,230,39.45,62,25,149,98.6,Matt Schaub,6,No
+6,2010,Houston Texans,16,574,365,63.59,4370,7.6,60,24,12,222,38.68,59,32,226,92,Matt Schaub,7,No
+7,2011,Houston Texans,10,292,178,60.96,2479,8.5,80,15,6,118,40.41,37,16,98,96.8,Matt Schaub,8,No
+8,2012,Houston Texans,16,544,350,64.34,4008,7.4,60,22,12,202,37.13,46,27,216,90.7,Matt Schaub,9,No
+9,2013,Houston Texans,10,358,219,61.17,2310,6.5,46,10,14,115,32.12,26,21,162,73,Matt Schaub,10,No
+10,2014,Oakland Raiders,11,10,5,50,57,5.7,16,0,2,4,40,0,3,24,27.9,Matt Schaub,11,No
+11,2015,Baltimore Ravens,2,80,52,65,540,6.8,48,3,4,28,35,6,3,27,76,Matt Schaub,12,No
+12,2016,Atlanta Falcons,4,3,1,33.33,16,5.3,16,0,0,1,33.33,0,0,0,52.1,Matt Schaub,13,No
+13,2017,Atlanta Falcons,0,,,,,,,,,,,,,,,Matt Schaub,14,No
+14,2018,Atlanta Falcons,3,7,5,71.43,20,2.9,9,0,0,1,14.29,0,0,0,74.1,Matt Schaub,15,No
+15,2019,Atlanta Falcons,6,67,50,74.63,580,8.7,35,3,1,30,44.78,5,2,19,109,Matt Schaub,16,No
+0,2011,Carolina Panthers,16,517,310,59.96,4051,7.8,91,21,17,173,33.46,65,35,260,84.5,Cam Newton,1,No
+1,2012,Carolina Panthers,16,485,280,57.73,3869,8,82,19,12,168,34.64,57,36,244,86.2,Cam Newton,2,No
+2,2013,Carolina Panthers,16,473,292,61.73,3379,7.1,79,24,13,169,35.73,33,43,336,88.8,Cam Newton,3,No
+3,2014,Carolina Panthers,14,448,262,58.48,3127,7,51,18,12,155,34.6,37,38,300,82.1,Cam Newton,4,No
+4,2015,Carolina Panthers,16,495,296,59.8,3837,7.8,74,35,10,195,39.39,52,33,284,99.4,Cam Newton,5,No
+5,2016,Carolina Panthers,15,510,270,52.94,3509,6.9,88,19,14,172,33.73,42,36,277,75.8,Cam Newton,6,No
+6,2017,Carolina Panthers,16,492,291,59.15,3302,6.7,64,22,16,166,33.74,46,35,242,80.7,Cam Newton,7,No
+7,2018,Carolina Panthers,14,471,320,67.94,3395,7.2,82,24,13,180,38.22,44,29,213,94.2,Cam Newton,8,No
+8,2019,Carolina Panthers,2,89,50,56.18,572,6.4,44,0,1,29,32.58,4,6,43,71,Cam Newton,9,No
+0,2018,Arizona Cardinals,14,393,217,55.22,2278,5.8,75,11,14,112,28.5,23,45,320,66.7,Josh Rosen,1,No
+1,2019,Miami Dolphins,6,109,58,53.21,567,5.2,40,1,5,26,23.85,5,16,93,52,Josh Rosen,2,No
+0,2016,Jacksonville Jaguars,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Brandon Allen,1,No
+1,2017,Los Angeles Rams,0,,,,,,,,,,,,,,,Brandon Allen,2,No
+2,2018,Los Angeles Rams,0,,,,,,,,,,,,,,,Brandon Allen,3,No
+3,2019,Denver Broncos,3,84,39,46.43,515,6.1,75,3,2,20,23.81,8,9,59,68.3,Brandon Allen,4,No
+0,2019,Cincinnati Bengals,3,87,41,47.13,474,5.5,47,2,2,20,22.99,6,11,93,62.1,Ryan Finley,1,No
+0,2009,New Orleans Saints,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Chase Daniel,1,No
+1,2010,New Orleans Saints,13,3,2,66.67,16,5.3,9,0,0,0,0,0,1,10,79.9,Chase Daniel,2,No
+2,2011,New Orleans Saints,16,5,4,80,29,5.8,14,0,0,2,40,0,0,0,90.8,Chase Daniel,3,No
+3,2012,New Orleans Saints,16,1,1,100,10,10,10,0,0,1,100,0,0,0,108.3,Chase Daniel,4,No
+4,2013,Kansas City Chiefs,5,38,25,65.79,248,6.5,48,1,1,14,36.84,3,2,11,81.9,Chase Daniel,5,No
+5,2014,Kansas City Chiefs,3,28,16,57.14,157,5.6,30,0,0,8,28.57,3,4,17,73.1,Chase Daniel,6,No
+6,2015,Kansas City Chiefs,2,2,2,100,4,2,6,0,0,1,50,0,0,0,79.2,Chase Daniel,7,No
+7,2016,Philadelphia Eagles,1,1,1,100,16,16,16,0,0,1,100,0,0,0,118.8,Chase Daniel,8,No
+8,2017,New Orleans Saints,1,,,,,,,,,,,,,,,Chase Daniel,9,No
+9,2018,Chicago Bears,5,76,53,69.74,515,6.8,46,3,2,24,31.58,6,9,40,90.6,Chase Daniel,10,No
+10,2019,Chicago Bears,3,64,45,70.31,435,6.8,37,3,2,22,34.38,4,7,48,91.6,Chase Daniel,11,No
+0,2018,Miami Dolphins,0,,,,,,,,,,,,,,,Luke Falk,1,No
+1,2019,New York Jets,3,73,47,64.38,416,5.7,36,0,3,15,20.55,4,16,96,62.4,Luke Falk,2,No
+0,2009,New England Patriots,5,27,19,70.37,142,5.3,17,0,0,8,29.63,0,2,18,82.6,Brian Hoyer,1,No
+1,2010,New England Patriots,5,15,7,46.67,122,8.1,42,1,1,7,46.67,1,0,0,69.3,Brian Hoyer,2,No
+2,2011,New England Patriots,3,1,1,100,22,22,22,0,0,1,100,1,0,0,118.8,Brian Hoyer,3,No
+3,2012,Arizona Cardinals,2,53,30,56.6,330,6.2,53,1,2,13,24.53,4,4,30,65.8,Brian Hoyer,4,No
+4,2013,Cleveland Browns,3,96,57,59.38,615,6.4,47,5,3,33,34.38,6,6,48,82.6,Brian Hoyer,5,No
+5,2014,Cleveland Browns,14,438,242,55.25,3326,7.6,81,12,13,163,37.21,51,24,160,76.5,Brian Hoyer,6,No
+6,2015,Houston Texans,11,369,224,60.7,2606,7.1,49,19,7,130,35.23,32,25,185,91.4,Brian Hoyer,7,No
+7,2016,Chicago Bears,6,200,134,67,1445,7.2,64,6,0,75,37.5,13,4,18,98,Brian Hoyer,8,No
+8,2017,New England Patriots,11,211,123,58.29,1287,6.1,59,4,4,64,30.33,14,16,112,74.5,Brian Hoyer,9,No
+9,2018,New England Patriots,5,2,1,50,7,3.5,7,0,0,0,0,0,0,0,58.3,Brian Hoyer,10,No
+10,2019,Indianapolis Colts,4,65,35,53.85,372,5.7,23,4,4,22,33.85,6,5,47,65.7,Brian Hoyer,11,No
+0,2013,Philadelphia Eagles,3,49,30,61.22,300,6.1,26,0,4,17,34.69,3,3,24,44.6,Matt Barkley,1,No
+1,2014,Philadelphia Eagles,1,1,0,0,0,0,0,0,0,0,0,0,0,0,39.6,Matt Barkley,2,No
+2,2015,Arizona Cardinals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Matt Barkley,3,No
+3,2016,Chicago Bears,7,216,129,59.72,1611,7.5,37,8,14,89,41.2,21,6,43,68.3,Matt Barkley,4,No
+4,2017,Arizona Cardinals,0,,,,,,,,,,,,,,,Matt Barkley,5,No
+5,2018,Buffalo Bills,1,25,15,60,232,9.3,47,2,0,12,48,4,1,8,117.4,Matt Barkley,6,No
+6,2019,Buffalo Bills,2,51,27,52.94,359,7,41,0,3,15,29.41,6,2,10,51,Matt Barkley,7,No
+0,2004,Pittsburgh Steelers,14,295,196,66.44,2621,8.9,58,17,11,130,44.07,43,30,213,98.1,Ben Roethlisberger,1,No
+1,2005,Pittsburgh Steelers,12,268,168,62.69,2385,8.9,85,17,9,111,41.42,35,23,129,98.6,Ben Roethlisberger,2,No
+2,2006,Pittsburgh Steelers,15,469,280,59.7,3513,7.5,67,18,23,178,37.95,42,46,280,75.4,Ben Roethlisberger,3,No
+3,2007,Pittsburgh Steelers,15,404,264,65.35,3154,7.8,83,32,11,168,41.58,39,47,347,104.1,Ben Roethlisberger,4,No
+4,2008,Pittsburgh Steelers,16,469,281,59.91,3301,7,65,17,15,162,34.54,35,46,284,80.1,Ben Roethlisberger,5,No
+5,2009,Pittsburgh Steelers,15,506,337,66.6,4328,8.6,60,26,12,202,39.92,61,50,348,100.5,Ben Roethlisberger,6,No
+6,2010,Pittsburgh Steelers,12,389,240,61.7,3200,8.2,56,17,5,149,38.3,52,32,220,97,Ben Roethlisberger,7,No
+7,2011,Pittsburgh Steelers,15,513,324,63.16,4077,8,95,21,14,210,40.94,56,40,269,90.1,Ben Roethlisberger,8,No
+8,2012,Pittsburgh Steelers,13,449,284,63.25,3265,7.3,82,26,8,167,37.19,39,30,182,97,Ben Roethlisberger,9,No
+9,2013,Pittsburgh Steelers,16,584,375,64.21,4261,7.3,67,28,14,205,35.1,60,42,282,92,Ben Roethlisberger,10,No
+10,2014,Pittsburgh Steelers,16,608,408,67.11,4952,8.1,94,32,9,240,39.47,55,33,172,103.3,Ben Roethlisberger,11,No
+11,2015,Pittsburgh Steelers,12,469,319,68.02,3938,8.4,69,21,16,174,37.1,48,20,141,94.5,Ben Roethlisberger,12,No
+12,2016,Pittsburgh Steelers,14,509,328,64.44,3819,7.5,72,29,13,184,36.15,59,17,141,95.4,Ben Roethlisberger,13,No
+13,2017,Pittsburgh Steelers,15,561,360,64.17,4251,7.6,97,28,14,207,36.9,52,21,139,93.4,Ben Roethlisberger,14,No
+14,2018,Pittsburgh Steelers,16,675,452,66.96,5129,7.6,97,34,16,248,36.74,61,24,166,96.5,Ben Roethlisberger,15,No
+15,2019,Pittsburgh Steelers,2,62,35,56.45,351,5.7,45,0,1,14,22.58,4,2,7,66,Ben Roethlisberger,16,No
+0,2019,Carolina Panthers,2,52,28,53.85,228,4.4,28,0,4,12,23.08,1,6,44,33.2,Will Grier,1,No
+0,2014,Cincinnati Bengals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,AJ McCarron,1,No
+1,2015,Cincinnati Bengals,7,119,79,66.39,854,7.2,66,6,2,44,36.97,11,12,63,97.1,AJ McCarron,2,No
+2,2016,Cincinnati Bengals,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,AJ McCarron,3,No
+3,2017,Cincinnati Bengals,3,14,7,50,66,4.7,27,0,0,3,21.43,1,1,9,63.4,AJ McCarron,4,No
+4,2018,Oakland Raiders,2,3,1,33.33,8,2.7,8,0,0,0,0,0,1,7,42.4,AJ McCarron,5,No
+5,2019,Houston Texans,2,37,21,56.76,225,6.1,21,0,1,11,29.73,4,5,43,63.5,AJ McCarron,6,No
+0,2012,Washington Redskins,15,393,258,65.65,3200,8.1,88,20,5,151,38.42,47,30,217,102.4,Robert Griffin III,1,No
+1,2013,Washington Redskins,13,456,274,60.09,3203,7,62,16,12,157,34.43,32,38,274,82.2,Robert Griffin III,2,No
+2,2014,Washington Redskins,9,214,147,68.69,1694,7.9,69,4,6,67,31.31,18,33,227,86.9,Robert Griffin III,3,No
+3,2015,Washington Redskins,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Robert Griffin III,4,No
+4,2016,Cleveland Browns,5,147,87,59.18,886,6,58,2,3,43,29.25,9,22,138,72.5,Robert Griffin III,5,No
+5,2018,Baltimore Ravens,3,6,2,33.33,21,3.5,14,0,0,1,16.67,0,0,0,44.4,Robert Griffin III,6,No
+6,2019,Baltimore Ravens,7,38,23,60.53,225,5.9,39,1,2,10,26.32,2,5,19,64,Robert Griffin III,7,No
+0,2015,St. Louis Rams,1,7,6,85.71,31,4.4,11,0,0,2,28.57,0,0,0,85.1,Sean Mannion,1,No
+1,2016,Los Angeles Rams,1,6,3,50,19,3.2,9,0,1,1,16.67,0,0,0,17.4,Sean Mannion,2,No
+2,2017,Los Angeles Rams,5,37,22,59.46,185,5,50,0,0,8,21.62,2,3,20,72.5,Sean Mannion,3,No
+3,2018,Los Angeles Rams,3,3,2,66.67,23,7.7,18,0,0,1,33.33,0,0,0,89.6,Sean Mannion,4,No
+4,2019,Minnesota Vikings,3,21,12,57.14,126,6,35,0,2,6,28.57,1,0,0,35.1,Sean Mannion,5,No
+0,2010,Cleveland Browns,8,222,135,60.81,1576,7.1,47,6,9,79,35.59,23,23,132,74.5,Colt McCoy,1,No
+1,2011,Cleveland Browns,13,463,265,57.24,2733,5.9,56,14,11,144,31.1,26,32,173,74.6,Colt McCoy,2,No
+2,2012,Cleveland Browns,3,17,9,52.94,79,4.7,21,1,0,5,29.41,1,4,25,85.2,Colt McCoy,3,No
+3,2013,San Francisco 49ers,4,1,1,100,13,13,13,0,0,1,100,0,0,0,118.8,Colt McCoy,4,No
+4,2014,Washington Redskins,5,128,91,71.09,1057,8.3,70,4,3,44,34.38,12,17,117,96.4,Colt McCoy,5,No
+5,2015,Washington Redskins,2,11,7,63.64,128,11.6,71,1,0,4,36.36,2,1,13,133.9,Colt McCoy,6,No
+6,2016,Washington Redskins,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Colt McCoy,7,No
+7,2017,Washington Redskins,1,,,,,,,,,,,,,,,Colt McCoy,8,No
+8,2018,Washington Redskins,3,54,34,62.96,372,6.9,53,3,3,17,31.48,4,6,36,78.6,Colt McCoy,9,No
+9,2019,Washington Redskins,1,27,18,66.67,122,4.5,22,0,1,5,18.52,1,6,44,61,Colt McCoy,10,No
+0,2013,Tampa Bay Buccaneers,13,416,247,59.38,2608,6.3,85,19,9,126,30.29,28,40,314,83.9,Mike Glennon,1,No
+1,2014,Tampa Bay Buccaneers,6,203,117,57.64,1417,7,41,10,6,64,31.53,23,16,91,83.3,Mike Glennon,2,No
+2,2015,Tampa Bay Buccaneers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Mike Glennon,3,No
+3,2016,Tampa Bay Buccaneers,2,11,10,90.91,75,6.8,13,1,0,6,54.55,0,0,0,125.4,Mike Glennon,4,No
+4,2017,Chicago Bears,4,140,93,66.43,833,6,29,4,5,42,30,4,8,78,76.9,Mike Glennon,5,No
+5,2018,Arizona Cardinals,2,21,15,71.43,174,8.3,26,1,0,8,38.1,1,1,8,112,Mike Glennon,6,No
+6,2019,Oakland Raiders,2,10,6,60,56,5.6,19,1,0,3,30,0,0,0,108.8,Mike Glennon,7,No
+0,2015,Green Bay Packers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Brett Hundley,1,No
+1,2016,Green Bay Packers,4,10,2,20,17,1.7,9,0,1,0,0,0,0,0,0,Brett Hundley,2,No
+2,2017,Green Bay Packers,11,316,192,60.76,1836,5.8,55,9,12,89,28.16,17,29,197,70.6,Brett Hundley,3,No
+3,2018,Seattle Seahawks,0,,,,,,,,,,,,,,,Brett Hundley,4,No
+4,2019,Arizona Cardinals,3,11,5,45.45,49,4.5,28,0,0,2,18.18,1,2,11,58.5,Brett Hundley,5,No
+0,2011,Baltimore Ravens,3,1,1,100,18,18,18,0,0,1,100,0,2,3,118.8,Tyrod Taylor,1,No
+1,2012,Baltimore Ravens,7,29,17,58.62,179,6.2,25,0,1,8,27.59,2,3,30,62.3,Tyrod Taylor,2,No
+2,2013,Baltimore Ravens,3,5,1,20,2,0.4,2,0,1,0,0,0,0,0,0,Tyrod Taylor,3,No
+3,2014,Baltimore Ravens,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,Tyrod Taylor,4,No
+4,2015,Buffalo Bills,14,380,242,63.68,3035,8,63,20,6,129,33.95,45,36,212,99.4,Tyrod Taylor,5,No
+5,2016,Buffalo Bills,15,436,269,61.7,3023,6.9,84,17,6,147,33.72,33,42,192,89.7,Tyrod Taylor,6,No
+6,2017,Buffalo Bills,15,420,263,62.62,2799,6.7,47,14,4,134,31.9,36,46,256,89.2,Tyrod Taylor,7,No
+7,2018,Cleveland Browns,4,85,42,49.41,473,5.6,47,2,2,17,20,7,13,81,64.5,Tyrod Taylor,8,No
+8,2019,Los Angeles Chargers,8,6,4,66.67,33,5.5,14,1,0,3,50,0,0,0,120.1,Tyrod Taylor,9,No
+0,2017,New Orleans Saints,5,,,,,,,,,,,,,,,Taysom Hill,1,No
+1,2018,New Orleans Saints,16,7,3,42.86,64,9.1,44,0,1,3,42.86,1,1,3,36.3,Taysom Hill,2,No
+2,2019,New Orleans Saints,16,6,3,50,55,9.2,20,0,0,3,50,1,1,9,81.9,Taysom Hill,3,No
+0,2002,Arizona Cardinals,2,18,7,38.89,66,3.7,26,0,2,3,16.67,1,5,50,10.2,Josh McCown,1,No
+1,2003,Arizona Cardinals,8,166,95,57.23,1018,6.1,60,5,6,51,30.72,11,25,174,70.3,Josh McCown,2,No
+2,2004,Arizona Cardinals,14,408,233,57.11,2511,6.2,48,11,10,122,29.9,30,31,263,74.1,Josh McCown,3,No
+3,2005,Arizona Cardinals,9,270,163,60.37,1836,6.8,49,9,11,84,31.11,23,18,101,74.9,Josh McCown,4,No
+4,2006,Detroit Lions,2,0,0,0,0,0,0,0,0,0,0,0,0,0,,Josh McCown,5,No
+5,2007,Oakland Raiders,9,190,111,58.42,1151,6.1,46,10,11,54,28.42,12,14,92,69.4,Josh McCown,6,No
+6,2008,Carolina Panthers,2,0,0,0,0,0,0,0,0,0,0,0,0,0,,Josh McCown,7,No
+7,2009,Carolina Panthers,1,6,1,16.67,2,0.3,2,0,0,0,0,0,1,6,39.6,Josh McCown,8,No
+8,2011,Chicago Bears,3,55,35,63.64,414,7.5,49,2,4,18,32.73,5,7,43,68.3,Josh McCown,9,No
+9,2012,Chicago Bears,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Josh McCown,10,No
+10,2013,Chicago Bears,8,224,149,66.52,1829,8.2,80,13,1,90,40.18,21,11,37,109,Josh McCown,11,No
+11,2014,Tampa Bay Buccaneers,11,327,184,56.27,2206,6.8,56,11,14,98,29.97,28,36,235,70.5,Josh McCown,12,No
+12,2015,Cleveland Browns,8,292,186,63.7,2109,7.2,56,12,4,96,32.88,24,23,137,93.3,Josh McCown,13,No
+13,2016,Cleveland Browns,5,165,90,54.55,1100,6.7,54,6,6,56,33.94,14,18,126,72.3,Josh McCown,14,No
+14,2017,New York Jets,13,397,267,67.25,2926,7.4,69,18,9,133,33.5,40,39,264,94.5,Josh McCown,15,No
+15,2018,New York Jets,4,110,60,54.55,539,4.9,41,1,4,27,24.55,4,7,35,55.8,Josh McCown,16,No
+16,2019,Philadelphia Eagles,3,5,3,60,24,4.8,13,0,0,2,40,0,0,0,72.1,Josh McCown,17,No
+0,2013,New Orleans Saints,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ryan Griffin,1,No
+1,2014,New Orleans Saints,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ryan Griffin,2,No
+2,2015,Tampa Bay Buccaneers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ryan Griffin,3,No
+3,2016,Tampa Bay Buccaneers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ryan Griffin,4,No
+4,2017,Tampa Bay Buccaneers,0,,,,,,,,,,,,,,,Ryan Griffin,5,No
+5,2018,Tampa Bay Buccaneers,0,,,,,,,,,,,,,,,Ryan Griffin,6,No
+6,2019,Tampa Bay Buccaneers,2,4,2,50,18,4.5,13,0,0,1,25,0,0,0,62.5,Ryan Griffin,7,No
+0,2018,Green Bay Packers,0,,,,,,,,,,,,,,,Tim Boyle,1,No
+1,2019,Green Bay Packers,3,4,3,75,15,3.8,7,0,0,1,25,0,0,0,80.2,Tim Boyle,2,No
+0,2019,New England Patriots,3,4,2,50,14,3.5,11,0,1,1,25,0,1,7,18.8,Jarrett Stidham,1,No
+0,2015,Denver Broncos,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,Trevor Siemian,1,No
+1,2016,Denver Broncos,14,486,289,59.47,3401,7,76,18,10,155,31.89,37,31,187,84.6,Trevor Siemian,2,No
+2,2017,Denver Broncos,11,349,206,59.03,2285,6.6,44,12,14,112,32.09,37,33,220,73.3,Trevor Siemian,3,No
+3,2018,Minnesota Vikings,0,,,,,,,,,,,,,,,Trevor Siemian,4,No
+4,2019,New York Jets,1,6,3,50,3,0.5,3,0,0,0,0,0,2,17,56.3,Trevor Siemian,5,No
+0,2014,Jacksonville Jaguars,14,475,280,58.95,2908,6.1,63,11,17,132,27.79,37,55,345,69.5,Blake Bortles,1,No
+1,2015,Jacksonville Jaguars,16,606,355,58.58,4428,7.3,90,35,18,215,35.48,72,51,320,88.2,Blake Bortles,2,No
+2,2016,Jacksonville Jaguars,16,625,368,58.88,3905,6.3,51,23,16,206,32.96,43,34,197,78.8,Blake Bortles,3,No
+3,2017,Jacksonville Jaguars,16,523,315,60.23,3687,7.1,75,21,13,192,36.71,41,24,123,84.7,Blake Bortles,4,No
+4,2018,Jacksonville Jaguars,13,403,243,60.3,2718,6.7,80,13,11,128,31.76,36,31,173,79.8,Blake Bortles,5,No
+5,2019,Los Angeles Rams,3,2,1,50,3,1.5,3,0,0,0,0,0,0,0,56.3,Blake Bortles,6,No
+0,2013,Cleveland Browns,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Alex Tanney,1,No
+1,2015,Tennessee Titans,1,14,10,71.43,99,7.1,29,1,0,7,50,1,3,34,114.9,Alex Tanney,2,No
+2,2016,Tennessee Titans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Alex Tanney,3,No
+3,2018,New York Giants,0,,,,,,,,,,,,,,,Alex Tanney,4,No
+4,2019,New York Giants,1,1,1,100,1,1,1,0,0,0,0,0,0,0,79.2,Alex Tanney,5,No
+0,1999,Green Bay Packers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Aaron Brooks,1,Yes
+1,2000,New Orleans Saints,8,194,113,58.25,1514,7.8,53,9,6,66,34.02,20,15,94,85.7,Aaron Brooks,2,Yes
+2,2001,New Orleans Saints,16,558,312,55.91,3832,6.9,63,26,22,183,32.8,55,50,330,76.4,Aaron Brooks,3,Yes
+3,2002,New Orleans Saints,16,528,283,53.6,3572,6.8,64,27,15,165,31.25,47,36,236,80.1,Aaron Brooks,4,Yes
+4,2003,New Orleans Saints,16,518,306,59.07,3546,6.9,76,24,8,172,33.2,36,34,195,88.8,Aaron Brooks,5,Yes
+5,2004,New Orleans Saints,16,542,309,57.01,3810,7,57,21,16,177,32.66,57,41,223,79.5,Aaron Brooks,6,Yes
+6,2005,New Orleans Saints,13,431,240,55.68,2882,6.7,66,13,17,145,33.64,38,33,202,70,Aaron Brooks,7,Yes
+7,2006,Oakland Raiders,8,192,110,57.29,1105,5.8,57,3,8,60,31.25,9,26,174,61.7,Aaron Brooks,8,Yes
+0,1952,Green Bay Packers,12,177,77,43.5,1416,8,0,13,17,0,0,0,0,127,56.6,Babe Parilli,1,Yes
+1,1953,Green Bay Packers,12,166,74,44.6,830,5,0,4,19,0,0,0,0,161,28.5,Babe Parilli,2,Yes
+2,1956,Cleveland Browns,5,49,24,49,409,8.3,0,3,7,0,0,0,0,63,58.5,Babe Parilli,3,Yes
+3,1957,Green Bay Packers,12,102,39,38.2,669,6.6,0,4,12,0,0,0,0,125,34.8,Babe Parilli,4,Yes
+4,1958,Green Bay Packers,12,157,68,43.3,1068,6.8,0,10,13,0,0,0,0,89,53.3,Babe Parilli,5,Yes
+5,1960,Oakland Raiders,14,187,87,46.5,1003,5.4,0,5,11,0,0,0,0,0,47.6,Babe Parilli,6,Yes
+6,1961,Boston Patriots,14,198,104,52.5,1314,6.6,0,13,9,0,0,0,0,0,76.5,Babe Parilli,7,Yes
+7,1962,Boston Patriots,10,253,140,55.3,1988,7.9,0,18,8,0,0,0,0,0,91.5,Babe Parilli,8,Yes
+8,1963,Boston Patriots,14,337,153,45.4,2345,7,0,13,24,0,0,0,0,0,52.1,Babe Parilli,9,Yes
+9,1964,Boston Patriots,14,473,228,48.2,3465,7.3,0,31,27,0,0,0,0,0,70.8,Babe Parilli,10,Yes
+10,1965,Boston Patriots,14,426,173,40.6,2597,6.1,0,18,26,0,0,0,0,0,50,Babe Parilli,11,Yes
+11,1966,Boston Patriots,14,382,181,47.4,2721,7.1,0,20,20,0,0,0,0,0,66.9,Babe Parilli,12,Yes
+12,1967,Boston Patriots,14,344,161,46.8,2317,6.7,0,19,24,0,0,0,29,250,58.5,Babe Parilli,13,Yes
+13,1968,New York Jets,14,55,29,52.7,401,7.3,0,5,2,0,0,0,3,23,91.6,Babe Parilli,14,Yes
+14,1969,New York Jets,14,24,14,58.3,138,5.8,0,2,1,0,0,0,0,0,85.1,Babe Parilli,15,Yes
+0,1960,Dallas Cowboys,6,68,29,42.6,281,4.1,0,2,5,0,0,0,0,39,34,Don Meredith,1,Yes
+1,1961,Dallas Cowboys,8,182,94,51.6,1161,6.4,0,9,11,0,0,0,0,154,63,Don Meredith,2,Yes
+2,1962,Dallas Cowboys,13,212,105,49.5,1679,7.9,0,15,8,0,0,0,0,145,84.2,Don Meredith,3,Yes
+3,1963,Dallas Cowboys,14,310,167,53.9,2381,7.7,0,17,18,0,0,0,34,258,73.1,Don Meredith,4,Yes
+4,1964,Dallas Cowboys,12,323,158,48.9,2143,6.6,0,9,16,0,0,0,58,416,59.1,Don Meredith,5,Yes
+5,1965,Dallas Cowboys,14,305,141,46.2,2415,7.9,0,22,13,0,0,0,38,257,79.9,Don Meredith,6,Yes
+6,1966,Dallas Cowboys,13,344,177,51.5,2805,8.2,0,24,12,0,0,0,37,261,87.7,Don Meredith,7,Yes
+7,1967,Dallas Cowboys,11,255,128,50.2,1834,7.2,0,16,16,0,0,0,21,143,68.7,Don Meredith,8,Yes
+8,1968,Dallas Cowboys,13,309,171,55.3,2500,8.1,0,21,12,0,0,0,30,230,88.4,Don Meredith,9,Yes
+0,2000,New York Jets,1,5,2,40,67,13.4,62,1,0,2,40,1,1,4,127.1,Chad Pennington,1,Yes
+1,2001,New York Jets,2,20,10,50,92,4.6,24,1,0,5,25,1,1,8,79.6,Chad Pennington,2,Yes
+2,2002,New York Jets,15,399,275,68.92,3120,7.8,47,22,6,167,41.85,40,22,135,104.2,Chad Pennington,3,Yes
+3,2003,New York Jets,10,297,189,63.64,2139,7.2,65,13,12,116,39.06,26,25,160,82.9,Chad Pennington,4,Yes
+4,2004,New York Jets,13,370,242,65.41,2673,7.2,48,16,9,136,36.76,33,18,103,91,Chad Pennington,5,Yes
+5,2005,New York Jets,3,83,49,59.04,530,6.4,37,2,3,30,36.14,7,9,52,70.9,Chad Pennington,6,Yes
+6,2006,New York Jets,16,485,313,64.54,3352,6.9,71,17,16,161,33.2,38,30,172,82.6,Chad Pennington,7,Yes
+7,2007,New York Jets,9,260,179,68.85,1765,6.8,57,10,9,90,34.62,19,26,178,86.1,Chad Pennington,8,Yes
+8,2008,Miami Dolphins,16,476,321,67.44,3653,7.7,80,19,7,180,37.82,38,24,121,97.4,Chad Pennington,9,Yes
+9,2009,Miami Dolphins,3,74,51,68.92,413,5.6,21,1,2,27,36.49,3,6,32,76,Chad Pennington,10,Yes
+10,2010,Miami Dolphins,1,2,1,50,19,9.5,19,0,0,1,50,0,0,0,83.3,Chad Pennington,11,Yes
+0,1984,New York Giants,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Jeff Hostetler,1,Yes
+1,1985,New York Giants,5,0,0,0,0,0,0,0,0,0,0,0,0,0,,Jeff Hostetler,2,Yes
+2,1986,New York Giants,13,0,0,0,0,0,0,0,0,0,0,0,0,0,,Jeff Hostetler,3,Yes
+3,1987,New York Giants,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Jeff Hostetler,4,Yes
+4,1988,New York Giants,16,29,16,55.17,244,8.4,85,1,2,0,0,0,5,31,65.9,Jeff Hostetler,5,Yes
+5,1989,New York Giants,16,39,20,51.28,294,7.5,35,3,2,0,0,0,6,37,80.5,Jeff Hostetler,6,Yes
+6,1990,New York Giants,16,87,47,54.02,614,7.1,44,3,1,0,0,0,9,38,83.2,Jeff Hostetler,7,Yes
+7,1991,New York Giants,12,285,179,62.81,2032,7.1,55,5,4,95,33.33,25,20,100,84.1,Jeff Hostetler,8,Yes
+8,1992,New York Giants,13,192,103,53.65,1225,6.4,46,8,3,57,29.69,20,24,149,80.8,Jeff Hostetler,9,Yes
+9,1993,Los Angeles Raiders,15,419,236,56.32,3242,7.7,74,14,10,142,33.89,37,38,206,82.5,Jeff Hostetler,10,Yes
+10,1994,Los Angeles Raiders,16,455,263,57.8,3334,7.3,77,20,16,149,32.75,42,41,232,80.8,Jeff Hostetler,11,Yes
+11,1995,Oakland Raiders,11,286,172,60.14,1998,7,80,12,9,109,38.11,19,22,133,82.2,Jeff Hostetler,12,Yes
+12,1996,Oakland Raiders,13,402,242,60.2,2548,6.3,62,23,14,131,32.59,26,32,181,83.2,Jeff Hostetler,13,Yes
+13,1997,Washington Redskins,6,144,79,54.86,899,6.2,69,5,10,50,34.72,8,10,52,56.5,Jeff Hostetler,14,Yes
+14,1998,Washington Redskins,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Jeff Hostetler,15,Yes
+0,1998,New Orleans Saints,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Jake Delhomme,1,Yes
+1,1999,New Orleans Saints,2,76,42,55.26,521,6.9,51,3,5,24,31.58,5,6,42,62.4,Jake Delhomme,2,Yes
+2,2000,New Orleans Saints,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Jake Delhomme,3,Yes
+3,2001,New Orleans Saints,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Jake Delhomme,4,Yes
+4,2002,New Orleans Saints,4,10,8,80,113,11.3,54,0,0,4,40,1,0,0,113.8,Jake Delhomme,5,Yes
+5,2003,Carolina Panthers,16,449,266,59.24,3219,7.2,67,19,16,146,32.52,46,23,168,80.6,Jake Delhomme,6,Yes
+6,2004,Carolina Panthers,16,533,310,58.16,3886,7.3,63,29,15,192,36.02,60,33,246,87.3,Jake Delhomme,7,Yes
+7,2005,Carolina Panthers,16,435,262,60.23,3421,7.9,80,24,16,153,35.17,44,28,214,88.1,Jake Delhomme,8,Yes
+8,2006,Carolina Panthers,13,431,263,61.02,2805,6.5,72,17,11,128,29.7,30,22,167,82.6,Jake Delhomme,9,Yes
+9,2007,Carolina Panthers,3,86,55,63.95,624,7.3,74,8,1,27,31.4,5,5,46,111.8,Jake Delhomme,10,Yes
+10,2008,Carolina Panthers,16,414,246,59.42,3288,7.9,65,15,12,152,36.71,45,20,130,84.7,Jake Delhomme,11,Yes
+11,2009,Carolina Panthers,11,321,178,55.45,2015,6.3,52,8,18,100,31.15,25,23,187,59.4,Jake Delhomme,12,Yes
+12,2010,Cleveland Browns,5,149,93,62.42,872,5.9,49,2,7,36,24.16,11,6,49,63.4,Jake Delhomme,13,Yes
+13,2011,Houston Texans,1,28,18,64.29,211,7.5,40,1,0,9,32.14,5,2,18,99,Jake Delhomme,14,Yes
+0,1982,Chicago Bears,8,210,120,57.14,1501,7.2,50,9,7,0,0,0,27,196,79.9,Jim McMahon,1,Yes
+1,1983,Chicago Bears,14,295,175,59.32,2184,7.4,87,12,13,0,0,0,42,266,77.6,Jim McMahon,2,Yes
+2,1984,Chicago Bears,9,143,85,59.44,1146,8,61,8,2,0,0,0,10,48,97.8,Jim McMahon,3,Yes
+3,1985,Chicago Bears,13,313,178,56.87,2392,7.6,70,15,11,0,0,0,26,125,82.6,Jim McMahon,4,Yes
+4,1986,Chicago Bears,6,150,77,51.33,995,6.6,58,5,8,0,0,0,6,40,61.4,Jim McMahon,5,Yes
+5,1987,Chicago Bears,7,210,125,59.52,1639,7.8,59,12,8,0,0,0,22,136,87.4,Jim McMahon,6,Yes
+6,1988,Chicago Bears,9,192,114,59.38,1346,7,63,6,7,0,0,0,13,79,76,Jim McMahon,7,Yes
+7,1989,San Diego Chargers,12,318,176,55.35,2132,6.7,69,10,10,0,0,0,28,167,73.5,Jim McMahon,8,Yes
+8,1990,Philadelphia Eagles,5,9,6,66.67,63,7,21,0,0,0,0,0,1,7,86.8,Jim McMahon,9,Yes
+9,1991,Philadelphia Eagles,12,311,187,60.13,2239,7.2,75,12,11,97,31.19,28,21,128,80.3,Jim McMahon,10,Yes
+10,1992,Philadelphia Eagles,4,43,22,51.16,279,6.5,42,1,2,11,25.58,4,4,25,60.1,Jim McMahon,11,Yes
+11,1993,Minnesota Vikings,12,331,200,60.42,1968,6,58,9,8,111,33.53,20,23,104,76.2,Jim McMahon,12,Yes
+12,1994,Arizona Cardinals,2,43,23,53.49,219,5.1,33,1,3,12,27.91,3,3,23,46.6,Jim McMahon,13,Yes
+13,1995,Green Bay Packers,1,1,1,100,6,6,6,0,0,0,0,0,0,0,91.7,Jim McMahon,14,Yes
+14,1996,Green Bay Packers,5,4,3,75,39,9.8,24,0,0,3,75,1,0,0,105.2,Jim McMahon,15,Yes
+0,1988,Los Angeles Raiders,10,238,105,44.12,1643,6.9,57,8,7,0,0,0,26,215,66.6,Steve Beuerlein,1,Yes
+1,1989,Los Angeles Raiders,10,217,108,49.77,1677,7.7,67,13,9,0,0,0,22,175,78.4,Steve Beuerlein,2,Yes
+2,1991,Dallas Cowboys,8,137,68,49.64,909,6.6,66,5,2,43,31.39,11,6,49,77.2,Steve Beuerlein,3,Yes
+3,1992,Dallas Cowboys,16,18,12,66.67,152,8.4,27,0,1,7,38.89,2,0,0,69.7,Steve Beuerlein,4,Yes
+4,1993,Phoenix Cardinals,16,418,258,61.72,3164,7.6,65,18,17,149,35.65,39,29,206,82.5,Steve Beuerlein,5,Yes
+5,1994,Arizona Cardinals,9,255,130,50.98,1545,6.1,63,5,9,82,32.16,13,20,129,61.6,Steve Beuerlein,6,Yes
+6,1995,Jacksonville Jaguars,7,142,71,50,952,6.7,71,4,7,47,33.1,12,17,103,60.5,Steve Beuerlein,7,Yes
+7,1996,Carolina Panthers,8,123,69,56.1,879,7.2,40,8,2,44,35.77,12,18,136,93.5,Steve Beuerlein,8,Yes
+8,1997,Carolina Panthers,7,153,89,58.17,1032,6.8,52,6,3,52,33.99,13,17,111,83.6,Steve Beuerlein,9,Yes
+9,1998,Carolina Panthers,12,343,216,62.97,2613,7.6,68,17,12,124,36.15,31,44,251,88.2,Steve Beuerlein,10,Yes
+10,1999,Carolina Panthers,16,571,343,60.07,4436,7.8,88,36,15,208,36.43,61,50,280,94.6,Steve Beuerlein,11,Yes
+11,2000,Carolina Panthers,16,533,324,60.79,3730,7,54,19,18,195,36.59,47,62,331,79.7,Steve Beuerlein,12,Yes
+12,2001,Denver Broncos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Steve Beuerlein,13,Yes
+13,2002,Denver Broncos,8,117,68,58.12,925,7.9,52,6,5,43,36.75,13,12,78,82.7,Steve Beuerlein,14,Yes
+14,2003,Denver Broncos,4,63,33,52.38,389,6.2,38,2,5,18,28.57,5,9,60,49,Steve Beuerlein,15,Yes
+0,1961,St. Louis Cardinals,4,13,5,38.5,51,3.9,0,0,2,0,0,0,0,10,10.9,Charley Johnson,1,Yes
+1,1962,St. Louis Cardinals,11,308,150,48.7,2440,7.9,0,16,20,0,0,0,0,184,65.9,Charley Johnson,2,Yes
+2,1963,St. Louis Cardinals,14,423,222,52.5,3280,7.8,0,28,21,0,0,0,40,372,79.5,Charley Johnson,3,Yes
+3,1964,St. Louis Cardinals,14,420,223,53.1,3045,7.3,0,21,24,0,0,0,37,298,69.4,Charley Johnson,4,Yes
+4,1965,St. Louis Cardinals,11,322,155,48.1,2439,7.6,0,18,15,0,0,0,20,184,73,Charley Johnson,5,Yes
+5,1966,St. Louis Cardinals,9,205,103,50.2,1334,6.5,0,10,11,0,0,0,18,170,65,Charley Johnson,6,Yes
+6,1967,St. Louis Cardinals,5,29,12,41.4,162,5.6,0,1,3,0,0,0,2,10,31.8,Charley Johnson,7,Yes
+7,1968,St. Louis Cardinals,7,67,29,43.3,330,4.9,0,1,1,0,0,0,7,64,57.4,Charley Johnson,8,Yes
+8,1969,St. Louis Cardinals,12,260,131,50.4,1847,7.1,0,13,13,0,0,0,11,101,69.5,Charley Johnson,9,Yes
+9,1970,Houston Oilers,10,281,144,51.25,1652,5.9,0,7,12,0,0,0,15,124,59.8,Charley Johnson,10,Yes
+10,1971,Houston Oilers,14,94,46,48.94,592,6.3,0,3,7,0,0,0,8,61,48.7,Charley Johnson,11,Yes
+11,1972,Denver Broncos,12,238,132,55.46,1783,7.5,0,14,14,0,0,0,12,82,74.6,Charley Johnson,12,Yes
+12,1973,Denver Broncos,14,346,184,53.18,2465,7.1,0,20,17,0,0,0,26,177,74.9,Charley Johnson,13,Yes
+13,1974,Denver Broncos,14,244,136,55.74,1969,8.1,0,13,9,0,0,0,36,270,84.5,Charley Johnson,14,Yes
+14,1975,Denver Broncos,14,142,65,45.77,1021,7.2,90,5,12,0,0,0,10,79,46.7,Charley Johnson,15,Yes
+0,1986,Chicago Bears,4,46,23,50,361,7.9,58,3,2,0,0,0,6,30,80.1,Doug Flutie,1,Yes
+1,1987,New England Patriots,2,25,15,60,199,8,30,1,0,0,0,0,1,3,98.6,Doug Flutie,2,Yes
+2,1988,New England Patriots,11,179,92,51.4,1150,6.4,80,8,10,0,0,0,11,65,63.3,Doug Flutie,3,Yes
+3,1989,New England Patriots,5,91,36,39.56,493,5.4,36,2,4,0,0,0,6,52,46.6,Doug Flutie,4,Yes
+4,1998,Buffalo Bills,13,354,202,57.06,2711,7.7,84,20,11,136,38.42,36,12,78,87.4,Doug Flutie,5,Yes
+5,1999,Buffalo Bills,15,478,264,55.23,3171,6.6,54,19,16,156,32.64,40,26,176,75.1,Doug Flutie,6,Yes
+6,2000,Buffalo Bills,11,231,132,57.14,1700,7.4,52,8,3,70,30.3,29,10,68,86.5,Doug Flutie,7,Yes
+7,2001,San Diego Chargers,16,521,294,56.43,3464,6.7,78,15,18,166,31.86,43,25,168,72,Doug Flutie,8,Yes
+8,2002,San Diego Chargers,1,11,3,27.27,64,5.8,47,0,0,2,18.18,1,0,0,51.3,Doug Flutie,9,Yes
+9,2003,San Diego Chargers,7,167,91,54.49,1097,6.6,73,9,4,50,29.94,16,8,27,82.8,Doug Flutie,10,Yes
+10,2004,San Diego Chargers,2,38,20,52.63,276,7.3,29,1,0,15,39.47,4,1,7,85,Doug Flutie,11,Yes
+11,2005,New England Patriots,5,10,5,50,29,2.9,13,0,0,3,30,0,1,13,56.3,Doug Flutie,12,Yes
+0,2003,Cincinnati Bengals,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Carson Palmer,1,Yes
+1,2004,Cincinnati Bengals,13,432,263,60.88,2897,6.7,76,18,18,140,32.41,34,25,178,77.3,Carson Palmer,2,Yes
+2,2005,Cincinnati Bengals,16,509,345,67.78,3836,7.5,70,32,12,197,38.7,43,19,105,101.1,Carson Palmer,3,Yes
+3,2006,Cincinnati Bengals,16,520,324,62.31,4035,7.8,74,28,13,199,38.27,52,36,233,93.9,Carson Palmer,4,Yes
+4,2007,Cincinnati Bengals,16,575,373,64.87,4131,7.2,70,26,20,213,37.04,51,17,119,86.7,Carson Palmer,5,Yes
+5,2008,Cincinnati Bengals,4,129,75,58.14,731,5.7,36,3,4,41,31.78,7,11,67,69,Carson Palmer,6,Yes
+6,2009,Cincinnati Bengals,16,466,282,60.52,3094,6.6,73,21,13,158,33.91,36,26,213,83.6,Carson Palmer,7,Yes
+7,2010,Cincinnati Bengals,16,586,362,61.77,3970,6.8,78,26,20,205,34.98,45,26,201,82.4,Carson Palmer,8,Yes
+8,2011,Oakland Raiders,10,328,199,60.67,2753,8.4,78,13,16,122,37.2,43,17,119,80.5,Carson Palmer,9,Yes
+9,2012,Oakland Raiders,15,565,345,61.06,4018,7.1,64,22,14,184,32.57,49,26,199,85.3,Carson Palmer,10,Yes
+10,2013,Arizona Cardinals,16,572,362,63.29,4274,7.5,91,24,22,204,35.66,49,41,289,83.9,Carson Palmer,11,Yes
+11,2014,Arizona Cardinals,6,224,141,62.95,1626,7.3,80,11,3,82,36.61,19,9,59,95.6,Carson Palmer,12,Yes
+12,2015,Arizona Cardinals,16,537,342,63.69,4671,8.7,68,35,11,231,43.02,65,25,151,104.6,Carson Palmer,13,Yes
+13,2016,Arizona Cardinals,15,597,364,60.97,4233,7.1,80,26,14,218,36.52,48,40,281,87.2,Carson Palmer,14,Yes
+14,2017,Arizona Cardinals,7,267,164,61.42,1978,7.4,46,9,7,94,35.21,28,22,150,84.4,Carson Palmer,15,Yes
+0,2001,St. Louis Rams,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Marc Bulger,1,Yes
+1,2002,St. Louis Rams,7,214,138,64.49,1826,8.5,58,14,6,86,40.19,26,12,102,101.5,Marc Bulger,2,Yes
+2,2003,St. Louis Rams,15,532,336,63.16,3845,7.2,48,22,22,193,36.28,59,37,288,81.4,Marc Bulger,3,Yes
+3,2004,St. Louis Rams,14,485,321,66.19,3964,8.2,56,21,14,180,37.11,56,41,302,93.7,Marc Bulger,4,Yes
+4,2005,St. Louis Rams,8,287,192,66.9,2297,8,57,14,9,109,37.98,25,26,188,94.4,Marc Bulger,5,Yes
+5,2006,St. Louis Rams,16,588,370,62.93,4301,7.3,67,24,8,211,35.88,60,49,366,92.9,Marc Bulger,6,Yes
+6,2007,St. Louis Rams,12,378,221,58.47,2392,6.3,40,11,15,129,34.13,29,37,269,70.3,Marc Bulger,7,Yes
+7,2008,St. Louis Rams,15,440,251,57.05,2720,6.2,80,11,13,121,27.5,33,38,263,71.4,Marc Bulger,8,Yes
+8,2009,St. Louis Rams,9,247,140,56.68,1469,6,50,5,6,78,31.58,16,14,85,70.7,Marc Bulger,9,Yes
+9,2010,Baltimore Ravens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Marc Bulger,10,Yes
+0,1995,Carolina Panthers,15,433,214,49.42,2717,6.3,89,14,19,130,30.02,35,24,150,61.9,Kerry Collins,1,Yes
+1,1996,Carolina Panthers,13,364,204,56.04,2454,6.7,55,14,9,116,31.87,29,18,114,79.4,Kerry Collins,2,Yes
+2,1997,Carolina Panthers,13,381,200,52.49,2124,5.6,59,11,21,118,30.97,23,27,200,55.7,Kerry Collins,3,Yes
+3,1998,New Orleans Saints,11,353,170,48.16,2213,6.3,89,12,15,104,29.46,26,31,191,62,Kerry Collins,4,Yes
+4,1999,New York Giants,10,331,190,57.4,2318,7,80,8,11,116,35.05,25,16,112,73.3,Kerry Collins,5,Yes
+5,2000,New York Giants,16,529,311,58.79,3610,6.8,59,22,13,195,36.86,46,28,243,83.1,Kerry Collins,6,Yes
+6,2001,New York Giants,16,568,327,57.57,3764,6.6,76,19,16,189,33.27,52,36,206,77.1,Kerry Collins,7,Yes
+7,2002,New York Giants,16,545,335,61.47,4073,7.5,82,19,14,193,35.41,61,24,152,85.4,Kerry Collins,8,Yes
+8,2003,New York Giants,13,500,284,56.8,3110,6.2,77,13,16,159,31.8,29,28,164,70.7,Kerry Collins,9,Yes
+9,2004,Oakland Raiders,14,513,289,56.34,3495,6.8,63,21,20,153,29.82,49,25,144,74.8,Kerry Collins,10,Yes
+10,2005,Oakland Raiders,15,565,302,53.45,3759,6.7,79,20,12,181,32.04,49,39,261,77.3,Kerry Collins,11,Yes
+11,2006,Tennessee Titans,4,90,42,46.67,549,6.1,36,1,6,26,28.89,9,4,23,42.3,Kerry Collins,12,Yes
+12,2007,Tennessee Titans,6,82,50,60.98,531,6.5,46,0,0,30,36.59,4,5,42,79.9,Kerry Collins,13,Yes
+13,2008,Tennessee Titans,16,415,242,58.31,2676,6.5,56,12,7,133,32.05,33,8,60,80.2,Kerry Collins,14,Yes
+14,2009,Tennessee Titans,7,216,119,55.09,1225,5.7,69,6,8,63,29.17,11,6,37,65.5,Kerry Collins,15,Yes
+15,2010,Tennessee Titans,10,278,160,57.55,1823,6.6,80,14,8,90,32.37,23,13,91,82.2,Kerry Collins,16,Yes
+16,2011,Indianapolis Colts,3,98,48,48.98,481,4.9,36,2,1,29,29.59,5,5,40,65.9,Kerry Collins,17,Yes
+0,1975,Atlanta Falcons,11,255,115,45.1,1662,6.5,68,13,15,0,0,0,19,197,59.3,Steve Bartkowski,1,Yes
+1,1976,Atlanta Falcons,5,120,57,47.5,677,5.6,50,2,9,0,0,0,18,150,39.5,Steve Bartkowski,2,Yes
+2,1977,Atlanta Falcons,8,136,64,47.06,796,5.9,73,5,13,0,0,0,29,296,38.4,Steve Bartkowski,3,Yes
+3,1978,Atlanta Falcons,14,369,187,50.68,2489,6.8,71,10,18,0,0,0,39,349,61.1,Steve Bartkowski,4,Yes
+4,1979,Atlanta Falcons,14,380,204,53.68,2505,6.6,57,17,20,0,0,0,39,286,67.3,Steve Bartkowski,5,Yes
+5,1980,Atlanta Falcons,16,463,257,55.51,3544,7.7,81,31,16,0,0,0,35,324,88.2,Steve Bartkowski,6,Yes
+6,1981,Atlanta Falcons,16,533,297,55.72,3829,7.2,70,30,23,0,0,0,37,287,79.2,Steve Bartkowski,7,Yes
+7,1982,Atlanta Falcons,9,262,166,63.36,1905,7.3,86,8,11,0,0,0,20,177,77.9,Steve Bartkowski,8,Yes
+8,1983,Atlanta Falcons,14,432,274,63.43,3167,7.3,76,22,5,0,0,0,51,348,97.6,Steve Bartkowski,9,Yes
+9,1984,Atlanta Falcons,11,269,181,67.29,2158,8,61,11,10,0,0,0,40,300,89.7,Steve Bartkowski,10,Yes
+10,1985,Washington Redskins,5,111,69,62.16,738,6.7,62,5,1,0,0,0,18,158,92.8,Steve Bartkowski,11,Yes
+11,1986,Los Angeles Rams,6,126,61,48.41,654,5.2,42,2,3,0,0,0,11,84,59.4,Steve Bartkowski,12,Yes
+0,1977,San Francisco 49ers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Steve DeBerg,1,Yes
+1,1978,San Francisco 49ers,12,302,137,45.36,1570,5.2,58,8,22,0,0,0,17,156,40,Steve DeBerg,2,Yes
+2,1979,San Francisco 49ers,16,578,347,60.03,3652,6.3,50,17,21,0,0,0,17,119,73.1,Steve DeBerg,3,Yes
+3,1980,San Francisco 49ers,11,321,186,57.94,1998,6.2,93,12,17,0,0,0,14,114,66.7,Steve DeBerg,4,Yes
+4,1981,Denver Broncos,14,108,64,59.26,797,7.4,44,6,6,0,0,0,7,67,77.6,Steve DeBerg,5,Yes
+5,1982,Denver Broncos,9,223,131,58.74,1405,6.3,51,7,11,0,0,0,16,130,67.2,Steve DeBerg,6,Yes
+6,1983,Denver Broncos,10,215,119,55.35,1617,7.5,54,9,7,0,0,0,25,201,79.9,Steve DeBerg,7,Yes
+7,1984,Tampa Bay Buccaneers,16,509,308,60.51,3554,7,55,19,18,0,0,0,35,308,79.3,Steve DeBerg,8,Yes
+8,1985,Tampa Bay Buccaneers,11,370,197,53.24,2488,6.7,57,19,18,0,0,0,19,143,71.3,Steve DeBerg,9,Yes
+9,1986,Tampa Bay Buccaneers,16,96,50,52.08,610,6.4,45,5,12,0,0,0,9,68,49.7,Steve DeBerg,10,Yes
+10,1987,Tampa Bay Buccaneers,12,275,159,57.82,1891,6.9,64,14,7,0,0,0,20,185,85.3,Steve DeBerg,11,Yes
+11,1988,Kansas City Chiefs,13,414,224,54.11,2935,7.1,80,16,16,0,0,0,30,246,73.5,Steve DeBerg,12,Yes
+12,1989,Kansas City Chiefs,12,324,196,60.49,2529,7.8,50,11,16,0,0,0,14,111,75.8,Steve DeBerg,13,Yes
+13,1990,Kansas City Chiefs,16,444,258,58.11,3444,7.8,90,23,4,0,0,0,22,191,96.3,Steve DeBerg,14,Yes
+14,1991,Kansas City Chiefs,16,434,256,58.99,2965,6.8,63,17,14,156,35.94,29,19,161,79.3,Steve DeBerg,15,Yes
+15,1992,Tampa Bay Buccaneers,6,125,76,60.8,710,5.7,28,3,4,35,28,5,8,66,71.1,Steve DeBerg,16,Yes
+16,1993,Miami Dolphins,8,227,136,59.91,1707,7.5,47,7,10,80,35.24,23,18,143,75.3,Steve DeBerg,17,Yes
+17,1998,Atlanta Falcons,8,59,30,50.85,369,6.3,35,3,1,19,32.2,5,6,60,80.4,Steve DeBerg,18,Yes
+0,1990,Indianapolis Colts,13,334,181,54.19,2152,6.4,75,16,13,0,0,0,37,320,73.8,Jeff George,1,Yes
+1,1991,Indianapolis Colts,16,485,292,60.21,2910,6,49,10,12,154,31.75,31,56,481,73.8,Jeff George,2,Yes
+2,1992,Indianapolis Colts,10,306,167,54.58,1963,6.4,57,7,15,93,30.39,25,27,188,61.5,Jeff George,3,Yes
+3,1993,Indianapolis Colts,13,407,234,57.49,2526,6.2,72,8,6,126,30.96,27,26,190,76.3,Jeff George,4,Yes
+4,1994,Atlanta Falcons,16,524,322,61.45,3734,7.1,85,23,18,184,35.11,42,32,206,83.3,Jeff George,5,Yes
+5,1995,Atlanta Falcons,16,557,336,60.32,4143,7.4,62,24,11,201,36.09,58,43,270,89.5,Jeff George,6,Yes
+6,1996,Atlanta Falcons,3,99,56,56.57,698,7.1,67,3,3,31,31.31,9,11,84,76.1,Jeff George,7,Yes
+7,1997,Oakland Raiders,16,521,290,55.66,3917,7.5,76,29,9,167,32.05,59,58,430,91.2,Jeff George,8,Yes
+8,1998,Oakland Raiders,8,169,93,55.03,1186,7,75,4,5,52,30.77,19,22,162,72.7,Jeff George,9,Yes
+9,1999,Minnesota Vikings,12,329,191,58.05,2816,8.6,80,23,12,120,36.47,44,28,228,94.2,Jeff George,10,Yes
+10,2000,Washington Redskins,6,194,113,58.25,1389,7.2,50,7,6,65,33.51,20,12,94,79.6,Jeff George,11,Yes
+11,2001,Washington Redskins,2,42,23,54.76,168,4,17,0,3,6,14.29,0,6,38,34.6,Jeff George,12,Yes
+12,2002,Seattle Seahawks,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Jeff George,13,Yes
+13,2004,Chicago Bears,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Jeff George,14,Yes
+0,2003,Dallas Cowboys,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Tony Romo,1,Yes
+1,2004,Dallas Cowboys,6,0,0,0,0,0,0,0,0,0,0,0,0,0,,Tony Romo,2,Yes
+2,2005,Dallas Cowboys,16,0,0,0,0,0,0,0,0,0,0,0,0,0,,Tony Romo,3,Yes
+3,2006,Dallas Cowboys,16,337,220,65.28,2903,8.6,56,19,13,143,42.43,42,21,124,95.1,Tony Romo,4,Yes
+4,2007,Dallas Cowboys,16,520,335,64.42,4211,8.1,59,36,19,215,41.35,55,24,176,97.4,Tony Romo,5,Yes
+5,2008,Dallas Cowboys,13,450,276,61.33,3448,7.7,75,26,14,150,33.33,48,20,123,91.4,Tony Romo,6,Yes
+6,2009,Dallas Cowboys,16,550,347,63.09,4483,8.2,80,26,9,203,36.91,61,34,196,97.6,Tony Romo,7,Yes
+7,2010,Dallas Cowboys,6,213,148,69.48,1605,7.5,69,11,7,75,35.21,21,7,41,94.9,Tony Romo,8,Yes
+8,2011,Dallas Cowboys,16,522,346,66.28,4184,8,77,31,10,203,38.89,56,36,227,102.5,Tony Romo,9,Yes
+9,2012,Dallas Cowboys,16,648,425,65.59,4903,7.6,85,28,19,231,35.65,54,36,263,90.5,Tony Romo,10,Yes
+10,2013,Dallas Cowboys,15,535,342,63.93,3828,7.2,82,31,10,194,36.26,44,35,272,96.7,Tony Romo,11,Yes
+11,2014,Dallas Cowboys,15,435,304,69.89,3705,8.5,68,34,9,189,43.45,49,29,215,113.2,Tony Romo,12,Yes
+12,2015,Dallas Cowboys,4,121,83,68.6,884,7.3,39,5,7,46,38.02,7,6,35,79.4,Tony Romo,13,Yes
+13,2016,Dallas Cowboys,1,4,3,75,29,7.3,15,1,0,3,75,0,0,0,134.4,Tony Romo,14,Yes
+0,1988,Indianapolis Colts,15,233,129,55.36,1619,7,54,8,12,0,0,0,18,128,67.2,Chris Chandler,1,Yes
+1,1989,Indianapolis Colts,3,80,39,48.75,537,6.7,82,2,3,0,0,0,3,17,63.4,Chris Chandler,2,Yes
+2,1990,Tampa Bay Buccaneers,7,83,42,50.6,464,5.6,68,1,6,0,0,0,15,103,41.4,Chris Chandler,3,Yes
+3,1991,Phoenix Cardinals,9,154,78,50.65,846,5.5,45,5,10,43,27.92,4,17,134,50.9,Chris Chandler,4,Yes
+4,1992,Phoenix Cardinals,15,413,245,59.32,2832,6.9,72,15,15,134,32.45,32,29,226,77.1,Chris Chandler,5,Yes
+5,1993,Phoenix Cardinals,4,103,52,50.49,471,4.6,27,3,2,24,23.3,3,4,25,64.8,Chris Chandler,6,Yes
+6,1994,Los Angeles Rams,12,176,108,61.36,1352,7.7,72,7,2,59,33.52,14,7,46,93.8,Chris Chandler,7,Yes
+7,1995,Houston Oilers,13,356,225,63.2,2460,6.9,76,17,10,111,31.18,26,21,173,87.8,Chris Chandler,8,Yes
+8,1996,Houston Oilers,12,320,184,57.5,2099,6.6,63,16,11,110,34.38,21,25,153,79.7,Chris Chandler,9,Yes
+9,1997,Atlanta Falcons,14,342,202,59.06,2692,7.9,56,20,7,128,37.43,34,39,261,95.1,Chris Chandler,10,Yes
+10,1998,Atlanta Falcons,14,327,190,58.1,3154,9.7,78,25,12,144,44.04,51,45,283,100.9,Chris Chandler,11,Yes
+11,1999,Atlanta Falcons,12,307,174,56.68,2339,7.6,60,16,11,113,36.81,36,32,230,83.5,Chris Chandler,12,Yes
+12,2000,Atlanta Falcons,14,331,192,58.01,2236,6.8,55,10,12,105,31.72,25,40,251,73.5,Chris Chandler,13,Yes
+13,2001,Atlanta Falcons,14,365,223,61.1,2847,7.8,94,16,14,127,34.79,34,41,261,84.1,Chris Chandler,14,Yes
+14,2002,Chicago Bears,9,161,103,63.98,1023,6.4,76,4,4,43,26.71,15,23,144,79.8,Chris Chandler,15,Yes
+15,2003,Chicago Bears,8,192,107,55.73,1050,5.5,37,3,7,51,26.56,11,14,101,61.3,Chris Chandler,16,Yes
+16,2004,St. Louis Rams,5,62,35,56.45,463,7.5,75,2,8,15,24.19,8,7,54,51.4,Chris Chandler,17,Yes
+0,1999,Green Bay Packers,16,10,3,30,41,4.1,19,1,0,2,20,0,1,9,77.5,Matt Hasselbeck,1,Yes
+1,2000,Green Bay Packers,16,19,10,52.63,104,5.5,27,1,0,4,21.05,2,1,2,86.3,Matt Hasselbeck,2,Yes
+2,2001,Seattle Seahawks,13,321,176,54.83,2023,6.3,64,7,8,91,28.35,26,38,251,70.9,Matt Hasselbeck,3,Yes
+3,2002,Seattle Seahawks,16,419,267,63.72,3075,7.3,49,15,10,157,37.47,36,26,143,87.8,Matt Hasselbeck,4,Yes
+4,2003,Seattle Seahawks,16,513,313,61.01,3841,7.5,80,26,15,187,36.45,54,42,246,88.8,Matt Hasselbeck,5,Yes
+5,2004,Seattle Seahawks,14,474,279,58.86,3382,7.1,60,22,15,177,37.34,43,30,155,83.1,Matt Hasselbeck,6,Yes
+6,2005,Seattle Seahawks,16,449,294,65.48,3459,7.7,56,24,9,182,40.53,41,24,154,98.2,Matt Hasselbeck,7,Yes
+7,2006,Seattle Seahawks,12,371,210,56.6,2442,6.6,72,18,15,125,33.69,30,34,229,76,Matt Hasselbeck,8,Yes
+8,2007,Seattle Seahawks,16,562,352,62.63,3966,7.1,65,28,12,204,36.3,48,33,204,91.4,Matt Hasselbeck,9,Yes
+9,2008,Seattle Seahawks,7,209,109,52.15,1216,5.8,34,5,10,65,31.1,14,19,119,57.8,Matt Hasselbeck,10,Yes
+10,2009,Seattle Seahawks,14,488,293,60.04,3029,6.2,53,17,17,146,29.92,32,32,209,75.1,Matt Hasselbeck,11,Yes
+11,2010,Seattle Seahawks,14,444,266,59.91,3001,6.8,87,12,17,136,30.63,33,29,175,73.2,Matt Hasselbeck,12,Yes
+12,2011,Tennessee Titans,16,518,319,61.58,3571,6.9,80,18,14,163,31.47,43,19,153,82.4,Matt Hasselbeck,13,Yes
+13,2012,Tennessee Titans,8,221,138,62.44,1367,6.2,37,7,5,71,32.13,13,14,103,81,Matt Hasselbeck,14,Yes
+14,2013,Indianapolis Colts,3,12,7,58.33,130,10.8,57,0,1,6,50,2,0,0,61.1,Matt Hasselbeck,15,Yes
+15,2014,Indianapolis Colts,4,44,30,68.18,301,6.8,32,2,0,17,38.64,5,2,7,102.6,Matt Hasselbeck,16,Yes
+16,2015,Indianapolis Colts,8,256,156,60.94,1690,6.6,57,9,5,85,33.2,22,16,101,84,Matt Hasselbeck,17,Yes
+0,1987,Chicago Bears,6,11,8,72.73,62,5.6,21,0,0,0,0,0,4,45,86.2,Jim Harbaugh,1,Yes
+1,1988,Chicago Bears,10,97,47,48.45,514,5.3,56,0,2,0,0,0,6,49,55.9,Jim Harbaugh,2,Yes
+2,1989,Chicago Bears,12,178,111,62.36,1204,6.8,49,5,9,0,0,0,18,106,70.5,Jim Harbaugh,3,Yes
+3,1990,Chicago Bears,14,312,180,57.69,2178,7,80,10,6,0,0,0,31,206,81.9,Jim Harbaugh,4,Yes
+4,1991,Chicago Bears,16,478,275,57.53,3121,6.5,84,15,16,160,33.47,31,24,163,73.7,Jim Harbaugh,5,Yes
+5,1992,Chicago Bears,16,358,202,56.42,2486,6.9,83,13,12,121,33.8,28,31,167,76.2,Jim Harbaugh,6,Yes
+6,1993,Chicago Bears,15,325,200,61.54,2002,6.2,48,7,11,98,30.15,21,43,210,72.1,Jim Harbaugh,7,Yes
+7,1994,Indianapolis Colts,12,202,125,61.88,1440,7.1,85,9,6,72,35.64,16,17,72,85.8,Jim Harbaugh,8,Yes
+8,1995,Indianapolis Colts,15,314,200,63.69,2575,8.2,52,17,5,115,36.62,33,36,219,100.7,Jim Harbaugh,9,Yes
+9,1996,Indianapolis Colts,14,405,232,57.28,2630,6.5,51,13,11,129,31.85,32,36,190,76.3,Jim Harbaugh,10,Yes
+10,1997,Indianapolis Colts,12,309,189,61.17,2060,6.7,58,10,4,100,32.36,19,41,256,86.2,Jim Harbaugh,11,Yes
+11,1998,Baltimore Ravens,14,293,164,55.97,1839,6.3,66,12,11,86,29.35,20,23,145,72.9,Jim Harbaugh,12,Yes
+12,1999,San Diego Chargers,14,434,249,57.37,2761,6.4,80,10,14,130,29.95,34,37,208,70.6,Jim Harbaugh,13,Yes
+13,2000,San Diego Chargers,7,202,123,60.89,1416,7,62,8,10,66,32.67,17,14,96,74.6,Jim Harbaugh,14,Yes
+14,2001,Carolina Panthers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Jim Harbaugh,15,Yes
+0,1976,Dallas Cowboys,14,20,13,65,213,10.7,56,2,2,0,0,0,1,15,94.4,Danny White,1,Yes
+1,1977,Dallas Cowboys,14,10,4,40,35,3.5,12,0,1,0,0,0,2,15,10.4,Danny White,2,Yes
+2,1978,Dallas Cowboys,16,34,20,58.82,215,6.3,35,0,1,0,0,0,1,10,65.2,Danny White,3,Yes
+3,1979,Dallas Cowboys,16,39,19,48.72,267,6.9,45,1,2,0,0,0,4,46,58.4,Danny White,4,Yes
+4,1980,Dallas Cowboys,16,436,260,59.63,3287,7.5,58,28,25,0,0,0,30,252,80.7,Danny White,5,Yes
+5,1981,Dallas Cowboys,16,391,223,57.03,3098,7.9,73,22,13,0,0,0,30,234,87.5,Danny White,6,Yes
+6,1982,Dallas Cowboys,9,247,156,63.16,2079,8.4,49,16,12,0,0,0,25,264,91.1,Danny White,7,Yes
+7,1983,Dallas Cowboys,16,533,334,62.66,3980,7.5,80,29,23,0,0,0,37,314,85.6,Danny White,8,Yes
+8,1984,Dallas Cowboys,14,233,126,54.08,1580,6.8,66,11,11,0,0,0,22,178,71.5,Danny White,9,Yes
+9,1985,Dallas Cowboys,14,450,267,59.33,3157,7,56,21,17,0,0,0,30,257,80.6,Danny White,10,Yes
+10,1986,Dallas Cowboys,7,153,95,62.09,1157,7.6,63,12,5,0,0,0,10,98,97.9,Danny White,11,Yes
+11,1987,Dallas Cowboys,11,362,215,59.39,2617,7.2,43,12,17,0,0,0,44,353,73.2,Danny White,12,Yes
+12,1988,Dallas Cowboys,3,42,29,69.05,274,6.5,24,1,3,0,0,0,5,47,65,Danny White,13,Yes
+0,1968,Detroit Lions,4,48,23,47.9,338,7,0,2,7,0,0,0,6,50,45.7,Greg Landry,1,Yes
+1,1969,Detroit Lions,10,160,80,50,853,5.3,0,4,10,0,0,0,30,265,48.3,Greg Landry,2,Yes
+2,1970,Detroit Lions,12,136,83,61.03,1072,7.9,0,9,5,0,0,0,26,198,92.5,Greg Landry,3,Yes
+3,1971,Detroit Lions,14,261,136,52.11,2237,8.6,0,16,13,0,0,0,29,232,80.9,Greg Landry,4,Yes
+4,1972,Detroit Lions,14,268,134,50,2066,7.7,0,18,17,0,0,0,25,149,71.8,Greg Landry,5,Yes
+5,1973,Detroit Lions,7,128,70,54.69,908,7.1,0,3,10,0,0,0,13,98,52.5,Greg Landry,6,Yes
+6,1974,Detroit Lions,5,82,49,59.76,572,7,0,3,3,0,0,0,11,83,77.9,Greg Landry,7,Yes
+7,1975,Detroit Lions,6,56,31,55.36,403,7.2,36,1,0,0,0,0,17,129,84.2,Greg Landry,8,Yes
+8,1976,Detroit Lions,14,291,168,57.73,2191,7.5,74,17,8,0,0,0,55,397,89.6,Greg Landry,9,Yes
+9,1977,Detroit Lions,11,240,135,56.25,1359,5.7,39,6,7,0,0,0,34,302,68.7,Greg Landry,10,Yes
+10,1978,Detroit Lions,5,77,48,62.34,452,5.9,20,1,1,0,0,0,21,205,77.4,Greg Landry,11,Yes
+11,1979,Baltimore Colts,16,457,270,59.08,2932,6.4,67,15,15,0,0,0,42,326,75.3,Greg Landry,12,Yes
+12,1980,Baltimore Colts,16,47,24,51.06,275,5.9,32,2,3,0,0,0,2,19,56.6,Greg Landry,13,Yes
+13,1981,Baltimore Colts,11,29,14,48.28,195,6.7,34,0,1,0,0,0,5,50,56,Greg Landry,14,Yes
+14,1984,Chicago Bears,1,20,11,55,199,10,55,1,3,0,0,0,0,0,66.5,Greg Landry,15,Yes
+0,2001,Atlanta Falcons,8,113,50,44.25,785,7,52,2,3,34,30.09,11,21,113,62.7,Mike Vick,1,Yes
+1,2002,Atlanta Falcons,15,421,231,54.87,2936,7,74,16,8,139,33.02,44,33,206,81.6,Mike Vick,2,Yes
+2,2003,Atlanta Falcons,5,100,50,50,585,5.9,49,4,3,32,32,7,9,64,69,Mike Vick,3,Yes
+3,2004,Atlanta Falcons,15,321,181,56.39,2313,7.2,62,14,12,103,32.09,35,46,266,78.1,Mike Vick,4,Yes
+4,2005,Atlanta Falcons,15,387,214,55.3,2412,6.2,58,15,13,126,32.56,27,33,201,73.1,Mike Vick,5,Yes
+5,2006,Atlanta Falcons,16,388,204,52.58,2474,6.4,55,20,13,123,31.7,30,45,303,75.7,Mike Vick,6,Yes
+6,2009,Philadelphia Eagles,12,13,6,46.15,86,6.6,43,1,0,3,23.08,2,0,0,93.8,Mike Vick,7,Yes
+7,2010,Philadelphia Eagles,12,372,233,62.63,3018,8.1,91,21,6,131,35.22,48,34,210,100.2,Mike Vick,8,Yes
+8,2011,Philadelphia Eagles,13,423,253,59.81,3303,7.8,73,18,14,155,36.64,50,23,126,84.9,Mike Vick,9,Yes
+9,2012,Philadelphia Eagles,10,351,204,58.12,2362,6.7,77,12,10,114,32.48,27,28,153,78.1,Mike Vick,10,Yes
+10,2013,Philadelphia Eagles,7,141,77,54.61,1215,8.6,70,5,3,51,36.17,25,15,99,86.5,Mike Vick,11,Yes
+11,2014,New York Jets,10,121,64,52.89,604,5,67,3,2,33,27.27,5,19,85,68.3,Mike Vick,12,Yes
+12,2015,Pittsburgh Steelers,5,66,40,60.61,371,5.6,72,2,1,14,21.21,4,10,53,79.8,Mike Vick,13,Yes
+0,1990,Pittsburgh Steelers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Neil O'Donnell,1,Yes
+1,1991,Pittsburgh Steelers,12,286,156,54.55,1963,6.9,89,11,7,99,34.62,23,30,214,78.8,Neil O'Donnell,2,Yes
+2,1992,Pittsburgh Steelers,12,313,185,59.11,2283,7.3,51,13,9,110,35.14,27,27,208,83.6,Neil O'Donnell,3,Yes
+3,1993,Pittsburgh Steelers,16,486,270,55.56,3208,6.6,71,14,7,165,33.95,32,41,331,79.5,Neil O'Donnell,4,Yes
+4,1994,Pittsburgh Steelers,14,370,212,57.3,2443,6.6,60,13,9,114,30.81,26,35,250,78.9,Neil O'Donnell,5,Yes
+5,1995,Pittsburgh Steelers,12,416,246,59.13,2970,7.1,71,17,7,137,32.93,44,15,126,87.7,Neil O'Donnell,6,Yes
+6,1996,New York Jets,6,188,110,58.51,1147,6.1,78,4,7,54,28.72,10,18,127,67.8,Neil O'Donnell,7,Yes
+7,1997,New York Jets,15,460,259,56.3,2796,6.1,70,17,7,133,28.91,32,45,289,80.3,Neil O'Donnell,8,Yes
+8,1998,Cincinnati Bengals,13,343,212,61.81,2216,6.5,76,15,4,94,27.41,24,30,217,90.2,Neil O'Donnell,9,Yes
+9,1999,Tennessee Titans,8,195,116,59.49,1382,7.1,54,10,5,65,33.33,22,9,63,87.6,Neil O'Donnell,10,Yes
+10,2000,Tennessee Titans,7,64,36,56.25,530,8.3,67,2,3,24,37.5,8,3,23,74.3,Neil O'Donnell,11,Yes
+11,2001,Tennessee Titans,5,76,42,55.26,496,6.5,35,2,2,19,25,3,6,58,73.1,Neil O'Donnell,12,Yes
+12,2002,Tennessee Titans,4,5,3,60,24,4.8,15,0,0,2,40,0,0,0,72.1,Neil O'Donnell,13,Yes
+13,2003,Tennessee Titans,1,27,18,66.67,232,8.6,34,2,1,13,48.15,4,0,0,102.7,Neil O'Donnell,14,Yes
+0,1954,Los Angeles Rams,10,59,31,52.5,509,8.6,0,2,1,0,0,0,0,53,86.1,Billy Wade,1,Yes
+1,1955,Los Angeles Rams,7,71,31,43.7,316,4.5,0,1,3,0,0,0,0,69,44.1,Billy Wade,2,Yes
+2,1956,Los Angeles Rams,12,178,91,51.1,1461,8.2,0,10,13,0,0,0,0,127,67.2,Billy Wade,3,Yes
+3,1957,Los Angeles Rams,5,24,10,41.7,116,4.8,0,1,1,0,0,0,0,136,53.5,Billy Wade,4,Yes
+4,1958,Los Angeles Rams,12,341,181,53.1,2875,8.4,0,18,22,0,0,0,0,197,72.2,Billy Wade,5,Yes
+5,1959,Los Angeles Rams,12,261,153,58.6,2001,7.7,0,12,17,0,0,0,0,124,71.1,Billy Wade,6,Yes
+6,1960,Los Angeles Rams,11,182,106,58.2,1294,7.1,0,12,11,0,0,0,0,257,77,Billy Wade,7,Yes
+7,1961,Chicago Bears,13,250,139,55.6,2258,9,0,22,13,0,0,0,0,251,93.7,Billy Wade,8,Yes
+8,1962,Chicago Bears,14,412,225,54.6,3172,7.7,0,18,24,0,0,0,0,226,70,Billy Wade,9,Yes
+9,1963,Chicago Bears,14,356,192,53.9,2301,6.5,0,15,12,0,0,0,19,164,74,Billy Wade,10,Yes
+10,1964,Chicago Bears,11,327,182,55.7,1944,5.9,0,13,14,0,0,0,23,157,68.6,Billy Wade,11,Yes
+11,1965,Chicago Bears,5,41,20,48.8,204,5,0,0,2,0,0,0,5,40,43.1,Billy Wade,12,Yes
+12,1966,Chicago Bears,2,21,9,42.9,79,3.8,0,0,1,0,0,0,0,0,33.6,Billy Wade,13,Yes
+0,1975,New England Patriots,13,274,139,50.73,1976,7.2,62,11,18,0,0,0,22,207,60.4,Steve Grogan,1,Yes
+1,1976,New England Patriots,14,302,145,48.01,1903,6.3,58,18,20,0,0,0,18,155,60.6,Steve Grogan,2,Yes
+2,1977,New England Patriots,14,305,160,52.46,2162,7.1,68,17,21,0,0,0,14,155,65.2,Steve Grogan,3,Yes
+3,1978,New England Patriots,16,362,181,50,2824,7.8,75,15,23,0,0,0,21,184,63.6,Steve Grogan,4,Yes
+4,1979,New England Patriots,16,423,206,48.7,3286,7.8,63,28,20,0,0,0,45,341,77.4,Steve Grogan,5,Yes
+5,1980,New England Patriots,12,306,175,57.19,2475,8.1,71,18,22,0,0,0,17,138,73.1,Steve Grogan,6,Yes
+6,1981,New England Patriots,8,216,117,54.17,1859,8.6,76,7,16,0,0,0,19,137,63,Steve Grogan,7,Yes
+7,1982,New England Patriots,6,122,66,54.1,930,7.6,62,7,4,0,0,0,8,48,84.4,Steve Grogan,8,Yes
+8,1983,New England Patriots,12,303,168,55.45,2411,8,76,15,12,0,0,0,29,195,81.4,Steve Grogan,9,Yes
+9,1984,New England Patriots,3,68,32,47.06,444,6.5,65,3,6,0,0,0,7,45,46.4,Steve Grogan,10,Yes
+10,1985,New England Patriots,7,156,85,54.49,1311,8.4,56,7,5,0,0,0,11,86,84.1,Steve Grogan,11,Yes
+11,1986,New England Patriots,4,102,62,60.78,976,9.6,69,9,2,0,0,0,4,31,113.8,Steve Grogan,12,Yes
+12,1987,New England Patriots,7,161,93,57.76,1183,7.4,40,10,9,0,0,0,7,55,78.2,Steve Grogan,13,Yes
+13,1988,New England Patriots,6,140,67,47.86,834,6,41,4,13,0,0,0,8,77,37.6,Steve Grogan,14,Yes
+14,1989,New England Patriots,7,261,133,50.96,1697,6.5,55,9,14,0,0,0,8,64,60.8,Steve Grogan,15,Yes
+15,1990,New England Patriots,4,92,50,54.35,615,6.7,48,4,3,0,0,0,9,68,76.1,Steve Grogan,16,Yes
+0,1961,San Francisco 49ers,11,34,19,55.9,286,8.4,0,0,4,0,0,0,0,71,44.1,Billy Kilmer,1,Yes
+1,1962,San Francisco 49ers,12,13,8,61.5,191,14.7,0,1,3,0,0,0,0,27,91.5,Billy Kilmer,2,Yes
+2,1964,San Francisco 49ers,10,14,8,57.1,92,6.6,0,1,1,0,0,0,2,24,71.1,Billy Kilmer,3,Yes
+3,1966,San Francisco 49ers,6,16,5,31.3,84,5.3,0,0,1,0,0,0,2,12,24,Billy Kilmer,4,Yes
+4,1967,New Orleans Saints,10,204,97,47.5,1341,6.6,0,6,11,0,0,0,18,147,56.4,Billy Kilmer,5,Yes
+5,1968,New Orleans Saints,12,315,167,53,2060,6.5,0,15,17,0,0,0,26,170,66.9,Billy Kilmer,6,Yes
+6,1969,New Orleans Saints,14,360,193,53.6,2532,7,0,20,17,0,0,0,22,212,74.9,Billy Kilmer,7,Yes
+7,1970,New Orleans Saints,13,237,135,56.96,1557,6.6,0,6,17,0,0,0,19,155,55.5,Billy Kilmer,8,Yes
+8,1971,Washington Redskins,14,306,166,54.25,2221,7.3,0,13,13,0,0,0,16,110,74,Billy Kilmer,9,Yes
+9,1972,Washington Redskins,12,225,120,53.33,1648,7.3,0,19,11,0,0,0,9,67,84.8,Billy Kilmer,10,Yes
+10,1973,Washington Redskins,10,227,122,53.74,1656,7.3,0,14,9,0,0,0,15,88,81.3,Billy Kilmer,11,Yes
+11,1974,Washington Redskins,11,234,137,58.55,1632,7,0,10,6,0,0,0,13,96,83.5,Billy Kilmer,12,Yes
+12,1975,Washington Redskins,12,346,178,51.45,2440,7.1,96,23,16,0,0,0,23,138,77.2,Billy Kilmer,13,Yes
+13,1976,Washington Redskins,10,206,108,52.43,1252,6.1,53,12,10,0,0,0,15,125,70.3,Billy Kilmer,14,Yes
+14,1977,Washington Redskins,8,201,99,49.25,1187,5.9,59,8,7,0,0,0,22,180,66.5,Billy Kilmer,15,Yes
+15,1978,Washington Redskins,5,46,23,50,316,6.9,50,4,3,0,0,0,4,22,74.2,Billy Kilmer,16,Yes
+0,1973,Buffalo Bills,14,164,73,44.51,939,5.7,0,4,10,0,0,0,20,164,45.8,Joe Ferguson,1,Yes
+1,1974,Buffalo Bills,14,232,119,51.29,1588,6.8,0,12,12,0,0,0,32,235,69,Joe Ferguson,2,Yes
+2,1975,Buffalo Bills,14,321,169,52.65,2426,7.6,77,25,17,0,0,0,20,153,81.3,Joe Ferguson,3,Yes
+3,1976,Buffalo Bills,7,151,74,49.01,1086,7.2,58,9,1,0,0,0,11,80,90,Joe Ferguson,4,Yes
+4,1977,Buffalo Bills,14,457,221,48.36,2803,6.1,42,12,24,0,0,0,36,273,54.8,Joe Ferguson,5,Yes
+5,1978,Buffalo Bills,16,330,175,53.03,2136,6.5,92,16,15,0,0,0,29,243,70.5,Joe Ferguson,6,Yes
+6,1979,Buffalo Bills,16,458,238,51.97,3572,7.8,84,14,15,0,0,0,43,387,74.4,Joe Ferguson,7,Yes
+7,1980,Buffalo Bills,16,439,251,57.18,2805,6.4,69,20,18,0,0,0,13,129,74.5,Joe Ferguson,8,Yes
+8,1981,Buffalo Bills,16,498,252,50.6,3652,7.3,67,24,20,0,0,0,15,137,74.1,Joe Ferguson,9,Yes
+9,1982,Buffalo Bills,9,264,144,54.55,1597,6.1,47,7,16,0,0,0,11,105,56.3,Joe Ferguson,10,Yes
+10,1983,Buffalo Bills,16,508,281,55.31,2995,5.9,43,26,25,0,0,0,27,266,69.3,Joe Ferguson,11,Yes
+11,1984,Buffalo Bills,12,344,191,55.52,1991,5.8,68,12,17,0,0,0,35,357,63.5,Joe Ferguson,12,Yes
+12,1985,Detroit Lions,8,54,31,57.41,364,6.7,38,2,3,0,0,0,4,35,67.2,Joe Ferguson,13,Yes
+13,1986,Detroit Lions,6,155,73,47.1,941,6.1,73,7,7,0,0,0,10,101,62.9,Joe Ferguson,14,Yes
+14,1987,Detroit Lions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Joe Ferguson,15,Yes
+15,1988,Tampa Bay Buccaneers,2,46,31,67.39,368,8,34,3,1,0,0,0,1,8,104.3,Joe Ferguson,16,Yes
+16,1989,Tampa Bay Buccaneers,5,90,44,48.89,533,5.9,69,3,6,0,0,0,5,37,50.8,Joe Ferguson,17,Yes
+17,1990,Indianapolis Colts,1,8,2,25,21,2.6,13,0,2,0,0,0,0,0,0,Joe Ferguson,18,Yes
+0,1961,Washington Redskins,14,375,172,45.9,2337,6.2,0,11,22,0,0,0,0,368,51.6,Norm Snead,1,Yes
+1,1962,Washington Redskins,14,354,184,52,2926,8.3,0,22,22,0,0,0,0,240,74.7,Norm Snead,2,Yes
+2,1963,Washington Redskins,14,363,175,48.2,3043,8.4,0,13,27,0,0,0,37,337,58.1,Norm Snead,3,Yes
+3,1964,Philadelphia Eagles,12,283,138,48.8,1906,6.7,0,14,12,0,0,0,20,160,69.6,Norm Snead,4,Yes
+4,1965,Philadelphia Eagles,11,288,150,52.1,2346,8.1,0,15,13,0,0,0,26,191,78,Norm Snead,5,Yes
+5,1966,Philadelphia Eagles,10,226,103,45.6,1275,5.6,0,8,11,0,0,0,25,190,55.1,Norm Snead,6,Yes
+6,1967,Philadelphia Eagles,14,434,240,55.3,3399,7.8,0,29,24,0,0,0,48,351,80,Norm Snead,7,Yes
+7,1968,Philadelphia Eagles,11,291,152,52.2,1655,5.7,0,11,21,0,0,0,20,154,51.8,Norm Snead,8,Yes
+8,1969,Philadelphia Eagles,13,379,190,50.1,2768,7.3,0,19,23,0,0,0,21,170,65.7,Norm Snead,9,Yes
+9,1970,Philadelphia Eagles,14,335,181,54.03,2323,6.9,0,15,20,0,0,0,21,181,66.1,Norm Snead,10,Yes
+10,1971,Minnesota Vikings,7,75,37,49.33,470,6.3,0,1,6,0,0,0,7,67,40.4,Norm Snead,11,Yes
+11,1972,New York Giants,14,325,196,60.31,2307,7.1,0,17,12,0,0,0,8,66,84,Norm Snead,12,Yes
+12,1973,New York Giants,10,235,131,55.74,1483,6.3,0,7,22,0,0,0,9,67,45.8,Norm Snead,13,Yes
+13,1974,San Francisco 49ers,8,159,97,61.01,983,6.2,0,5,8,0,0,0,7,57,68.2,Norm Snead,14,Yes
+14,1975,San Francisco 49ers,9,189,108,57.14,1337,7.1,60,9,10,0,0,0,16,109,73,Norm Snead,15,Yes
+15,1976,New York Giants,3,42,22,52.38,239,5.7,31,0,4,0,0,0,5,27,29.9,Norm Snead,16,Yes
+0,1986,Los Angeles Rams,6,147,73,49.66,1018,6.9,60,8,8,0,0,0,8,50,67.8,Jim Everett,1,Yes
+1,1987,Los Angeles Rams,11,302,162,53.64,2064,6.8,81,10,13,0,0,0,17,139,68.4,Jim Everett,2,Yes
+2,1988,Los Angeles Rams,16,517,308,59.57,3964,7.7,69,31,18,0,0,0,28,197,89.2,Jim Everett,3,Yes
+3,1989,Los Angeles Rams,16,518,304,58.69,4310,8.3,78,29,17,0,0,0,29,214,90.6,Jim Everett,4,Yes
+4,1990,Los Angeles Rams,16,554,307,55.42,3989,7.2,55,23,17,0,0,0,30,198,79.3,Jim Everett,5,Yes
+5,1991,Los Angeles Rams,16,490,277,56.53,3438,7,78,11,20,172,35.1,40,30,200,68.9,Jim Everett,6,Yes
+6,1992,Los Angeles Rams,16,475,281,59.16,3323,7,67,22,18,168,35.37,37,26,204,80.2,Jim Everett,7,Yes
+7,1993,Los Angeles Rams,10,274,135,49.27,1652,6,60,8,12,82,29.93,22,18,125,59.7,Jim Everett,8,Yes
+8,1994,New Orleans Saints,16,540,346,64.07,3855,7.1,78,22,18,193,35.74,39,21,164,84.9,Jim Everett,9,Yes
+9,1995,New Orleans Saints,16,567,345,60.85,3970,7,70,26,14,201,35.45,52,27,210,87,Jim Everett,10,Yes
+10,1996,New Orleans Saints,15,464,267,57.54,2797,6,51,12,16,124,26.72,33,19,154,69.4,Jim Everett,11,Yes
+11,1997,San Diego Chargers,4,75,36,48,457,6.1,62,1,4,19,25.33,9,4,30,49.7,Jim Everett,12,Yes
+0,1957,Cleveland Browns,9,76,41,53.9,590,7.8,0,2,5,0,0,0,0,85,60.7,Milt Plum,1,Yes
+1,1958,Cleveland Browns,12,189,102,54,1619,8.6,0,11,11,0,0,0,0,145,77.9,Milt Plum,2,Yes
+2,1959,Cleveland Browns,12,266,156,58.6,1992,7.5,0,14,8,0,0,0,0,157,87.2,Milt Plum,3,Yes
+3,1960,Cleveland Browns,12,250,151,60.4,2297,9.2,0,21,5,0,0,0,0,275,110.4,Milt Plum,4,Yes
+4,1961,Cleveland Browns,14,302,177,58.6,2416,8,0,18,10,0,0,0,0,145,90.3,Milt Plum,5,Yes
+5,1962,Detroit Lions,14,325,179,55.1,2378,7.3,0,15,20,0,0,0,0,211,68.2,Milt Plum,6,Yes
+6,1963,Detroit Lions,10,77,27,35.1,339,4.4,0,2,12,0,0,0,4,31,18.7,Milt Plum,7,Yes
+7,1964,Detroit Lions,12,287,154,53.7,2241,7.8,0,18,15,0,0,0,27,235,78.5,Milt Plum,8,Yes
+8,1965,Detroit Lions,14,308,143,46.4,1710,5.6,0,12,19,0,0,0,22,213,51.2,Milt Plum,9,Yes
+9,1966,Detroit Lions,6,146,82,56.2,943,6.5,0,4,13,0,0,0,11,103,47.8,Milt Plum,10,Yes
+10,1967,Detroit Lions,9,172,86,50,925,5.4,0,4,8,0,0,0,8,84,54.5,Milt Plum,11,Yes
+11,1968,Los Angeles Rams,4,12,5,41.7,49,4.1,0,1,1,0,0,0,1,15,46.9,Milt Plum,12,Yes
+12,1969,New York Giants,1,9,3,33.3,37,4.1,0,0,0,0,0,0,1,12,47,Milt Plum,13,Yes
+0,1997,Arizona Cardinals,10,296,157,53.04,2203,7.4,70,15,15,101,34.12,28,52,291,73.1,Jake Plummer,1,Yes
+1,1998,Arizona Cardinals,16,547,324,59.23,3737,6.8,57,17,20,177,32.36,48,49,280,75,Jake Plummer,2,Yes
+2,1999,Arizona Cardinals,12,381,201,52.76,2111,5.5,63,9,24,110,28.87,21,27,152,50.8,Jake Plummer,3,Yes
+3,2000,Arizona Cardinals,14,475,270,56.84,2946,6.2,70,13,21,132,27.79,35,22,151,66,Jake Plummer,4,Yes
+4,2001,Arizona Cardinals,16,525,304,57.9,3653,7,68,18,14,177,33.71,52,29,204,79.6,Jake Plummer,5,Yes
+5,2002,Arizona Cardinals,16,530,284,53.58,2972,5.6,80,18,20,145,27.36,29,36,248,65.7,Jake Plummer,6,Yes
+6,2003,Denver Broncos,11,302,189,62.58,2182,7.2,60,15,7,114,37.75,26,14,73,91.2,Jake Plummer,7,Yes
+7,2004,Denver Broncos,16,521,303,58.16,4089,7.9,85,27,20,184,35.32,55,15,90,84.5,Jake Plummer,8,Yes
+8,2005,Denver Broncos,16,456,277,60.75,3366,7.4,72,18,7,162,35.53,44,22,135,90.2,Jake Plummer,9,Yes
+9,2006,Denver Broncos,16,317,175,55.21,1994,6.3,83,11,13,103,32.49,24,18,111,68.8,Jake Plummer,10,Yes
+0,1992,New York Jets,3,9,4,44.44,40,4.4,19,0,1,2,22.22,0,2,7,18.1,Jeff Blake,1,Yes
+1,1993,New York Jets,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Jeff Blake,2,Yes
+2,1994,Cincinnati Bengals,10,306,156,50.98,2154,7,76,14,9,96,31.37,28,19,120,76.9,Jeff Blake,3,Yes
+3,1995,Cincinnati Bengals,16,567,326,57.5,3822,6.7,88,28,17,178,31.39,40,24,152,82.1,Jeff Blake,4,Yes
+4,1996,Cincinnati Bengals,16,549,308,56.1,3624,6.6,61,24,14,184,33.52,35,44,278,80.3,Jeff Blake,5,Yes
+5,1997,Cincinnati Bengals,11,317,184,58.04,2125,6.7,50,8,7,96,30.28,25,39,244,77.6,Jeff Blake,6,Yes
+6,1998,Cincinnati Bengals,8,93,51,54.84,739,8,67,3,3,29,31.18,9,15,79,78.2,Jeff Blake,7,Yes
+7,1999,Cincinnati Bengals,14,389,215,55.27,2670,6.9,76,16,12,124,31.88,27,30,168,77.6,Jeff Blake,8,Yes
+8,2000,New Orleans Saints,11,302,184,60.93,2025,6.7,49,13,9,102,33.77,21,24,150,82.7,Jeff Blake,9,Yes
+9,2001,New Orleans Saints,1,1,0,0,0,0,0,0,0,0,0,0,0,0,39.6,Jeff Blake,10,Yes
+10,2002,Baltimore Ravens,11,295,165,55.93,2084,7.1,77,13,11,96,32.54,26,30,203,77.3,Jeff Blake,11,Yes
+11,2003,Arizona Cardinals,13,367,208,56.68,2247,6.1,71,13,15,96,26.16,27,19,132,69.6,Jeff Blake,12,Yes
+12,2004,Philadelphia Eagles,3,37,18,48.65,126,3.4,21,1,1,7,18.92,1,2,17,54.6,Jeff Blake,13,Yes
+13,2005,Chicago Bears,2,9,8,88.89,55,6.1,17,1,0,4,44.44,0,0,0,129.2,Jeff Blake,14,Yes
+0,1987,Tampa Bay Buccaneers,6,165,71,43.03,1081,6.6,40,5,6,0,0,0,18,140,60.2,Vinny Testaverde,1,Yes
+1,1988,Tampa Bay Buccaneers,15,466,222,47.64,3240,7,59,13,35,0,0,0,33,292,48.8,Vinny Testaverde,2,Yes
+2,1989,Tampa Bay Buccaneers,14,480,258,53.75,3133,6.5,78,20,22,0,0,0,38,294,68.9,Vinny Testaverde,3,Yes
+3,1990,Tampa Bay Buccaneers,14,365,203,55.62,2818,7.7,89,17,18,0,0,0,38,330,75.6,Vinny Testaverde,4,Yes
+4,1991,Tampa Bay Buccaneers,13,326,166,50.92,1994,6.1,87,8,15,101,30.98,21,35,234,59,Vinny Testaverde,5,Yes
+5,1992,Tampa Bay Buccaneers,14,358,206,57.54,2554,7.1,81,14,16,123,34.36,37,35,259,74.2,Vinny Testaverde,6,Yes
+6,1993,Cleveland Browns,10,230,130,56.52,1797,7.8,62,14,9,85,36.96,25,17,101,85.7,Vinny Testaverde,7,Yes
+7,1994,Cleveland Browns,14,376,207,55.05,2575,6.9,81,16,18,125,33.24,33,12,83,70.7,Vinny Testaverde,8,Yes
+8,1995,Cleveland Browns,13,392,241,61.48,2883,7.4,70,17,10,146,37.24,42,17,87,87.8,Vinny Testaverde,9,Yes
+9,1996,Baltimore Ravens,16,549,325,59.2,4177,7.6,86,33,19,200,36.43,59,34,270,88.7,Vinny Testaverde,10,Yes
+10,1997,Baltimore Ravens,13,470,271,57.66,2971,6.3,54,18,15,139,29.57,32,20,129,75.9,Vinny Testaverde,11,Yes
+11,1998,New York Jets,14,421,259,61.52,3256,7.7,82,29,7,170,40.38,42,19,140,101.6,Vinny Testaverde,12,Yes
+12,1999,New York Jets,1,15,10,66.67,96,6.4,27,1,1,6,40,1,0,0,78.8,Vinny Testaverde,13,Yes
+13,2000,New York Jets,16,590,328,55.59,3732,6.3,63,21,25,179,30.34,47,13,71,69,Vinny Testaverde,14,Yes
+14,2001,New York Jets,16,441,260,58.96,2752,6.2,40,15,14,144,32.65,38,18,122,75.3,Vinny Testaverde,15,Yes
+15,2002,New York Jets,5,83,54,65.06,499,6,35,3,3,23,27.71,4,9,62,78.3,Vinny Testaverde,16,Yes
+16,2003,New York Jets,7,198,123,62.12,1385,7,61,7,2,65,32.83,18,6,48,90.6,Vinny Testaverde,17,Yes
+17,2004,Dallas Cowboys,16,495,297,60,3532,7.1,53,17,20,163,32.93,47,34,182,76.4,Vinny Testaverde,18,Yes
+18,2005,New York Jets,6,106,60,56.6,777,7.3,47,1,6,35,33.02,9,12,102,59.4,Vinny Testaverde,19,Yes
+19,2006,New England Patriots,3,3,2,66.67,29,9.7,23,1,0,2,66.67,1,0,0,137.5,Vinny Testaverde,20,Yes
+20,2007,Carolina Panthers,7,172,94,54.65,952,5.5,65,5,6,46,26.74,12,9,46,65.8,Vinny Testaverde,21,Yes
+0,1949,Chicago Bears,12,21,9,42.9,197,9.4,0,0,5,0,0,0,0,33,37.3,George Blanda,1,Yes
+1,1950,Chicago Bears,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,George Blanda,2,Yes
+2,1951,Chicago Bears,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,George Blanda,3,Yes
+3,1952,Chicago Bears,12,131,47,35.9,664,5.1,0,8,11,0,0,0,0,74,38.5,George Blanda,4,Yes
+4,1953,Chicago Bears,12,362,169,46.7,2164,6,0,14,23,0,0,0,0,110,52.3,George Blanda,5,Yes
+5,1954,Chicago Bears,8,281,131,46.6,1929,6.9,0,15,17,0,0,0,0,108,62.1,George Blanda,6,Yes
+6,1955,Chicago Bears,12,97,42,43.3,459,4.7,0,4,7,0,0,0,0,57,41.6,George Blanda,7,Yes
+7,1956,Chicago Bears,12,69,37,53.6,439,6.4,0,7,4,0,0,0,0,21,82.9,George Blanda,8,Yes
+8,1957,Chicago Bears,12,19,8,42.1,65,3.4,0,0,3,0,0,0,0,13,11.8,George Blanda,9,Yes
+9,1958,Chicago Bears,12,7,2,28.6,19,2.7,0,0,0,0,0,0,0,10,39.6,George Blanda,10,Yes
+10,1960,Houston Oilers,14,363,169,46.6,2413,6.6,0,24,22,0,0,0,0,0,65.4,George Blanda,11,Yes
+11,1961,Houston Oilers,14,362,187,51.7,3330,9.2,0,36,22,0,0,0,0,0,91.3,George Blanda,12,Yes
+12,1962,Houston Oilers,14,418,197,47.1,2810,6.7,0,27,42,0,0,0,0,0,51.3,George Blanda,13,Yes
+13,1963,Houston Oilers,14,423,224,53,3003,7.1,0,24,25,0,0,0,0,0,70.1,George Blanda,14,Yes
+14,1964,Houston Oilers,14,505,262,51.9,3287,6.5,0,17,27,0,0,0,0,0,61.4,George Blanda,15,Yes
+15,1965,Houston Oilers,14,442,186,42.1,2542,5.8,0,20,30,0,0,0,0,0,47.9,George Blanda,16,Yes
+16,1966,Houston Oilers,14,271,122,45,1764,6.5,0,17,21,0,0,0,0,0,55.3,George Blanda,17,Yes
+17,1967,Oakland Raiders,14,38,15,39.5,285,7.5,0,3,3,0,0,0,3,19,59.6,George Blanda,18,Yes
+18,1968,Oakland Raiders,14,49,30,61.2,522,10.7,0,6,2,0,0,0,2,19,120.1,George Blanda,19,Yes
+19,1969,Oakland Raiders,14,13,6,46.2,73,5.6,0,2,1,0,0,0,1,4,71.5,George Blanda,20,Yes
+20,1970,Oakland Raiders,14,55,29,52.73,461,8.4,0,6,5,0,0,0,4,37,79.4,George Blanda,21,Yes
+21,1971,Oakland Raiders,14,58,32,55.17,378,6.5,0,4,6,0,0,0,2,26,58.6,George Blanda,22,Yes
+22,1972,Oakland Raiders,14,15,5,33.33,77,5.1,0,1,0,0,0,0,2,19,73.5,George Blanda,23,Yes
+23,1973,Oakland Raiders,14,0,0,0,0,0,0,0,0,0,0,0,0,0,,George Blanda,24,Yes
+24,1974,Oakland Raiders,14,4,1,25,28,7,0,1,0,0,0,0,0,0,95.8,George Blanda,25,Yes
+25,1975,Oakland Raiders,14,3,1,33.33,11,3.7,11,0,1,0,0,0,3,8,5.6,George Blanda,26,Yes
+0,1974,Cleveland Browns,10,108,59,54.63,603,5.6,0,1,7,0,0,0,15,122,47,Brian Sipe,1,Yes
+1,1975,Cleveland Browns,7,88,45,51.14,427,4.9,22,1,3,0,0,0,8,58,54.5,Brian Sipe,2,Yes
+2,1976,Cleveland Browns,14,312,178,57.05,2113,6.8,52,17,14,0,0,0,16,142,77.3,Brian Sipe,3,Yes
+3,1977,Cleveland Browns,9,195,112,57.44,1233,6.3,52,9,14,0,0,0,16,114,61.8,Brian Sipe,4,Yes
+4,1978,Cleveland Browns,16,399,222,55.64,2906,7.3,69,21,15,0,0,0,29,229,80.7,Brian Sipe,5,Yes
+5,1979,Cleveland Browns,16,535,286,53.46,3793,7.1,74,28,26,0,0,0,43,347,73.4,Brian Sipe,6,Yes
+6,1980,Cleveland Browns,16,554,337,60.83,4132,7.5,65,30,14,0,0,0,23,217,91.4,Brian Sipe,7,Yes
+7,1981,Cleveland Browns,16,567,313,55.2,3876,6.8,62,17,25,0,0,0,34,310,68.2,Brian Sipe,8,Yes
+8,1982,Cleveland Browns,6,185,101,54.59,1064,5.8,40,4,8,0,0,0,13,117,60.7,Brian Sipe,9,Yes
+9,1983,Cleveland Browns,15,496,291,58.67,3566,7.2,66,26,23,0,0,0,27,233,79.1,Brian Sipe,10,Yes
+0,1992,Minnesota Vikings,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Brad Johnson,1,Yes
+1,1993,Minnesota Vikings,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Brad Johnson,2,Yes
+2,1994,Minnesota Vikings,4,37,22,59.46,150,4.1,15,0,0,7,18.92,0,1,5,68.5,Brad Johnson,3,Yes
+3,1995,Minnesota Vikings,5,36,25,69.44,272,7.6,39,0,2,10,27.78,4,2,18,68.3,Brad Johnson,4,Yes
+4,1996,Minnesota Vikings,12,311,195,62.7,2258,7.3,82,17,10,110,35.37,27,15,119,89.4,Brad Johnson,5,Yes
+5,1997,Minnesota Vikings,13,452,275,60.84,3036,6.7,56,20,12,150,33.19,36,26,164,84.5,Brad Johnson,6,Yes
+6,1998,Minnesota Vikings,4,101,65,64.36,747,7.4,48,7,5,42,41.58,7,4,30,89,Brad Johnson,7,Yes
+7,1999,Washington Redskins,16,519,316,60.89,4005,7.7,65,24,13,177,34.1,62,29,177,90,Brad Johnson,8,Yes
+8,2000,Washington Redskins,12,365,228,62.47,2505,6.9,77,11,15,120,32.88,23,20,150,75.7,Brad Johnson,9,Yes
+9,2001,Tampa Bay Buccaneers,16,559,340,60.82,3406,6.1,47,13,11,179,32.02,34,44,269,77.7,Brad Johnson,10,Yes
+10,2002,Tampa Bay Buccaneers,13,451,281,62.31,3049,6.8,76,22,6,142,31.49,32,21,121,92.9,Brad Johnson,11,Yes
+11,2003,Tampa Bay Buccaneers,16,570,354,62.11,3811,6.7,76,26,21,184,32.28,37,20,111,81.5,Brad Johnson,12,Yes
+12,2004,Tampa Bay Buccaneers,4,103,65,63.11,674,6.5,54,3,3,28,27.18,9,8,55,79.5,Brad Johnson,13,Yes
+13,2005,Minnesota Vikings,15,294,184,62.59,1885,6.4,80,12,4,92,31.29,15,23,134,88.9,Brad Johnson,14,Yes
+14,2006,Minnesota Vikings,15,439,270,61.5,2750,6.3,46,9,15,132,30.07,36,29,200,72,Brad Johnson,15,Yes
+15,2007,Dallas Cowboys,16,11,7,63.64,79,7.2,35,0,0,2,18.18,1,1,9,85,Brad Johnson,16,Yes
+16,2008,Dallas Cowboys,16,78,41,52.56,427,5.5,36,2,5,16,20.51,4,8,54,50.5,Brad Johnson,17,Yes
+0,1983,New York Jets,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ken O'Brien,1,Yes
+1,1984,New York Jets,10,203,116,57.14,1402,6.9,49,6,7,0,0,0,22,168,74,Ken O'Brien,2,Yes
+2,1985,New York Jets,16,488,297,60.86,3888,8,96,25,8,0,0,0,62,399,96.2,Ken O'Brien,3,Yes
+3,1986,New York Jets,15,482,300,62.24,3690,7.7,83,25,20,0,0,0,40,353,85.8,Ken O'Brien,4,Yes
+4,1987,New York Jets,12,393,234,59.54,2696,6.9,59,13,8,0,0,0,50,364,82.8,Ken O'Brien,5,Yes
+5,1988,New York Jets,14,424,236,55.66,2567,6.1,50,15,7,0,0,0,37,267,78.6,Ken O'Brien,6,Yes
+6,1989,New York Jets,15,477,288,60.38,3346,7,57,12,18,0,0,0,50,391,74.3,Ken O'Brien,7,Yes
+7,1990,New York Jets,16,411,226,54.99,2855,7,69,13,10,0,0,0,34,262,77.3,Ken O'Brien,8,Yes
+8,1991,New York Jets,16,489,287,58.69,3300,6.8,53,10,11,163,33.33,42,33,273,76.6,Ken O'Brien,9,Yes
+9,1992,New York Jets,10,98,55,56.12,642,6.6,55,5,6,28,28.57,7,10,61,67.6,Ken O'Brien,10,Yes
+10,1993,Philadelphia Eagles,5,137,71,51.82,708,5.2,41,4,3,45,32.85,5,15,116,67.4,Ken O'Brien,11,Yes
+0,1999,Minnesota Vikings,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,Daunte Culpepper,1,Yes
+1,2000,Minnesota Vikings,16,474,297,62.66,3937,8.3,78,33,16,190,40.08,56,34,181,98,Daunte Culpepper,2,Yes
+2,2001,Minnesota Vikings,11,366,235,64.21,2612,7.1,57,14,13,126,34.43,34,33,186,83.3,Daunte Culpepper,3,Yes
+3,2002,Minnesota Vikings,16,549,333,60.66,3853,7,61,18,23,188,34.24,48,47,244,75.3,Daunte Culpepper,4,Yes
+4,2003,Minnesota Vikings,14,454,295,64.98,3479,7.7,59,25,11,169,37.22,41,37,196,96.4,Daunte Culpepper,5,Yes
+5,2004,Minnesota Vikings,16,548,379,69.16,4717,8.6,82,39,11,224,40.88,63,46,238,110.9,Daunte Culpepper,6,Yes
+6,2005,Minnesota Vikings,7,216,139,64.35,1564,7.2,68,6,12,77,35.65,16,31,169,72,Daunte Culpepper,7,Yes
+7,2006,Miami Dolphins,4,134,81,60.45,929,6.9,52,2,3,44,32.84,11,21,150,77,Daunte Culpepper,8,Yes
+8,2007,Oakland Raiders,7,186,108,58.06,1331,7.2,59,5,5,60,32.26,17,21,130,78,Daunte Culpepper,9,Yes
+9,2008,Detroit Lions,5,115,60,52.17,786,6.8,70,4,6,30,26.09,11,14,95,63.9,Daunte Culpepper,10,Yes
+10,2009,Detroit Lions,8,157,89,56.69,945,6,38,3,6,45,28.66,8,14,107,64.8,Daunte Culpepper,11,Yes
+0,1981,St. Louis Cardinals,14,236,119,50.42,1575,6.7,75,4,10,0,0,0,32,286,59.9,Neil Lomax,1,Yes
+1,1982,St. Louis Cardinals,9,205,109,53.17,1367,6.7,42,5,6,0,0,0,31,234,70.1,Neil Lomax,2,Yes
+2,1983,St. Louis Cardinals,13,354,209,59.04,2636,7.5,71,24,11,0,0,0,43,315,92,Neil Lomax,3,Yes
+3,1984,St. Louis Cardinals,16,560,345,61.61,4614,8.2,83,28,16,0,0,0,49,377,92.5,Neil Lomax,4,Yes
+4,1985,St. Louis Cardinals,16,471,265,56.26,3214,6.8,47,18,12,0,0,0,61,442,79.5,Neil Lomax,5,Yes
+5,1986,St. Louis Cardinals,14,421,240,57.01,2583,6.1,48,13,12,0,0,0,52,381,73.6,Neil Lomax,6,Yes
+6,1987,St. Louis Cardinals,12,463,275,59.4,3387,7.3,57,24,12,0,0,0,48,350,88.5,Neil Lomax,7,Yes
+7,1988,Phoenix Cardinals,14,443,255,57.56,3395,7.7,93,20,11,0,0,0,46,315,86.7,Neil Lomax,8,Yes
+0,1963,Buffalo Bills,14,71,33,46.5,437,6.2,0,3,4,0,0,0,0,0,57.1,Daryle Lamonica,1,Yes
+1,1964,Buffalo Bills,14,128,55,43,1137,8.9,0,6,8,0,0,0,0,0,64.5,Daryle Lamonica,2,Yes
+2,1965,Buffalo Bills,14,70,29,41.4,376,5.4,0,3,6,0,0,0,0,0,37.6,Daryle Lamonica,3,Yes
+3,1966,Buffalo Bills,14,84,33,39.3,549,6.5,0,4,5,0,0,0,0,0,53.1,Daryle Lamonica,4,Yes
+4,1967,Oakland Raiders,14,425,220,51.8,3228,7.6,0,30,20,0,0,0,37,334,80.8,Daryle Lamonica,5,Yes
+5,1968,Oakland Raiders,13,416,206,49.5,3245,7.8,0,25,15,0,0,0,27,224,80.9,Daryle Lamonica,6,Yes
+6,1969,Oakland Raiders,14,426,221,51.9,3302,7.8,0,34,25,0,0,0,11,100,79.8,Daryle Lamonica,7,Yes
+7,1970,Oakland Raiders,14,356,179,50.28,2516,7.1,0,22,15,0,0,0,15,127,76.5,Daryle Lamonica,8,Yes
+8,1971,Oakland Raiders,14,242,118,48.76,1717,7.1,0,16,16,0,0,0,18,172,66.8,Daryle Lamonica,9,Yes
+9,1972,Oakland Raiders,14,281,149,53.02,1998,7.1,0,18,12,0,0,0,14,136,79.5,Daryle Lamonica,10,Yes
+10,1973,Oakland Raiders,8,93,42,45.16,614,6.6,0,2,8,0,0,0,11,87,38.6,Daryle Lamonica,11,Yes
+11,1974,Oakland Raiders,4,9,3,33.33,35,3.9,0,1,4,0,0,0,3,14,43.5,Daryle Lamonica,12,Yes
+0,1974,Los Angeles Rams,5,24,10,41.67,144,6,0,0,1,0,0,0,3,24,44.4,Ron Jaworski,1,Yes
+1,1975,Los Angeles Rams,14,48,24,50,302,6.3,25,0,2,0,0,0,9,75,52.6,Ron Jaworski,2,Yes
+2,1976,Los Angeles Rams,5,52,20,38.46,273,5.3,42,1,5,0,0,0,5,51,22.8,Ron Jaworski,3,Yes
+3,1977,Philadelphia Eagles,14,346,166,47.98,2183,6.3,55,18,21,0,0,0,47,342,60.4,Ron Jaworski,4,Yes
+4,1978,Philadelphia Eagles,16,398,206,51.76,2487,6.3,56,16,16,0,0,0,41,288,67.9,Ron Jaworski,5,Yes
+5,1979,Philadelphia Eagles,16,374,190,50.8,2669,7.1,53,18,12,0,0,0,34,272,76.8,Ron Jaworski,6,Yes
+6,1980,Philadelphia Eagles,16,451,257,56.98,3529,7.8,56,27,12,0,0,0,27,213,91,Ron Jaworski,7,Yes
+7,1981,Philadelphia Eagles,16,461,250,54.23,3095,6.7,85,23,20,0,0,0,21,197,73.8,Ron Jaworski,8,Yes
+8,1982,Philadelphia Eagles,9,286,167,58.39,2076,7.3,57,12,12,0,0,0,31,244,77.5,Ron Jaworski,9,Yes
+9,1983,Philadelphia Eagles,16,446,235,52.69,3315,7.4,83,20,18,0,0,0,53,385,75.1,Ron Jaworski,10,Yes
+10,1984,Philadelphia Eagles,13,427,234,54.8,2754,6.5,90,16,14,0,0,0,34,270,73.5,Ron Jaworski,11,Yes
+11,1985,Philadelphia Eagles,16,484,255,52.69,3450,7.1,99,17,20,0,0,0,34,289,70.2,Ron Jaworski,12,Yes
+12,1986,Philadelphia Eagles,10,245,128,52.24,1405,5.7,56,8,6,0,0,0,22,156,70.2,Ron Jaworski,13,Yes
+13,1987,Miami Dolphins,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Ron Jaworski,14,Yes
+14,1988,Miami Dolphins,16,14,9,64.29,123,8.8,22,1,0,0,0,0,1,10,116.1,Ron Jaworski,15,Yes
+15,1989,Kansas City Chiefs,6,61,36,59.02,385,6.3,32,2,5,0,0,0,1,10,54.3,Ron Jaworski,16,Yes
+0,1999,San Francisco 49ers,13,375,225,60,2544,6.8,62,11,11,133,35.47,28,15,104,77.9,Jeff Garcia,1,Yes
+1,2000,San Francisco 49ers,16,561,355,63.28,4278,7.6,69,31,10,205,36.54,59,24,155,97.6,Jeff Garcia,2,Yes
+2,2001,San Francisco 49ers,16,504,316,62.7,3538,7,61,32,12,183,36.31,40,26,114,94.8,Jeff Garcia,3,Yes
+3,2002,San Francisco 49ers,16,528,328,62.12,3344,6.3,76,21,10,171,32.39,31,17,93,85.6,Jeff Garcia,4,Yes
+4,2003,San Francisco 49ers,13,392,225,57.4,2704,6.9,75,18,13,131,33.42,35,21,104,80.1,Jeff Garcia,5,Yes
+5,2004,Cleveland Browns,11,252,144,57.14,1731,6.9,99,10,9,71,28.17,18,24,99,76.7,Jeff Garcia,6,Yes
+6,2005,Detroit Lions,6,173,102,58.96,937,5.4,49,3,6,45,26.01,11,6,34,65.1,Jeff Garcia,7,Yes
+7,2006,Philadelphia Eagles,8,188,116,61.7,1309,7,65,10,2,61,32.45,16,6,40,95.8,Jeff Garcia,8,Yes
+8,2007,Tampa Bay Buccaneers,13,327,209,63.91,2440,7.5,69,13,4,112,34.25,29,19,104,94.6,Jeff Garcia,9,Yes
+9,2008,Tampa Bay Buccaneers,12,376,244,64.89,2712,7.2,71,12,6,125,33.24,33,23,100,90.2,Jeff Garcia,10,Yes
+10,2009,Philadelphia Eagles,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,Jeff Garcia,11,Yes
+11,2011,Houston Texans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Jeff Garcia,12,Yes
+0,1993,San Diego Chargers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Trent Green,1,Yes
+1,1995,Washington Redskins,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,Trent Green,2,Yes
+2,1996,Washington Redskins,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Trent Green,3,Yes
+3,1997,Washington Redskins,1,1,0,0,0,0,0,0,0,0,0,0,0,0,39.6,Trent Green,4,Yes
+4,1998,Washington Redskins,15,509,278,54.62,3441,6.8,75,23,11,172,33.79,40,49,338,81.8,Trent Green,5,Yes
+5,1999,St. Louis Rams,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Trent Green,6,Yes
+6,2000,St. Louis Rams,8,240,145,60.42,2063,8.6,64,16,5,94,39.17,30,24,145,101.8,Trent Green,7,Yes
+7,2001,Kansas City Chiefs,16,523,296,56.6,3783,7.2,67,17,24,176,33.65,51,39,198,71.1,Trent Green,8,Yes
+8,2002,Kansas City Chiefs,16,470,287,61.06,3690,7.9,99,26,13,176,37.45,46,26,141,92.6,Trent Green,9,Yes
+9,2003,Kansas City Chiefs,16,523,330,63.1,4039,7.7,67,24,12,198,37.86,54,20,130,92.6,Trent Green,10,Yes
+10,2004,Kansas City Chiefs,16,556,369,66.37,4591,8.3,70,27,17,227,40.83,59,32,227,95.2,Trent Green,11,Yes
+11,2005,Kansas City Chiefs,16,507,317,62.52,4014,7.9,60,17,10,182,35.9,51,32,204,90.1,Trent Green,12,Yes
+12,2006,Kansas City Chiefs,8,198,121,61.11,1342,6.8,39,7,9,76,38.38,13,24,127,74.1,Trent Green,13,Yes
+13,2007,Miami Dolphins,5,141,85,60.28,987,7,43,5,7,51,36.17,14,7,53,72.6,Trent Green,14,Yes
+14,2008,St. Louis Rams,3,72,38,52.78,525,7.3,53,0,6,19,26.39,8,6,58,41.7,Trent Green,15,Yes
+0,1985,Cleveland Browns,12,248,124,50,1578,6.4,68,8,7,0,0,0,19,121,69.3,Bernie Kosar,1,Yes
+1,1986,Cleveland Browns,16,531,310,58.38,3854,7.3,72,17,10,0,0,0,39,274,83.8,Bernie Kosar,2,Yes
+2,1987,Cleveland Browns,12,389,241,61.95,3033,7.8,54,22,9,0,0,0,22,129,95.4,Bernie Kosar,3,Yes
+3,1988,Cleveland Browns,9,259,156,60.23,1890,7.3,77,10,7,0,0,0,25,172,84.3,Bernie Kosar,4,Yes
+4,1989,Cleveland Browns,16,513,303,59.06,3533,6.9,97,18,14,0,0,0,34,192,80.3,Bernie Kosar,5,Yes
+5,1990,Cleveland Browns,13,423,230,54.37,2562,6.1,50,10,15,0,0,0,37,220,65.7,Bernie Kosar,6,Yes
+6,1991,Cleveland Browns,16,494,307,62.15,3487,7.1,71,18,9,161,32.59,42,41,232,87.8,Bernie Kosar,7,Yes
+7,1992,Cleveland Browns,7,155,103,66.45,1160,7.5,69,8,7,58,37.42,11,21,126,87,Bernie Kosar,8,Yes
+8,1993,Dallas Cowboys,11,201,115,57.21,1217,6.1,86,8,3,55,27.36,15,23,132,82,Bernie Kosar,9,Yes
+9,1994,Miami Dolphins,2,12,7,58.33,80,6.7,22,1,1,6,50,2,0,0,71.5,Bernie Kosar,10,Yes
+10,1995,Miami Dolphins,9,108,74,68.52,699,6.5,31,3,5,35,32.41,6,6,28,76.1,Bernie Kosar,11,Yes
+11,1996,Miami Dolphins,3,32,24,75,208,6.5,20,1,0,11,34.38,1,6,34,102.1,Bernie Kosar,12,Yes
+0,1978,Tampa Bay Buccaneers,10,194,73,37.63,1170,6,56,7,8,0,0,0,6,69,53.4,Doug Williams,1,Yes
+1,1979,Tampa Bay Buccaneers,16,397,166,41.81,2448,6.2,66,18,24,0,0,0,7,57,52.5,Doug Williams,2,Yes
+2,1980,Tampa Bay Buccaneers,16,521,254,48.75,3396,6.5,61,20,16,0,0,0,23,194,69.9,Doug Williams,3,Yes
+3,1981,Tampa Bay Buccaneers,16,471,238,50.53,3563,7.6,84,19,14,0,0,0,18,135,76.8,Doug Williams,4,Yes
+4,1982,Tampa Bay Buccaneers,9,307,164,53.42,2071,6.8,62,9,11,0,0,0,11,128,69.6,Doug Williams,5,Yes
+5,1986,Washington Redskins,1,1,0,0,0,0,0,0,0,0,0,0,0,0,39.6,Doug Williams,6,Yes
+6,1987,Washington Redskins,5,143,81,56.64,1156,8.1,62,11,5,0,0,0,7,53,94,Doug Williams,7,Yes
+7,1988,Washington Redskins,11,380,213,56.05,2609,6.9,58,15,12,0,0,0,10,88,77.4,Doug Williams,8,Yes
+8,1989,Washington Redskins,4,93,51,54.84,585,6.3,46,1,3,0,0,0,2,10,64.1,Doug Williams,9,Yes
+0,1993,New England Patriots,13,429,214,49.88,2494,5.8,54,15,15,130,30.3,32,16,99,65,Drew Bledsoe,1,Yes
+1,1994,New England Patriots,16,691,400,57.89,4555,6.6,62,25,27,242,35.02,52,22,139,73.6,Drew Bledsoe,2,Yes
+2,1995,New England Patriots,15,636,323,50.79,3507,5.5,47,13,16,192,30.19,34,23,170,63.7,Drew Bledsoe,3,Yes
+3,1996,New England Patriots,16,623,373,59.87,4086,6.6,84,27,15,206,33.07,45,30,190,83.7,Drew Bledsoe,4,Yes
+4,1997,New England Patriots,16,522,314,60.15,3706,7.1,76,28,15,168,32.18,47,30,258,87.7,Drew Bledsoe,5,Yes
+5,1998,New England Patriots,14,481,263,54.68,3633,7.6,86,20,14,166,34.51,50,36,295,80.9,Drew Bledsoe,6,Yes
+6,1999,New England Patriots,16,539,305,56.59,3985,7.4,68,19,21,184,34.14,50,55,342,75.6,Drew Bledsoe,7,Yes
+7,2000,New England Patriots,16,531,312,58.76,3291,6.2,59,17,13,164,30.89,33,45,264,77.3,Drew Bledsoe,8,Yes
+8,2001,New England Patriots,2,66,40,60.61,400,6.1,58,2,2,18,27.27,4,5,21,75.3,Drew Bledsoe,9,Yes
+9,2002,Buffalo Bills,16,610,375,61.48,4359,7.2,73,24,15,218,35.74,45,54,369,86,Drew Bledsoe,10,Yes
+10,2003,Buffalo Bills,16,471,274,58.17,2860,6.1,54,11,12,142,30.15,28,49,371,73,Drew Bledsoe,11,Yes
+11,2004,Buffalo Bills,16,450,256,56.89,2932,6.5,69,20,16,144,32,31,37,215,76.6,Drew Bledsoe,12,Yes
+12,2005,Dallas Cowboys,16,499,300,60.12,3639,7.3,71,23,17,177,35.47,42,49,295,83.7,Drew Bledsoe,13,Yes
+13,2006,Dallas Cowboys,6,169,90,53.25,1164,6.9,51,7,8,54,31.95,14,16,107,69.2,Drew Bledsoe,14,Yes
+0,1962,San Diego Chargers,14,260,107,41.2,1632,6.3,0,15,24,0,0,0,0,0,43.3,John Hadl,1,Yes
+1,1963,San Diego Chargers,14,64,28,43.8,502,7.8,0,6,6,0,0,0,0,0,63.4,John Hadl,2,Yes
+2,1964,San Diego Chargers,14,274,147,53.6,2157,7.9,0,18,15,0,0,0,0,0,78.7,John Hadl,3,Yes
+3,1965,San Diego Chargers,14,348,174,50,2798,8,0,20,21,0,0,0,0,0,71.3,John Hadl,4,Yes
+4,1966,San Diego Chargers,14,375,200,53.3,2846,7.6,0,23,14,0,0,0,0,0,83,John Hadl,5,Yes
+5,1967,San Diego Chargers,14,427,217,50.8,3365,7.9,0,24,22,0,0,0,9,91,74.5,John Hadl,6,Yes
+6,1968,San Diego Chargers,14,440,208,47.3,3473,7.9,0,27,32,0,0,0,10,110,64.5,John Hadl,7,Yes
+7,1969,San Diego Chargers,14,324,158,48.8,2253,7,0,10,11,0,0,0,18,190,67.8,John Hadl,8,Yes
+8,1970,San Diego Chargers,14,327,162,49.54,2388,7.3,0,22,15,0,0,0,42,327,77.1,John Hadl,9,Yes
+9,1971,San Diego Chargers,14,431,233,54.06,3075,7.1,0,21,25,0,0,0,16,145,68.9,John Hadl,10,Yes
+10,1972,San Diego Chargers,14,370,190,51.35,2449,6.6,0,15,26,0,0,0,19,187,56.7,John Hadl,11,Yes
+11,1973,Los Angeles Rams,14,258,135,52.33,2008,7.8,0,22,11,0,0,0,17,126,88.8,John Hadl,12,Yes
+12,1974,Green Bay Packers,14,299,142,47.49,1752,5.9,0,8,14,0,0,0,15,106,55.5,John Hadl,13,Yes
+13,1975,Green Bay Packers,14,353,191,54.11,2095,5.9,54,6,21,0,0,0,35,284,52.8,John Hadl,14,Yes
+14,1976,Houston Oilers,14,113,60,53.1,634,5.6,69,7,8,0,0,0,15,123,60.9,John Hadl,15,Yes
+15,1977,Houston Oilers,14,24,11,45.83,76,3.2,18,0,3,0,0,0,2,26,13.9,John Hadl,16,Yes
+0,1966,St. Louis Cardinals,1,11,4,36.4,29,2.6,0,0,0,0,0,0,2,21,44.9,Jim Hart,1,Yes
+1,1967,St. Louis Cardinals,14,397,192,48.4,3008,7.6,0,19,30,0,0,0,22,219,58.4,Jim Hart,2,Yes
+2,1968,St. Louis Cardinals,13,316,140,44.3,2059,6.5,0,15,18,0,0,0,15,129,58.2,Jim Hart,3,Yes
+3,1969,St. Louis Cardinals,9,169,84,49.7,1086,6.4,0,6,12,0,0,0,10,100,52.5,Jim Hart,4,Yes
+4,1970,St. Louis Cardinals,14,373,171,45.84,2575,6.9,0,14,18,0,0,0,26,216,61.5,Jim Hart,5,Yes
+5,1971,St. Louis Cardinals,11,243,110,45.27,1626,6.7,0,8,14,0,0,0,13,139,54.7,Jim Hart,6,Yes
+6,1972,St. Louis Cardinals,6,119,60,50.42,857,7.2,0,5,5,0,0,0,7,56,70.6,Jim Hart,7,Yes
+7,1973,St. Louis Cardinals,12,320,178,55.63,2223,7,0,15,10,0,0,0,22,168,80,Jim Hart,8,Yes
+8,1974,St. Louis Cardinals,14,388,200,51.55,2411,6.2,0,20,8,0,0,0,16,134,79.5,Jim Hart,9,Yes
+9,1975,St. Louis Cardinals,14,345,182,52.75,2507,7.3,80,19,19,0,0,0,6,43,71.7,Jim Hart,10,Yes
+10,1976,St. Louis Cardinals,14,388,218,56.19,2946,7.6,77,18,13,0,0,0,17,132,82,Jim Hart,11,Yes
+11,1977,St. Louis Cardinals,14,355,186,52.39,2542,7.2,69,13,20,0,0,0,13,89,64.3,Jim Hart,12,Yes
+12,1978,St. Louis Cardinals,15,477,240,50.31,3121,6.5,74,16,18,0,0,0,20,166,66.7,Jim Hart,13,Yes
+13,1979,St. Louis Cardinals,14,378,194,51.32,2218,5.9,51,9,20,0,0,0,25,183,55.2,Jim Hart,14,Yes
+14,1980,St. Louis Cardinals,15,425,228,53.65,2946,6.9,69,16,20,0,0,0,39,292,68.6,Jim Hart,15,Yes
+15,1981,St. Louis Cardinals,10,241,134,55.6,1694,7,58,11,14,0,0,0,16,119,68.7,Jim Hart,16,Yes
+16,1982,St. Louis Cardinals,4,33,19,57.58,199,6,22,1,0,0,0,0,0,0,85.3,Jim Hart,17,Yes
+17,1983,St. Louis Cardinals,5,91,50,54.95,592,6.5,39,4,8,0,0,0,13,99,53,Jim Hart,18,Yes
+18,1984,Washington Redskins,2,7,3,42.86,26,3.7,13,0,0,0,0,0,0,0,53.3,Jim Hart,19,Yes
+0,1965,New York Jets,13,340,164,48.2,2220,6.5,0,18,15,0,0,0,0,0,68.8,Joe Namath,1,Yes
+1,1966,New York Jets,14,471,232,49.3,3379,7.2,0,19,27,0,0,0,0,0,62.6,Joe Namath,2,Yes
+2,1967,New York Jets,14,491,258,52.5,4007,8.2,0,26,28,0,0,0,26,261,73.8,Joe Namath,3,Yes
+3,1968,New York Jets,14,380,187,49.2,3147,8.3,0,15,17,0,0,0,15,112,72.1,Joe Namath,4,Yes
+4,1969,New York Jets,14,361,185,51.2,2734,7.6,0,19,17,0,0,0,13,117,74.3,Joe Namath,5,Yes
+5,1970,New York Jets,5,179,90,50.28,1259,7,0,5,12,0,0,0,6,63,54.7,Joe Namath,6,Yes
+6,1971,New York Jets,4,59,28,47.46,537,9.1,0,5,6,0,0,0,0,0,68.2,Joe Namath,7,Yes
+7,1972,New York Jets,13,324,162,50,2816,8.7,0,19,21,0,0,0,11,101,72.5,Joe Namath,8,Yes
+8,1973,New York Jets,6,133,68,51.13,966,7.3,0,5,6,0,0,0,10,97,68.7,Joe Namath,9,Yes
+9,1974,New York Jets,14,361,191,52.91,2616,7.3,0,20,22,0,0,0,19,195,69.4,Joe Namath,10,Yes
+10,1975,New York Jets,14,326,157,48.16,2286,7,91,15,28,0,0,0,27,253,51,Joe Namath,11,Yes
+11,1976,New York Jets,11,230,114,49.57,1090,4.7,35,4,16,0,0,0,16,150,39.9,Joe Namath,12,Yes
+12,1977,Los Angeles Rams,4,107,50,46.73,606,5.7,42,3,5,0,0,0,7,76,54.5,Joe Namath,13,Yes
+0,1980,Seattle Seahawks,1,2,0,0,0,0,0,0,0,0,0,0,1,6,39.6,Dave Krieg,1,Yes
+1,1981,Seattle Seahawks,7,112,64,57.14,843,7.5,57,7,5,0,0,0,11,85,83.3,Dave Krieg,2,Yes
+2,1982,Seattle Seahawks,3,78,49,62.82,501,6.4,44,2,2,0,0,0,16,117,79.1,Dave Krieg,3,Yes
+3,1983,Seattle Seahawks,9,243,147,60.49,2139,8.8,50,18,11,0,0,0,38,279,95,Dave Krieg,4,Yes
+4,1984,Seattle Seahawks,16,480,276,57.5,3671,7.7,80,32,24,0,0,0,40,314,83.3,Dave Krieg,5,Yes
+5,1985,Seattle Seahawks,16,532,285,53.57,3602,6.8,54,27,20,0,0,0,52,448,76.2,Dave Krieg,6,Yes
+6,1986,Seattle Seahawks,15,375,225,60,2921,7.8,72,21,11,0,0,0,35,281,91,Dave Krieg,7,Yes
+7,1987,Seattle Seahawks,12,294,178,60.54,2131,7.3,75,23,15,0,0,0,27,247,87.6,Dave Krieg,8,Yes
+8,1988,Seattle Seahawks,9,228,134,58.77,1741,7.6,75,18,8,0,0,0,12,92,94.6,Dave Krieg,9,Yes
+9,1989,Seattle Seahawks,15,499,286,57.31,3309,6.6,60,21,20,0,0,0,37,289,74.8,Dave Krieg,10,Yes
+10,1990,Seattle Seahawks,16,448,265,59.15,3194,7.1,63,15,20,0,0,0,40,360,73.6,Dave Krieg,11,Yes
+11,1991,Seattle Seahawks,10,285,187,65.61,2080,7.3,60,11,12,100,35.09,24,32,216,82.5,Dave Krieg,12,Yes
+12,1992,Kansas City Chiefs,16,413,230,55.69,3115,7.5,77,15,12,134,32.45,44,48,323,79.9,Dave Krieg,13,Yes
+13,1993,Kansas City Chiefs,12,189,105,55.56,1238,6.6,66,7,3,70,37.04,13,22,138,81.4,Dave Krieg,14,Yes
+14,1994,Detroit Lions,14,212,131,61.79,1629,7.7,51,14,3,81,38.21,19,14,100,101.7,Dave Krieg,15,Yes
+15,1995,Arizona Cardinals,16,521,304,58.35,3554,6.8,48,16,21,168,32.25,52,53,380,72.6,Dave Krieg,16,Yes
+16,1996,Chicago Bears,13,377,226,59.95,2278,6,53,14,12,127,33.69,22,14,104,76.3,Dave Krieg,17,Yes
+17,1997,Tennessee Oilers,8,2,1,50,2,1,2,0,0,0,0,0,0,0,56.3,Dave Krieg,18,Yes
+18,1998,Tennessee Oilers,5,21,12,57.14,199,9.5,55,0,0,7,33.33,2,2,15,89.2,Dave Krieg,19,Yes
+0,1987,Minnesota Vikings,4,6,2,33.33,18,3,12,0,1,0,0,0,0,0,2.8,Rich Gannon,1,Yes
+1,1988,Minnesota Vikings,3,15,7,46.67,90,6,19,0,0,0,0,0,3,22,66,Rich Gannon,2,Yes
+2,1989,Minnesota Vikings,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Rich Gannon,3,Yes
+3,1990,Minnesota Vikings,14,349,182,52.15,2278,6.5,78,16,16,0,0,0,34,188,68.9,Rich Gannon,4,Yes
+4,1991,Minnesota Vikings,15,354,211,59.6,2166,6.1,50,12,6,117,33.05,18,19,91,81.5,Rich Gannon,5,Yes
+5,1992,Minnesota Vikings,12,279,159,56.99,1905,6.8,60,12,13,94,33.69,24,25,177,72.9,Rich Gannon,6,Yes
+6,1993,Washington Redskins,8,125,74,59.2,704,5.6,54,3,7,36,28.8,4,16,87,59.5,Rich Gannon,7,Yes
+7,1995,Kansas City Chiefs,2,11,7,63.64,57,5.2,18,0,0,3,27.27,0,0,0,76.7,Rich Gannon,8,Yes
+8,1996,Kansas City Chiefs,4,90,54,60,491,5.5,25,6,1,32,35.56,2,5,42,92.4,Rich Gannon,9,Yes
+9,1997,Kansas City Chiefs,9,175,98,56,1144,6.5,47,7,4,58,33.14,16,13,86,79.8,Rich Gannon,10,Yes
+10,1998,Kansas City Chiefs,12,354,206,58.19,2305,6.5,80,10,6,104,29.38,23,25,155,80.1,Rich Gannon,11,Yes
+11,1999,Oakland Raiders,16,515,304,59.03,3840,7.5,50,24,14,195,37.86,52,49,241,86.5,Rich Gannon,12,Yes
+12,2000,Oakland Raiders,16,473,284,60.04,3430,7.3,84,28,11,177,37.42,42,28,124,92.4,Rich Gannon,13,Yes
+13,2001,Oakland Raiders,16,549,361,65.76,3828,7,49,27,9,194,35.34,45,27,155,95.5,Rich Gannon,14,Yes
+14,2002,Oakland Raiders,16,618,418,67.64,4689,7.6,75,26,10,226,36.57,48,36,214,97.3,Rich Gannon,15,Yes
+15,2003,Oakland Raiders,7,225,125,55.56,1274,5.7,46,6,4,54,24,15,17,90,73.5,Rich Gannon,16,Yes
+16,2004,Oakland Raiders,3,68,41,60.29,524,7.7,58,3,2,23,33.82,6,5,17,86.9,Rich Gannon,17,Yes
+0,1973,Baltimore Colts,8,108,43,39.81,539,5,0,4,12,0,0,0,14,126,28.8,Bert Jones,1,Yes
+1,1974,Baltimore Colts,11,270,143,52.96,1610,6,0,8,12,0,0,0,36,328,62.4,Bert Jones,2,Yes
+2,1975,Baltimore Colts,14,344,203,59.01,2483,7.2,90,18,8,0,0,0,38,325,89.1,Bert Jones,3,Yes
+3,1976,Baltimore Colts,14,343,207,60.35,3104,9.1,79,24,9,0,0,0,29,284,102.5,Bert Jones,4,Yes
+4,1977,Baltimore Colts,14,393,224,57,2686,6.8,78,17,11,0,0,0,26,221,80.8,Bert Jones,5,Yes
+5,1978,Baltimore Colts,3,42,27,64.29,370,8.8,78,4,1,0,0,0,6,62,114.2,Bert Jones,6,Yes
+6,1979,Baltimore Colts,4,92,43,46.74,643,7,59,3,3,0,0,0,10,77,67.4,Bert Jones,7,Yes
+7,1980,Baltimore Colts,15,446,248,55.61,3134,7,47,23,21,0,0,0,34,262,75.3,Bert Jones,8,Yes
+8,1981,Baltimore Colts,15,426,244,57.28,3094,7.3,67,21,20,0,0,0,31,263,76.9,Bert Jones,9,Yes
+9,1982,Los Angeles Rams,4,87,48,55.17,527,6.1,51,2,4,0,0,0,8,72,61.8,Bert Jones,10,Yes
+0,1971,New Orleans Saints,12,177,86,48.59,1164,6.6,0,6,9,0,0,0,40,332,60.1,Archie Manning,1,Yes
+1,1972,New Orleans Saints,14,448,230,51.34,2781,6.2,0,18,21,0,0,0,43,347,64.6,Archie Manning,2,Yes
+2,1973,New Orleans Saints,13,267,140,52.43,1642,6.2,0,10,12,0,0,0,28,177,65.2,Archie Manning,3,Yes
+3,1974,New Orleans Saints,11,261,134,51.34,1429,5.5,0,6,16,0,0,0,26,172,49.8,Archie Manning,4,Yes
+4,1975,New Orleans Saints,13,338,159,47.04,1683,5,71,7,20,0,0,0,49,390,44.3,Archie Manning,5,Yes
+5,1976,New Orleans Saints,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Archie Manning,6,Yes
+6,1977,New Orleans Saints,10,205,113,55.12,1284,6.3,59,8,9,0,0,0,36,288,68.8,Archie Manning,7,Yes
+7,1978,New Orleans Saints,16,471,291,61.78,3416,7.3,71,17,16,0,0,0,37,301,81.7,Archie Manning,8,Yes
+8,1979,New Orleans Saints,16,420,252,60,3169,7.6,85,15,20,0,0,0,17,140,75.6,Archie Manning,9,Yes
+9,1980,New Orleans Saints,16,509,309,60.71,3716,7.3,56,23,20,0,0,0,41,311,81.8,Archie Manning,10,Yes
+10,1981,New Orleans Saints,12,232,134,57.76,1447,6.2,55,5,11,0,0,0,21,164,63.6,Archie Manning,11,Yes
+11,1982,Houston Oilers,7,132,67,50.76,880,6.7,54,6,8,0,0,0,29,234,62.1,Archie Manning,12,Yes
+12,1983,Minnesota Vikings,5,88,44,50,755,8.6,47,2,8,0,0,0,11,83,49.2,Archie Manning,13,Yes
+13,1984,Minnesota Vikings,6,94,52,55.32,545,5.8,56,2,3,0,0,0,18,153,66.1,Archie Manning,14,Yes
+0,1974,Washington Redskins,9,11,9,81.82,145,13.2,0,1,0,0,0,0,2,11,149.1,Joe Theismann,1,Yes
+1,1975,Washington Redskins,14,22,10,45.45,96,4.4,30,1,3,0,0,0,2,18,33.7,Joe Theismann,2,Yes
+2,1976,Washington Redskins,14,163,79,48.47,1036,6.4,44,8,10,0,0,0,22,172,59.8,Joe Theismann,3,Yes
+3,1977,Washington Redskins,14,182,84,46.15,1097,6,52,7,9,0,0,0,30,241,57.9,Joe Theismann,4,Yes
+4,1978,Washington Redskins,16,390,187,47.95,2593,6.7,63,13,18,0,0,0,42,391,61.6,Joe Theismann,5,Yes
+5,1979,Washington Redskins,16,395,233,58.99,2797,7.1,62,20,13,0,0,0,34,263,83.9,Joe Theismann,6,Yes
+6,1980,Washington Redskins,16,454,262,57.71,2962,6.5,54,17,16,0,0,0,31,282,75.2,Joe Theismann,7,Yes
+7,1981,Washington Redskins,16,496,293,59.07,3568,7.2,79,19,20,0,0,0,28,259,77.3,Joe Theismann,8,Yes
+8,1982,Washington Redskins,9,252,161,63.89,2033,8.1,78,13,9,0,0,0,30,223,91.3,Joe Theismann,9,Yes
+9,1983,Washington Redskins,16,459,276,60.13,3714,8.1,84,29,11,0,0,0,34,242,97,Joe Theismann,10,Yes
+10,1984,Washington Redskins,16,477,283,59.33,3391,7.1,80,24,13,0,0,0,48,341,86.6,Joe Theismann,11,Yes
+11,1985,Washington Redskins,11,301,167,55.48,1774,5.9,55,8,16,0,0,0,37,314,59.6,Joe Theismann,12,Yes
+0,1965,Dallas Cowboys,4,34,17,50,173,5.1,0,2,4,0,0,0,10,68,45,Craig Morton,1,Yes
+1,1966,Dallas Cowboys,6,27,13,48.1,225,8.3,0,3,1,0,0,0,1,8,98.5,Craig Morton,2,Yes
+2,1967,Dallas Cowboys,9,137,69,50.4,978,7.1,0,10,10,0,0,0,17,125,67.7,Craig Morton,3,Yes
+3,1968,Dallas Cowboys,13,85,44,51.8,752,8.8,0,4,6,0,0,0,4,39,68.4,Craig Morton,4,Yes
+4,1969,Dallas Cowboys,13,302,162,53.6,2619,8.7,0,21,15,0,0,0,30,246,85.4,Craig Morton,5,Yes
+5,1970,Dallas Cowboys,12,207,102,49.28,1819,8.8,0,15,7,0,0,0,20,166,89.8,Craig Morton,6,Yes
+6,1971,Dallas Cowboys,10,143,78,54.55,1131,7.9,0,7,8,0,0,0,9,76,73.5,Craig Morton,7,Yes
+7,1972,Dallas Cowboys,14,339,185,54.57,2396,7.1,0,15,21,0,0,0,23,179,65.9,Craig Morton,8,Yes
+8,1973,Dallas Cowboys,14,32,13,40.63,174,5.4,0,3,1,0,0,0,0,0,76.8,Craig Morton,9,Yes
+9,1974,New York Giants,14,239,124,51.88,1522,6.4,0,9,13,0,0,0,13,97,61.7,Craig Morton,10,Yes
+10,1975,New York Giants,14,363,186,51.24,2359,6.5,56,11,16,0,0,0,47,331,63.6,Craig Morton,11,Yes
+11,1976,New York Giants,12,284,153,53.87,1865,6.6,63,9,20,0,0,0,39,285,55.6,Craig Morton,12,Yes
+12,1977,Denver Broncos,14,254,131,51.57,1929,7.6,81,14,8,0,0,0,43,338,82,Craig Morton,13,Yes
+13,1978,Denver Broncos,14,267,146,54.68,1802,6.8,42,11,8,0,0,0,36,238,77,Craig Morton,14,Yes
+14,1979,Denver Broncos,14,370,204,55.14,2626,7.1,64,16,19,0,0,0,30,241,70.6,Craig Morton,15,Yes
+15,1980,Denver Broncos,12,301,183,60.8,2150,7.1,41,12,13,0,0,0,26,190,77.8,Craig Morton,16,Yes
+16,1981,Denver Broncos,15,376,225,59.84,3195,8.5,95,21,14,0,0,0,54,394,90.5,Craig Morton,17,Yes
+17,1982,Denver Broncos,3,26,18,69.23,193,7.4,20,0,3,0,0,0,3,19,51.1,Craig Morton,18,Yes
+0,1998,St. Louis Rams,1,11,4,36.36,39,3.6,21,0,0,2,18.18,1,0,0,47.2,Kurt Warner,1,Yes
+1,1999,St. Louis Rams,16,499,325,65.13,4353,8.7,75,41,13,196,39.28,60,29,201,109.2,Kurt Warner,2,Yes
+2,2000,St. Louis Rams,11,347,235,67.72,3429,9.9,85,21,18,153,44.09,49,20,115,98.3,Kurt Warner,3,Yes
+3,2001,St. Louis Rams,16,546,375,68.68,4830,8.9,65,36,22,233,42.67,81,38,233,101.4,Kurt Warner,4,Yes
+4,2002,St. Louis Rams,7,220,144,65.45,1431,6.5,43,3,11,66,30,15,21,130,67.4,Kurt Warner,5,Yes
+5,2003,St. Louis Rams,2,65,38,58.46,365,5.6,37,1,1,15,23.08,3,6,38,72.9,Kurt Warner,6,Yes
+6,2004,New York Giants,10,277,174,62.82,2054,7.4,62,6,4,93,33.57,24,39,196,86.5,Kurt Warner,7,Yes
+7,2005,Arizona Cardinals,10,375,242,64.53,2713,7.2,63,11,9,134,35.73,37,23,158,85.8,Kurt Warner,8,Yes
+8,2006,Arizona Cardinals,6,168,108,64.29,1377,8.2,64,6,5,63,37.5,15,14,104,89.3,Kurt Warner,9,Yes
+9,2007,Arizona Cardinals,14,451,281,62.31,3417,7.6,62,27,17,167,37.03,44,20,140,89.8,Kurt Warner,10,Yes
+10,2008,Arizona Cardinals,16,598,401,67.06,4583,7.7,79,30,14,220,36.79,50,26,182,96.9,Kurt Warner,11,Yes
+11,2009,Arizona Cardinals,15,513,339,66.08,3753,7.3,45,26,14,191,37.23,42,24,172,93.2,Kurt Warner,12,Yes
+0,1971,New England Patriots,14,328,158,48.17,2158,6.6,0,19,16,0,0,0,36,319,68.6,Jim Plunkett,1,Yes
+1,1972,New England Patriots,14,355,169,47.61,2196,6.2,0,8,25,0,0,0,39,385,45.7,Jim Plunkett,2,Yes
+2,1973,New England Patriots,14,376,193,51.33,2550,6.8,0,13,17,0,0,0,37,350,65.8,Jim Plunkett,3,Yes
+3,1974,New England Patriots,14,352,173,49.15,2457,7,0,19,22,0,0,0,21,174,64.1,Jim Plunkett,4,Yes
+4,1975,New England Patriots,5,92,36,39.13,571,6.2,76,3,7,0,0,0,13,89,39.7,Jim Plunkett,5,Yes
+5,1976,San Francisco 49ers,12,243,126,51.85,1592,6.6,85,13,16,0,0,0,26,249,63,Jim Plunkett,6,Yes
+6,1977,San Francisco 49ers,14,248,128,51.61,1693,6.8,47,9,14,0,0,0,30,242,62.1,Jim Plunkett,7,Yes
+7,1978,Oakland Raiders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Jim Plunkett,8,Yes
+8,1979,Oakland Raiders,4,15,7,46.67,89,5.9,39,1,1,0,0,0,2,9,60.1,Jim Plunkett,9,Yes
+9,1980,Oakland Raiders,13,320,165,51.56,2299,7.2,86,18,16,0,0,0,36,285,72.9,Jim Plunkett,10,Yes
+10,1981,Oakland Raiders,9,179,94,52.51,1045,5.8,42,4,9,0,0,0,22,184,56.7,Jim Plunkett,11,Yes
+11,1982,Los Angeles Raiders,9,261,152,58.24,2035,7.8,52,14,15,0,0,0,23,211,77,Jim Plunkett,12,Yes
+12,1983,Los Angeles Raiders,14,379,230,60.69,2935,7.7,99,20,18,0,0,0,42,363,82.7,Jim Plunkett,13,Yes
+13,1984,Los Angeles Raiders,8,198,108,54.55,1473,7.4,73,6,10,0,0,0,13,103,67.6,Jim Plunkett,14,Yes
+14,1985,Los Angeles Raiders,3,103,71,68.93,803,7.8,41,3,3,0,0,0,13,101,89.6,Jim Plunkett,15,Yes
+15,1986,Los Angeles Raiders,10,252,133,52.78,1986,7.9,81,14,9,0,0,0,27,215,82.5,Jim Plunkett,16,Yes
+0,1957,San Francisco 49ers,5,21,11,52.4,160,7.6,0,2,3,0,0,0,0,0,69.6,John Brodie,1,Yes
+1,1958,San Francisco 49ers,12,172,103,59.9,1224,7.1,0,6,13,0,0,0,0,59,61.8,John Brodie,2,Yes
+2,1959,San Francisco 49ers,12,64,30,46.9,354,5.5,0,2,7,0,0,0,0,0,35,John Brodie,3,Yes
+3,1960,San Francisco 49ers,11,207,103,49.8,1111,5.4,0,6,9,0,0,0,0,189,57.5,John Brodie,4,Yes
+4,1961,San Francisco 49ers,14,283,155,54.8,2588,9.1,0,14,12,0,0,0,0,141,84.7,John Brodie,5,Yes
+5,1962,San Francisco 49ers,14,304,175,57.6,2272,7.5,0,18,16,0,0,0,0,349,79,John Brodie,6,Yes
+6,1963,San Francisco 49ers,3,61,30,49.2,367,6,0,3,4,0,0,0,1,5,57.2,John Brodie,7,Yes
+7,1964,San Francisco 49ers,14,392,193,49.2,2498,6.4,0,14,16,0,0,0,17,178,64.6,John Brodie,8,Yes
+8,1965,San Francisco 49ers,13,391,242,61.9,3112,8,0,30,16,0,0,0,14,101,95.3,John Brodie,9,Yes
+9,1966,San Francisco 49ers,14,427,232,54.3,2810,6.6,0,16,22,0,0,0,20,165,65.8,John Brodie,10,Yes
+10,1967,San Francisco 49ers,14,349,168,48.1,2013,5.8,0,11,16,0,0,0,18,129,57.6,John Brodie,11,Yes
+11,1968,San Francisco 49ers,14,404,234,57.9,3020,7.5,0,22,21,0,0,0,25,159,78,John Brodie,12,Yes
+12,1969,San Francisco 49ers,13,347,194,55.9,2405,6.9,0,16,15,0,0,0,16,134,74.9,John Brodie,13,Yes
+13,1970,San Francisco 49ers,14,378,223,58.99,2941,7.8,0,24,10,0,0,0,8,67,93.8,John Brodie,14,Yes
+14,1971,San Francisco 49ers,14,387,208,53.75,2642,6.8,0,18,24,0,0,0,11,111,65,John Brodie,15,Yes
+15,1972,San Francisco 49ers,6,110,70,63.64,905,8.2,0,9,8,0,0,0,8,39,86.4,John Brodie,16,Yes
+16,1973,San Francisco 49ers,14,194,98,50.52,1126,5.8,0,3,12,0,0,0,4,29,47.7,John Brodie,17,Yes
+0,1993,Green Bay Packers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Mark Brunell,1,Yes
+1,1994,Green Bay Packers,2,27,12,44.44,95,3.5,25,0,0,5,18.52,1,2,16,53.8,Mark Brunell,2,Yes
+2,1995,Jacksonville Jaguars,13,346,201,58.09,2168,6.3,45,15,7,107,30.92,23,39,238,82.6,Mark Brunell,3,Yes
+3,1996,Jacksonville Jaguars,16,557,353,63.38,4367,7.8,62,19,20,208,37.34,40,50,257,84,Mark Brunell,4,Yes
+4,1997,Jacksonville Jaguars,14,435,264,60.69,3281,7.5,75,18,7,160,36.78,44,33,189,91.2,Mark Brunell,5,Yes
+5,1998,Jacksonville Jaguars,13,354,208,58.76,2601,7.4,78,20,9,125,35.31,35,28,172,89.9,Mark Brunell,6,Yes
+6,1999,Jacksonville Jaguars,15,441,259,58.73,3060,6.9,62,14,9,154,34.92,39,29,174,82,Mark Brunell,7,Yes
+7,2000,Jacksonville Jaguars,16,512,311,60.74,3640,7.1,67,20,14,177,34.57,39,54,289,84,Mark Brunell,8,Yes
+8,2001,Jacksonville Jaguars,15,473,289,61.1,3309,7,44,19,13,164,34.67,37,57,387,84.1,Mark Brunell,9,Yes
+9,2002,Jacksonville Jaguars,15,416,245,58.89,2788,6.7,79,17,7,140,33.65,28,34,210,85.7,Mark Brunell,10,Yes
+10,2003,Jacksonville Jaguars,3,82,54,65.85,484,5.9,65,2,0,22,26.83,4,9,46,89.7,Mark Brunell,11,Yes
+11,2004,Washington Redskins,9,237,118,49.79,1194,5,49,7,6,66,27.85,10,15,105,63.9,Mark Brunell,12,Yes
+12,2005,Washington Redskins,16,454,262,57.71,3050,6.7,78,23,10,154,33.92,36,27,213,85.9,Mark Brunell,13,Yes
+13,2006,Washington Redskins,10,260,162,62.31,1789,6.9,74,8,4,80,30.77,24,12,92,86.5,Mark Brunell,14,Yes
+14,2007,Washington Redskins,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Mark Brunell,15,Yes
+15,2008,New Orleans Saints,2,0,0,0,0,0,0,0,0,0,0,0,0,0,,Mark Brunell,16,Yes
+16,2009,New Orleans Saints,16,30,15,50,102,3.4,18,0,1,5,16.67,0,0,0,44,Mark Brunell,17,Yes
+17,2010,New York Jets,2,13,7,53.85,117,9,52,2,1,7,53.85,1,1,7,92,Mark Brunell,18,Yes
+18,2011,New York Jets,16,3,1,33.33,27,9,27,0,0,1,33.33,1,0,0,67.4,Mark Brunell,19,Yes
+0,1995,Houston Oilers,4,80,41,51.25,569,7.1,53,3,1,23,28.75,8,6,63,81.7,Steve McNair,1,Yes
+1,1996,Houston Oilers,9,143,88,61.54,1197,8.4,83,6,4,47,32.87,15,9,45,90.6,Steve McNair,2,Yes
+2,1997,Tennessee Oilers,16,415,216,52.05,2665,6.4,55,14,13,134,32.29,36,31,190,70.4,Steve McNair,3,Yes
+3,1998,Tennessee Oilers,16,492,289,58.74,3228,6.6,47,15,10,160,32.52,41,33,176,80.1,Steve McNair,4,Yes
+4,1999,Tennessee Titans,11,331,187,56.5,2179,6.6,65,12,8,101,30.51,26,16,74,78.6,Steve McNair,5,Yes
+5,2000,Tennessee Titans,16,396,248,62.63,2847,7.2,56,15,13,141,35.61,31,24,141,83.2,Steve McNair,6,Yes
+6,2001,Tennessee Titans,15,431,264,61.25,3350,7.8,71,21,12,159,36.89,51,37,251,90.2,Steve McNair,7,Yes
+7,2002,Tennessee Titans,16,492,301,61.18,3387,6.9,55,22,15,178,36.18,35,21,121,84,Steve McNair,8,Yes
+8,2003,Tennessee Titans,14,400,250,62.5,3215,8,73,24,7,164,41,46,19,108,100.4,Steve McNair,9,Yes
+9,2004,Tennessee Titans,8,215,129,60,1343,6.3,37,8,9,76,35.35,10,13,95,73.1,Steve McNair,10,Yes
+10,2005,Tennessee Titans,14,476,292,61.34,3161,6.6,57,16,11,164,34.45,29,20,134,82.4,Steve McNair,11,Yes
+11,2006,Baltimore Ravens,16,468,295,63.03,3050,6.5,87,16,12,159,33.97,33,14,84,82.5,Steve McNair,12,Yes
+12,2007,Baltimore Ravens,6,205,133,64.88,1113,5.4,30,2,4,60,29.27,3,11,85,73.9,Steve McNair,13,Yes
+0,1984,Cincinnati Bengals,10,102,51,50,530,5.2,36,3,3,0,0,0,5,52,62.9,Boomer Esiason,1,Yes
+1,1985,Cincinnati Bengals,15,431,251,58.24,3443,8,68,27,12,0,0,0,32,289,93.2,Boomer Esiason,2,Yes
+2,1986,Cincinnati Bengals,16,469,273,58.21,3959,8.4,57,24,17,0,0,0,26,194,87.7,Boomer Esiason,3,Yes
+3,1987,Cincinnati Bengals,12,440,240,54.55,3321,7.6,61,16,19,0,0,0,26,209,73.1,Boomer Esiason,4,Yes
+4,1988,Cincinnati Bengals,16,388,223,57.47,3572,9.2,86,28,14,0,0,0,30,245,97.4,Boomer Esiason,5,Yes
+5,1989,Cincinnati Bengals,16,455,258,56.7,3525,7.8,74,28,11,0,0,0,36,288,92.1,Boomer Esiason,6,Yes
+6,1990,Cincinnati Bengals,16,402,224,55.72,3031,7.5,53,24,22,0,0,0,31,198,77,Boomer Esiason,7,Yes
+7,1991,Cincinnati Bengals,14,413,233,56.42,2883,7,53,13,16,139,33.66,38,25,190,72.5,Boomer Esiason,8,Yes
+8,1992,Cincinnati Bengals,12,278,144,51.8,1407,5.1,38,11,15,71,25.54,15,19,150,57,Boomer Esiason,9,Yes
+9,1993,New York Jets,16,473,288,60.89,3421,7.2,77,16,11,170,35.94,37,18,139,84.5,Boomer Esiason,10,Yes
+10,1994,New York Jets,15,440,255,57.95,2782,6.3,69,17,13,136,30.91,31,19,134,77.3,Boomer Esiason,11,Yes
+11,1995,New York Jets,12,389,221,56.81,2275,5.9,43,16,15,118,30.33,26,27,198,71.4,Boomer Esiason,12,Yes
+12,1996,Arizona Cardinals,10,339,190,56.05,2293,6.8,64,11,14,120,35.4,26,17,109,70.6,Boomer Esiason,13,Yes
+13,1997,Cincinnati Bengals,7,186,118,63.44,1478,8,77,13,2,75,40.32,15,7,43,106.9,Boomer Esiason,14,Yes
+0,1956,San Francisco 49ers,12,78,38,48.7,621,8,0,1,6,0,0,0,0,36,48.1,Earl Morrall,1,Yes
+1,1957,Pittsburgh Steelers,12,289,139,48.1,1900,6.6,0,11,12,0,0,0,0,274,64.9,Earl Morrall,2,Yes
+2,1958,Detroit Lions,2,46,16,34.8,275,6,0,1,7,0,0,0,0,17,23.6,Earl Morrall,3,Yes
+3,1959,Detroit Lions,12,137,65,47.4,1102,8,0,5,6,0,0,0,0,228,69.1,Earl Morrall,4,Yes
+4,1960,Detroit Lions,12,49,32,65.3,423,8.6,0,4,3,0,0,0,0,55,94.2,Earl Morrall,5,Yes
+5,1961,Detroit Lions,13,150,69,46,909,6.1,0,7,9,0,0,0,0,74,56.2,Earl Morrall,6,Yes
+6,1962,Detroit Lions,14,52,32,61.5,449,8.6,0,4,4,0,0,0,0,35,82.9,Earl Morrall,7,Yes
+7,1963,Detroit Lions,14,328,174,53,2621,8,0,24,14,0,0,0,29,243,86.2,Earl Morrall,8,Yes
+8,1964,Detroit Lions,6,91,50,54.9,588,6.5,0,4,3,0,0,0,10,97,75.7,Earl Morrall,9,Yes
+9,1965,New York Giants,14,302,155,51.3,2446,8.1,0,22,12,0,0,0,27,214,86.3,Earl Morrall,10,Yes
+10,1966,New York Giants,7,151,71,47,1105,7.3,0,7,12,0,0,0,18,152,54.1,Earl Morrall,11,Yes
+11,1967,New York Giants,8,24,13,54.2,181,7.5,0,3,1,0,0,0,8,59,100.9,Earl Morrall,12,Yes
+12,1968,Baltimore Colts,14,317,182,57.4,2909,9.2,0,26,17,0,0,0,24,180,93.2,Earl Morrall,13,Yes
+13,1969,Baltimore Colts,9,99,46,46.5,755,7.6,0,5,7,0,0,0,7,63,60,Earl Morrall,14,Yes
+14,1970,Baltimore Colts,14,93,51,54.84,792,8.5,0,9,4,0,0,0,14,131,97.6,Earl Morrall,15,Yes
+15,1971,Baltimore Colts,14,167,84,50.3,1210,7.3,0,7,12,0,0,0,11,89,58.2,Earl Morrall,16,Yes
+16,1972,Miami Dolphins,14,150,83,55.33,1360,9.1,0,11,7,0,0,0,14,114,91,Earl Morrall,17,Yes
+17,1973,Miami Dolphins,14,38,17,44.74,253,6.7,0,0,4,0,0,0,2,18,27.5,Earl Morrall,18,Yes
+18,1974,Miami Dolphins,14,27,17,62.96,301,11.2,0,2,3,0,0,0,3,16,86.1,Earl Morrall,19,Yes
+19,1975,Miami Dolphins,13,43,26,60.47,273,6.4,31,3,2,0,0,0,4,27,82.8,Earl Morrall,20,Yes
+20,1976,Miami Dolphins,14,26,10,38.46,148,5.7,67,1,1,0,0,0,3,29,54.6,Earl Morrall,21,Yes
+0,1970,Oakland Raiders,3,7,2,28.57,52,7.4,0,0,1,0,0,0,0,0,18.5,Ken Stabler,1,Yes
+1,1971,Oakland Raiders,14,48,24,50,268,5.6,0,1,4,0,0,0,4,37,39.2,Ken Stabler,2,Yes
+2,1972,Oakland Raiders,14,74,44,59.46,524,7.1,0,4,3,0,0,0,8,75,82.3,Ken Stabler,3,Yes
+3,1973,Oakland Raiders,14,260,163,62.69,1997,7.7,0,14,10,0,0,0,34,261,88.3,Ken Stabler,4,Yes
+4,1974,Oakland Raiders,14,310,178,57.42,2469,8,0,26,12,0,0,0,18,141,94.9,Ken Stabler,5,Yes
+5,1975,Oakland Raiders,14,293,171,58.36,2296,7.8,53,16,24,0,0,0,19,202,67.4,Ken Stabler,6,Yes
+6,1976,Oakland Raiders,12,291,194,66.67,2737,9.4,88,27,17,0,0,0,19,203,103.4,Ken Stabler,7,Yes
+7,1977,Oakland Raiders,13,294,169,57.48,2176,7.4,44,20,20,0,0,0,16,141,75.2,Ken Stabler,8,Yes
+8,1978,Oakland Raiders,16,406,237,58.37,2944,7.3,49,16,30,0,0,0,37,347,63.3,Ken Stabler,9,Yes
+9,1979,Oakland Raiders,16,498,304,61.04,3615,7.3,66,26,22,0,0,0,34,284,82.2,Ken Stabler,10,Yes
+10,1980,Houston Oilers,16,457,293,64.11,3202,7,79,13,28,0,0,0,27,264,68.7,Ken Stabler,11,Yes
+11,1981,Houston Oilers,13,285,165,57.89,1988,7,71,14,18,0,0,0,29,254,69.5,Ken Stabler,12,Yes
+12,1982,New Orleans Saints,8,189,117,61.9,1343,7.1,48,6,10,0,0,0,13,106,71.8,Ken Stabler,13,Yes
+13,1983,New Orleans Saints,14,311,176,56.59,1988,6.4,48,9,18,0,0,0,18,159,61.4,Ken Stabler,14,Yes
+14,1984,New Orleans Saints,3,70,33,47.14,339,4.8,29,2,5,0,0,0,5,40,41.3,Ken Stabler,15,Yes
+0,1948,Chicago Bears,11,52,16,30.8,232,4.5,0,3,2,0,0,0,0,31,49.5,Bobby Layne,1,Yes
+1,1949,New York Bulldogs,12,299,155,51.8,1796,6,0,9,18,0,0,0,0,324,55.3,Bobby Layne,2,Yes
+2,1950,Detroit Lions,12,336,152,45.2,2323,6.9,0,16,18,0,0,0,0,354,62.1,Bobby Layne,3,Yes
+3,1951,Detroit Lions,12,332,152,45.8,2403,7.2,0,26,23,0,0,0,0,153,67.6,Bobby Layne,4,Yes
+4,1952,Detroit Lions,12,287,139,48.4,1999,7,0,19,20,0,0,0,0,212,64.5,Bobby Layne,5,Yes
+5,1953,Detroit Lions,12,273,125,45.8,2088,7.6,0,16,21,0,0,0,0,127,59.6,Bobby Layne,6,Yes
+6,1954,Detroit Lions,12,246,135,54.9,1818,7.4,0,14,12,0,0,0,0,86,77.3,Bobby Layne,7,Yes
+7,1955,Detroit Lions,12,270,143,53,1830,6.8,0,11,17,0,0,0,0,72,61.8,Bobby Layne,8,Yes
+8,1956,Detroit Lions,12,244,129,52.9,1909,7.8,0,9,17,0,0,0,0,44,62,Bobby Layne,9,Yes
+9,1957,Detroit Lions,11,179,87,48.6,1169,6.5,0,6,12,0,0,0,0,110,53,Bobby Layne,10,Yes
+10,1958,Pittsburgh Steelers,2,26,12,46.2,171,6.6,0,1,2,0,0,0,0,22,48.7,Bobby Layne,11,Yes
+11,1959,Pittsburgh Steelers,12,297,142,47.8,1986,6.7,0,20,21,0,0,0,0,219,62.8,Bobby Layne,12,Yes
+12,1960,Pittsburgh Steelers,12,209,103,49.3,1814,8.7,0,13,17,0,0,0,0,52,66.2,Bobby Layne,13,Yes
+13,1961,Pittsburgh Steelers,8,149,75,50.3,1205,8.1,0,11,16,0,0,0,0,89,62.8,Bobby Layne,14,Yes
+14,1962,Pittsburgh Steelers,13,233,116,49.8,1686,7.2,0,9,17,0,0,0,0,193,56.2,Bobby Layne,15,Yes
+0,1979,New York Giants,12,265,134,50.57,1743,6.6,61,13,14,0,0,0,39,319,66,Phil Simms,1,Yes
+1,1980,New York Giants,13,402,193,48.01,2321,5.8,58,15,19,0,0,0,36,233,58.9,Phil Simms,2,Yes
+2,1981,New York Giants,10,316,172,54.43,2031,6.4,80,11,9,0,0,0,38,301,74,Phil Simms,3,Yes
+3,1983,New York Giants,2,13,7,53.85,130,10,36,0,1,0,0,0,3,35,56.6,Phil Simms,4,Yes
+4,1984,New York Giants,16,533,286,53.66,4044,7.6,65,22,18,0,0,0,55,434,78.1,Phil Simms,5,Yes
+5,1985,New York Giants,16,495,275,55.56,3829,7.7,70,22,20,0,0,0,52,396,78.6,Phil Simms,6,Yes
+6,1986,New York Giants,16,468,259,55.34,3487,7.5,49,21,22,0,0,0,45,359,74.6,Phil Simms,7,Yes
+7,1987,New York Giants,9,282,163,57.8,2230,7.9,50,17,9,0,0,0,35,225,90,Phil Simms,8,Yes
+8,1988,New York Giants,15,479,263,54.91,3359,7,62,21,11,0,0,0,53,405,82.1,Phil Simms,9,Yes
+9,1989,New York Giants,15,405,228,56.3,3061,7.6,62,14,14,0,0,0,40,244,77.6,Phil Simms,10,Yes
+10,1990,New York Giants,14,311,184,59.16,2284,7.3,80,15,4,0,0,0,20,104,92.7,Phil Simms,11,Yes
+11,1991,New York Giants,6,141,82,58.16,993,7,38,8,4,53,37.59,14,14,79,87,Phil Simms,12,Yes
+12,1992,New York Giants,4,137,83,60.58,912,6.7,38,5,3,46,33.58,12,10,67,83.3,Phil Simms,13,Yes
+13,1993,New York Giants,16,400,247,61.75,3038,7.6,62,15,9,147,36.75,39,37,217,88.3,Phil Simms,14,Yes
+0,1986,Buffalo Bills,16,480,285,59.38,3593,7.5,84,22,17,0,0,0,43,330,83.3,Jim Kelly,1,Yes
+1,1987,Buffalo Bills,12,419,250,59.67,2798,6.7,47,19,11,0,0,0,27,239,83.8,Jim Kelly,2,Yes
+2,1988,Buffalo Bills,16,452,269,59.51,3380,7.5,66,15,17,0,0,0,30,229,78.2,Jim Kelly,3,Yes
+3,1989,Buffalo Bills,13,391,228,58.31,3130,8,78,25,18,0,0,0,30,216,86.2,Jim Kelly,4,Yes
+4,1990,Buffalo Bills,14,346,219,63.29,2829,8.2,71,24,9,0,0,0,20,158,101.2,Jim Kelly,5,Yes
+5,1991,Buffalo Bills,15,474,304,64.14,3844,8.1,77,33,17,190,40.08,45,31,227,97.6,Jim Kelly,6,Yes
+6,1992,Buffalo Bills,16,462,269,58.23,3457,7.5,65,23,19,180,38.96,40,20,145,81.2,Jim Kelly,7,Yes
+7,1993,Buffalo Bills,16,470,288,61.28,3382,7.2,65,18,18,169,35.96,47,25,171,79.9,Jim Kelly,8,Yes
+8,1994,Buffalo Bills,14,448,285,63.62,3114,7,83,22,17,152,33.93,27,34,244,84.6,Jim Kelly,9,Yes
+9,1995,Buffalo Bills,15,458,255,55.68,3130,6.8,77,22,13,129,28.17,39,26,181,81.1,Jim Kelly,10,Yes
+10,1996,Buffalo Bills,13,379,222,58.58,2810,7.4,67,14,19,122,32.19,37,37,287,73.2,Jim Kelly,11,Yes
+0,1962,Los Angeles Rams,6,101,57,56.4,670,6.6,0,3,2,0,0,0,0,80,78.4,Roman Gabriel,1,Yes
+1,1963,Los Angeles Rams,12,281,130,46.3,1947,6.9,0,8,11,0,0,0,44,337,62.7,Roman Gabriel,2,Yes
+2,1964,Los Angeles Rams,7,143,65,45.5,1236,8.6,0,9,5,0,0,0,23,183,82.4,Roman Gabriel,3,Yes
+3,1965,Los Angeles Rams,7,173,83,48,1321,7.6,0,11,5,0,0,0,14,97,83,Roman Gabriel,4,Yes
+4,1966,Los Angeles Rams,14,397,217,54.7,2540,6.4,0,10,16,0,0,0,48,319,65.9,Roman Gabriel,5,Yes
+5,1967,Los Angeles Rams,14,371,196,52.8,2779,7.5,0,25,13,0,0,0,24,201,85.2,Roman Gabriel,6,Yes
+6,1968,Los Angeles Rams,14,366,184,50.3,2364,6.5,0,19,16,0,0,0,27,226,70,Roman Gabriel,7,Yes
+7,1969,Los Angeles Rams,14,399,217,54.4,2549,6.4,0,24,7,0,0,0,14,112,86.8,Roman Gabriel,8,Yes
+8,1970,Los Angeles Rams,14,407,211,51.84,2552,6.3,0,16,12,0,0,0,20,134,72.2,Roman Gabriel,9,Yes
+9,1971,Los Angeles Rams,14,352,180,51.14,2238,6.4,0,17,10,0,0,0,25,200,75.4,Roman Gabriel,10,Yes
+10,1972,Los Angeles Rams,14,323,165,51.08,2027,6.3,0,12,15,0,0,0,12,102,63.8,Roman Gabriel,11,Yes
+11,1973,Philadelphia Eagles,14,460,270,58.7,3219,7,0,23,12,0,0,0,31,219,86,Roman Gabriel,12,Yes
+12,1974,Philadelphia Eagles,11,338,193,57.1,1867,5.5,0,9,12,0,0,0,35,259,66.8,Roman Gabriel,13,Yes
+13,1975,Philadelphia Eagles,11,292,151,51.71,1644,5.6,62,13,11,0,0,0,18,131,67.8,Roman Gabriel,14,Yes
+14,1976,Philadelphia Eagles,4,92,46,50,476,5.2,34,2,2,0,0,0,13,111,63.5,Roman Gabriel,15,Yes
+15,1977,Philadelphia Eagles,13,3,1,33.33,15,5,15,0,0,0,0,0,0,0,50.7,Roman Gabriel,16,Yes
+0,1967,Miami Dolphins,12,331,166,50.2,2005,6.1,0,15,18,0,0,0,25,240,61.6,Bob Griese,1,Yes
+1,1968,Miami Dolphins,13,355,186,52.4,2473,7,0,21,16,0,0,0,43,372,75.7,Bob Griese,2,Yes
+2,1969,Miami Dolphins,9,252,121,48,1695,6.7,0,10,16,0,0,0,33,289,56.9,Bob Griese,3,Yes
+3,1970,Miami Dolphins,14,245,142,57.96,2019,8.2,0,12,17,0,0,0,31,282,72.1,Bob Griese,4,Yes
+4,1971,Miami Dolphins,14,263,145,55.13,2089,7.9,0,19,9,0,0,0,23,248,90.9,Bob Griese,5,Yes
+5,1972,Miami Dolphins,6,97,53,54.64,638,6.6,0,4,4,0,0,0,7,45,71.6,Bob Griese,6,Yes
+6,1973,Miami Dolphins,13,218,116,53.21,1422,6.5,0,17,8,0,0,0,11,75,84.3,Bob Griese,7,Yes
+7,1974,Miami Dolphins,13,253,152,60.08,1968,7.8,0,16,15,0,0,0,27,202,80.9,Bob Griese,8,Yes
+8,1975,Miami Dolphins,10,191,118,61.78,1693,8.9,79,14,13,0,0,0,16,131,86.6,Bob Griese,9,Yes
+9,1976,Miami Dolphins,13,272,162,59.56,2097,7.7,47,11,12,0,0,0,30,266,78.9,Bob Griese,10,Yes
+10,1977,Miami Dolphins,14,307,180,58.63,2252,7.3,73,22,13,0,0,0,36,303,87.8,Bob Griese,11,Yes
+11,1978,Miami Dolphins,11,235,148,62.98,1791,7.6,63,11,11,0,0,0,18,165,82.4,Bob Griese,12,Yes
+12,1979,Miami Dolphins,14,310,176,56.77,2160,7,51,14,16,0,0,0,26,223,72,Bob Griese,13,Yes
+13,1980,Miami Dolphins,5,100,61,61,790,7.9,54,6,4,0,0,0,9,89,89.2,Bob Griese,14,Yes
+0,1999,Philadelphia Eagles,12,216,106,49.07,948,4.4,63,8,7,55,25.46,7,28,204,60.1,Donovan McNabb,1,Yes
+1,2000,Philadelphia Eagles,16,569,330,58,3365,5.9,70,21,13,181,31.81,45,45,262,77.8,Donovan McNabb,2,Yes
+2,2001,Philadelphia Eagles,16,493,285,57.81,3233,6.6,64,25,12,136,27.59,44,39,273,84.3,Donovan McNabb,3,Yes
+3,2002,Philadelphia Eagles,10,361,211,58.45,2289,6.3,59,17,6,108,29.92,27,28,166,86,Donovan McNabb,4,Yes
+4,2003,Philadelphia Eagles,16,478,275,57.53,3216,6.7,59,16,11,152,31.8,44,43,253,79.6,Donovan McNabb,5,Yes
+5,2004,Philadelphia Eagles,15,469,300,63.97,3875,8.3,80,31,8,175,37.31,50,32,192,104.7,Donovan McNabb,6,Yes
+6,2005,Philadelphia Eagles,9,357,211,59.1,2507,7,91,16,9,116,32.49,27,19,112,85,Donovan McNabb,7,Yes
+7,2006,Philadelphia Eagles,10,316,180,56.96,2647,8.4,87,18,6,113,35.76,44,21,140,95.5,Donovan McNabb,8,Yes
+8,2007,Philadelphia Eagles,14,473,291,61.52,3324,7,75,19,7,152,32.14,35,44,227,89.9,Donovan McNabb,9,Yes
+9,2008,Philadelphia Eagles,16,571,345,60.42,3916,6.9,90,23,11,196,34.33,52,23,149,86.4,Donovan McNabb,10,Yes
+10,2009,Philadelphia Eagles,14,443,267,60.27,3553,8,60,22,10,148,33.41,55,35,264,92.9,Donovan McNabb,11,Yes
+11,2010,Washington Redskins,13,472,275,58.26,3377,7.2,76,14,15,152,32.2,41,37,271,77.1,Donovan McNabb,12,Yes
+12,2011,Minnesota Vikings,6,156,94,60.26,1026,6.6,60,4,2,52,33.33,14,16,113,82.9,Donovan McNabb,13,Yes
+0,1985,Philadelphia Eagles,6,81,34,41.98,548,6.8,69,1,8,0,0,0,20,150,29.8,Randall Cunningham,1,Yes
+1,1986,Philadelphia Eagles,15,209,111,53.11,1391,6.7,75,8,7,0,0,0,72,489,72.9,Randall Cunningham,2,Yes
+2,1987,Philadelphia Eagles,12,406,223,54.93,2786,6.9,70,23,12,0,0,0,54,380,83,Randall Cunningham,3,Yes
+3,1988,Philadelphia Eagles,16,560,301,53.75,3808,6.8,80,24,16,0,0,0,57,442,77.6,Randall Cunningham,4,Yes
+4,1989,Philadelphia Eagles,16,532,290,54.51,3400,6.4,66,21,15,0,0,0,45,343,75.5,Randall Cunningham,5,Yes
+5,1990,Philadelphia Eagles,16,465,271,58.28,3466,7.5,95,30,13,0,0,0,49,431,91.6,Randall Cunningham,6,Yes
+6,1991,Philadelphia Eagles,1,4,1,25,19,4.8,19,0,0,1,25,0,2,16,46.9,Randall Cunningham,7,Yes
+7,1992,Philadelphia Eagles,15,384,233,60.68,2775,7.2,75,19,11,127,33.07,35,60,437,87.3,Randall Cunningham,8,Yes
+8,1993,Philadelphia Eagles,4,110,76,69.09,850,7.7,80,5,5,42,38.18,8,7,33,88.1,Randall Cunningham,9,Yes
+9,1994,Philadelphia Eagles,14,490,265,54.08,3229,6.6,93,16,13,146,29.8,39,43,333,74.4,Randall Cunningham,10,Yes
+10,1995,Philadelphia Eagles,7,121,69,57.02,605,5,33,3,5,34,28.1,5,13,79,61.5,Randall Cunningham,11,Yes
+11,1997,Minnesota Vikings,6,88,44,50,501,5.7,34,6,4,27,30.68,6,7,60,71.3,Randall Cunningham,12,Yes
+12,1998,Minnesota Vikings,15,425,259,60.94,3704,8.7,67,34,10,165,38.82,55,20,132,106,Randall Cunningham,13,Yes
+13,1999,Minnesota Vikings,6,200,124,62,1475,7.4,61,8,9,71,35.5,26,15,101,79.1,Randall Cunningham,14,Yes
+14,2000,Dallas Cowboys,6,125,74,59.2,849,6.8,76,6,4,35,28,14,8,45,82.4,Randall Cunningham,15,Yes
+15,2001,Baltimore Ravens,6,89,54,60.67,573,6.4,30,3,2,31,34.83,6,12,66,81.3,Randall Cunningham,16,Yes
+0,1948,Baltimore Colts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Y.A. Tittle,1,Yes
+1,1949,Baltimore Colts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Y.A. Tittle,2,Yes
+2,1950,Baltimore Colts,12,315,161,51.1,1884,6,0,8,19,0,0,0,0,269,52.9,Y.A. Tittle,3,Yes
+3,1951,San Francisco 49ers,12,114,63,55.3,808,7.1,0,8,9,0,0,0,0,137,68.2,Y.A. Tittle,4,Yes
+4,1952,San Francisco 49ers,12,208,106,51,1407,6.8,0,11,12,0,0,0,0,206,66.3,Y.A. Tittle,5,Yes
+5,1953,San Francisco 49ers,11,259,149,57.5,2121,8.2,0,20,16,0,0,0,0,221,84.1,Y.A. Tittle,6,Yes
+6,1954,San Francisco 49ers,12,295,170,57.6,2205,7.5,0,9,9,0,0,0,0,185,78.7,Y.A. Tittle,7,Yes
+7,1955,San Francisco 49ers,12,287,147,51.2,2185,7.6,0,17,28,0,0,0,0,287,56.6,Y.A. Tittle,8,Yes
+8,1956,San Francisco 49ers,10,218,124,56.9,1641,7.5,0,7,12,0,0,0,0,249,68.6,Y.A. Tittle,9,Yes
+9,1957,San Francisco 49ers,12,279,176,63.1,2157,7.7,0,13,15,0,0,0,0,362,80,Y.A. Tittle,10,Yes
+10,1958,San Francisco 49ers,11,208,120,57.7,1467,7.1,0,9,15,0,0,0,0,149,63.9,Y.A. Tittle,11,Yes
+11,1959,San Francisco 49ers,11,199,102,51.3,1331,6.7,0,10,15,0,0,0,0,136,58,Y.A. Tittle,12,Yes
+12,1960,San Francisco 49ers,9,127,69,54.3,694,5.5,0,4,3,0,0,0,0,98,70.8,Y.A. Tittle,13,Yes
+13,1961,New York Giants,13,285,163,57.2,2272,8,0,17,12,0,0,0,0,161,85.3,Y.A. Tittle,14,Yes
+14,1962,New York Giants,14,375,200,53.3,3224,8.6,0,33,20,0,0,0,0,92,89.5,Y.A. Tittle,15,Yes
+15,1963,New York Giants,13,367,221,60.2,3145,8.6,0,36,14,0,0,0,24,205,104.8,Y.A. Tittle,16,Yes
+16,1964,New York Giants,14,281,147,52.3,1798,6.4,0,10,22,0,0,0,30,243,51.6,Y.A. Tittle,17,Yes
+0,1949,Los Angeles Rams,8,58,32,55.2,601,10.4,0,6,2,0,0,0,0,69,111.4,Norm Van Brocklin,1,Yes
+1,1950,Los Angeles Rams,12,233,127,54.5,2061,8.8,0,18,14,0,0,0,0,103,85.1,Norm Van Brocklin,2,Yes
+2,1951,Los Angeles Rams,12,194,100,51.5,1725,8.9,0,13,11,0,0,0,0,60,80.8,Norm Van Brocklin,3,Yes
+3,1952,Los Angeles Rams,12,205,113,55.1,1736,8.5,0,14,17,0,0,0,0,97,71.5,Norm Van Brocklin,4,Yes
+4,1953,Los Angeles Rams,12,286,156,54.5,2393,8.4,0,19,14,0,0,0,0,61,84.1,Norm Van Brocklin,5,Yes
+5,1954,Los Angeles Rams,12,260,139,53.5,2637,10.1,0,13,21,0,0,0,0,80,71.9,Norm Van Brocklin,6,Yes
+6,1955,Los Angeles Rams,12,272,144,52.9,1890,6.9,0,8,15,0,0,0,0,76,62,Norm Van Brocklin,7,Yes
+7,1956,Los Angeles Rams,12,124,68,54.8,966,7.8,0,7,12,0,0,0,0,15,59.5,Norm Van Brocklin,8,Yes
+8,1957,Los Angeles Rams,12,265,132,49.8,2105,7.9,0,20,21,0,0,0,0,114,68.8,Norm Van Brocklin,9,Yes
+9,1958,Philadelphia Eagles,12,374,198,52.9,2409,6.4,0,15,20,0,0,0,0,46,64.1,Norm Van Brocklin,10,Yes
+10,1959,Philadelphia Eagles,12,340,191,56.2,2617,7.7,0,16,14,0,0,0,0,72,79.5,Norm Van Brocklin,11,Yes
+11,1960,Philadelphia Eagles,12,284,153,53.9,2471,8.7,0,24,17,0,0,0,0,96,86.5,Norm Van Brocklin,12,Yes
+0,1989,Dallas Cowboys,11,293,155,52.9,1749,6,75,9,18,0,0,0,19,155,55.7,Troy Aikman,1,Yes
+1,1990,Dallas Cowboys,15,399,226,56.64,2579,6.5,61,11,18,0,0,0,39,288,66.6,Troy Aikman,2,Yes
+2,1991,Dallas Cowboys,12,363,237,65.29,2754,7.6,61,11,10,148,40.77,36,32,224,86.7,Troy Aikman,3,Yes
+3,1992,Dallas Cowboys,16,473,302,63.85,3445,7.3,87,23,14,176,37.21,38,23,112,89.5,Troy Aikman,4,Yes
+4,1993,Dallas Cowboys,14,392,271,69.13,3100,7.9,80,15,6,152,38.78,29,26,153,99,Troy Aikman,5,Yes
+5,1994,Dallas Cowboys,14,361,233,64.54,2676,7.4,90,13,12,133,36.84,27,14,59,84.9,Troy Aikman,6,Yes
+6,1995,Dallas Cowboys,16,432,280,64.81,3304,7.7,50,16,7,173,40.05,39,14,89,93.6,Troy Aikman,7,Yes
+7,1996,Dallas Cowboys,15,465,296,63.66,3126,6.7,61,12,13,158,33.98,31,18,120,80.1,Troy Aikman,8,Yes
+8,1997,Dallas Cowboys,16,518,292,56.37,3283,6.3,64,19,12,163,31.47,34,33,269,78,Troy Aikman,9,Yes
+9,1998,Dallas Cowboys,11,315,187,59.37,2330,7.4,67,12,5,109,34.6,28,9,58,88.5,Troy Aikman,10,Yes
+10,1999,Dallas Cowboys,14,442,263,59.5,2964,6.7,90,17,12,126,28.51,36,19,130,81.1,Troy Aikman,11,Yes
+11,2000,Dallas Cowboys,11,262,156,59.54,1632,6.2,48,7,14,81,30.92,15,13,91,64.3,Troy Aikman,12,Yes
+0,1971,Cincinnati Bengals,11,131,72,54.96,777,5.9,0,5,4,0,0,0,23,159,72.6,Ken Anderson,1,Yes
+1,1972,Cincinnati Bengals,13,301,171,56.81,1918,6.4,0,7,7,0,0,0,18,155,74,Ken Anderson,2,Yes
+2,1973,Cincinnati Bengals,14,329,179,54.41,2428,7.4,0,18,12,0,0,0,24,163,81.2,Ken Anderson,3,Yes
+3,1974,Cincinnati Bengals,13,328,213,64.94,2667,8.1,0,18,10,0,0,0,36,292,95.7,Ken Anderson,4,Yes
+4,1975,Cincinnati Bengals,13,377,228,60.48,3169,8.4,55,21,11,0,0,0,32,247,93.9,Ken Anderson,5,Yes
+5,1976,Cincinnati Bengals,14,338,179,52.96,2367,7,85,19,14,0,0,0,34,235,76.9,Ken Anderson,6,Yes
+6,1977,Cincinnati Bengals,14,323,166,51.39,2145,6.6,94,11,11,0,0,0,28,197,69.7,Ken Anderson,7,Yes
+7,1978,Cincinnati Bengals,12,319,173,54.23,2219,7,57,10,22,0,0,0,30,237,58,Ken Anderson,8,Yes
+8,1979,Cincinnati Bengals,15,339,189,55.75,2340,6.9,73,16,10,0,0,0,46,324,80.7,Ken Anderson,9,Yes
+9,1980,Cincinnati Bengals,13,275,166,60.36,1778,6.5,67,6,13,0,0,0,24,174,66.9,Ken Anderson,10,Yes
+10,1981,Cincinnati Bengals,16,479,300,62.63,3754,7.8,74,29,10,0,0,0,25,140,98.4,Ken Anderson,11,Yes
+11,1982,Cincinnati Bengals,9,309,218,70.55,2495,8.1,56,12,9,0,0,0,26,154,95.3,Ken Anderson,12,Yes
+12,1983,Cincinnati Bengals,13,297,198,66.67,2333,7.9,80,12,13,0,0,0,25,187,85.6,Ken Anderson,13,Yes
+13,1984,Cincinnati Bengals,11,275,175,63.64,2107,7.7,80,10,12,0,0,0,24,191,81,Ken Anderson,14,Yes
+14,1985,Cincinnati Bengals,3,32,16,50,170,5.3,44,2,0,0,0,0,2,16,86.7,Ken Anderson,15,Yes
+15,1986,Cincinnati Bengals,8,23,11,47.83,171,7.4,43,1,2,0,0,0,1,4,51.2,Ken Anderson,16,Yes
+0,1970,Pittsburgh Steelers,13,218,83,38.07,1410,6.5,0,6,24,0,0,0,25,242,30.4,Terry Bradshaw,1,Yes
+1,1971,Pittsburgh Steelers,14,373,203,54.42,2259,6.1,0,13,22,0,0,0,33,287,59.7,Terry Bradshaw,2,Yes
+2,1972,Pittsburgh Steelers,14,308,147,47.73,1887,6.1,0,12,12,0,0,0,29,237,64.1,Terry Bradshaw,3,Yes
+3,1973,Pittsburgh Steelers,10,180,89,49.44,1183,6.6,0,10,15,0,0,0,24,186,54.5,Terry Bradshaw,4,Yes
+4,1974,Pittsburgh Steelers,8,148,67,45.27,785,5.3,0,7,8,0,0,0,10,104,55.2,Terry Bradshaw,5,Yes
+5,1975,Pittsburgh Steelers,14,286,165,57.69,2055,7.2,59,18,9,0,0,0,31,290,88,Terry Bradshaw,6,Yes
+6,1976,Pittsburgh Steelers,10,192,92,47.92,1177,6.1,50,10,9,0,0,0,16,164,65.4,Terry Bradshaw,7,Yes
+7,1977,Pittsburgh Steelers,14,314,162,51.59,2523,8,65,17,19,0,0,0,26,235,71.4,Terry Bradshaw,8,Yes
+8,1978,Pittsburgh Steelers,16,368,207,56.25,2915,7.9,70,28,20,0,0,0,21,222,84.7,Terry Bradshaw,9,Yes
+9,1979,Pittsburgh Steelers,16,472,259,54.87,3724,7.9,65,26,25,0,0,0,24,196,77,Terry Bradshaw,10,Yes
+10,1980,Pittsburgh Steelers,15,424,218,51.42,3339,7.9,68,24,22,0,0,0,33,245,75,Terry Bradshaw,11,Yes
+11,1981,Pittsburgh Steelers,14,370,201,54.32,2887,7.8,90,22,14,0,0,0,17,155,83.9,Terry Bradshaw,12,Yes
+12,1982,Pittsburgh Steelers,9,240,127,52.92,1768,7.4,74,17,11,0,0,0,18,131,81.4,Terry Bradshaw,13,Yes
+13,1983,Pittsburgh Steelers,1,8,5,62.5,77,9.6,24,2,0,0,0,0,0,0,133.9,Terry Bradshaw,14,Yes
+0,1984,Houston Oilers,16,450,259,57.56,3338,7.4,76,12,14,0,0,0,47,371,76.9,Warren Moon,1,Yes
+1,1985,Houston Oilers,14,377,200,53.05,2709,7.2,80,15,19,0,0,0,46,366,68.5,Warren Moon,2,Yes
+2,1986,Houston Oilers,15,488,256,52.46,3489,7.2,81,13,26,0,0,0,41,332,62.3,Warren Moon,3,Yes
+3,1987,Houston Oilers,12,368,184,50,2806,7.6,83,21,18,0,0,0,25,198,74.2,Warren Moon,4,Yes
+4,1988,Houston Oilers,11,294,160,54.42,2327,7.9,57,17,8,0,0,0,12,120,88.4,Warren Moon,5,Yes
+5,1989,Houston Oilers,16,464,280,60.34,3631,7.8,55,23,14,0,0,0,35,267,88.9,Warren Moon,6,Yes
+6,1990,Houston Oilers,15,584,362,61.99,4689,8,87,33,13,0,0,0,36,252,96.8,Warren Moon,7,Yes
+7,1991,Houston Oilers,16,655,404,61.68,4690,7.2,61,23,21,231,35.27,59,23,174,81.7,Warren Moon,8,Yes
+8,1992,Houston Oilers,11,346,224,64.74,2521,7.3,72,18,12,132,38.15,28,16,105,89.3,Warren Moon,9,Yes
+9,1993,Houston Oilers,15,520,303,58.27,3485,6.7,80,21,21,177,34.04,40,34,218,75.2,Warren Moon,10,Yes
+10,1994,Minnesota Vikings,15,601,371,61.73,4264,7.1,65,18,19,201,33.44,54,29,235,79.9,Warren Moon,11,Yes
+11,1995,Minnesota Vikings,16,606,377,62.21,4228,7,85,33,14,213,35.15,49,38,277,91.5,Warren Moon,12,Yes
+12,1996,Minnesota Vikings,8,247,134,54.25,1610,6.5,54,7,9,74,29.96,19,19,122,68.7,Warren Moon,13,Yes
+13,1997,Seattle Seahawks,15,528,313,59.28,3678,7,60,25,16,179,33.9,52,30,192,83.7,Warren Moon,14,Yes
+14,1998,Seattle Seahawks,10,258,145,56.2,1632,6.3,45,11,8,79,30.62,22,22,140,76.6,Warren Moon,15,Yes
+15,1999,Kansas City Chiefs,1,3,1,33.33,20,6.7,20,0,0,1,33.33,1,0,0,57.6,Warren Moon,16,Yes
+16,2000,Kansas City Chiefs,2,34,15,44.12,208,6.1,41,1,1,9,26.47,3,5,46,61.9,Warren Moon,17,Yes
+0,1957,Pittsburgh Steelers,3,4,2,50,25,6.3,0,0,0,0,0,0,0,1,69.8,Len Dawson,1,Yes
+1,1958,Pittsburgh Steelers,4,6,1,16.7,11,1.8,0,0,2,0,0,0,0,11,0,Len Dawson,2,Yes
+2,1959,Pittsburgh Steelers,12,7,3,42.9,60,8.6,0,1,0,0,0,0,0,20,113.1,Len Dawson,3,Yes
+3,1960,Cleveland Browns,2,13,8,61.5,23,1.8,0,0,0,0,0,0,0,24,65.9,Len Dawson,4,Yes
+4,1961,Cleveland Browns,7,15,7,46.7,85,5.7,0,1,3,0,0,0,0,19,47.2,Len Dawson,5,Yes
+5,1962,Dallas Texans,14,310,189,61,2759,8.9,0,29,17,0,0,0,0,0,98.3,Len Dawson,6,Yes
+6,1963,Kansas City Chiefs,14,352,190,54,2389,6.8,0,26,19,0,0,0,0,0,77.5,Len Dawson,7,Yes
+7,1964,Kansas City Chiefs,14,354,199,56.2,2879,8.1,0,30,18,0,0,0,0,0,89.9,Len Dawson,8,Yes
+8,1965,Kansas City Chiefs,14,305,163,53.4,2262,7.4,0,21,14,0,0,0,0,0,81.3,Len Dawson,9,Yes
+9,1966,Kansas City Chiefs,14,284,159,56,2527,8.9,0,26,10,0,0,0,0,0,101.7,Len Dawson,10,Yes
+10,1967,Kansas City Chiefs,14,357,206,57.7,2651,7.4,0,24,17,0,0,0,31,287,83.7,Len Dawson,11,Yes
+11,1968,Kansas City Chiefs,14,224,131,58.5,2109,9.4,0,17,9,0,0,0,18,162,98.6,Len Dawson,12,Yes
+12,1969,Kansas City Chiefs,9,166,98,59,1323,8,0,9,13,0,0,0,13,89,69.9,Len Dawson,13,Yes
+13,1970,Kansas City Chiefs,14,262,141,53.82,1876,7.2,0,13,14,0,0,0,34,277,71,Len Dawson,14,Yes
+14,1971,Kansas City Chiefs,14,301,167,55.48,2504,8.3,0,15,13,0,0,0,30,303,81.6,Len Dawson,15,Yes
+15,1972,Kansas City Chiefs,14,305,175,57.38,1835,6,0,13,12,0,0,0,28,255,72.8,Len Dawson,16,Yes
+16,1973,Kansas City Chiefs,8,101,66,65.35,725,7.2,0,2,5,0,0,0,14,104,72.4,Len Dawson,17,Yes
+17,1974,Kansas City Chiefs,14,235,138,58.72,1573,6.7,0,7,13,0,0,0,25,199,65.8,Len Dawson,18,Yes
+18,1975,Kansas City Chiefs,12,140,93,66.43,1095,7.8,51,5,4,0,0,0,23,196,90,Len Dawson,19,Yes
+0,1957,Philadelphia Eagles,10,70,33,47.1,470,6.7,0,5,8,0,0,0,0,88,53.6,Sonny Jurgensen,1,Yes
+1,1958,Philadelphia Eagles,12,22,12,54.5,259,11.8,0,0,1,0,0,0,0,29,77.7,Sonny Jurgensen,2,Yes
+2,1959,Philadelphia Eagles,12,5,3,60,27,5.4,0,1,0,0,0,0,0,0,114.2,Sonny Jurgensen,3,Yes
+3,1960,Philadelphia Eagles,12,44,24,54.5,486,11,0,5,1,0,0,0,0,45,122,Sonny Jurgensen,4,Yes
+4,1961,Philadelphia Eagles,14,416,235,56.5,3723,8.9,0,32,24,0,0,0,0,211,88.1,Sonny Jurgensen,5,Yes
+5,1962,Philadelphia Eagles,14,366,196,53.6,3261,8.9,0,22,26,0,0,0,0,212,74.3,Sonny Jurgensen,6,Yes
+6,1963,Philadelphia Eagles,9,184,99,53.8,1413,7.7,0,11,13,0,0,0,13,111,69.4,Sonny Jurgensen,7,Yes
+7,1964,Washington Redskins,14,385,207,53.8,2934,7.6,0,24,13,0,0,0,38,302,85.4,Sonny Jurgensen,8,Yes
+8,1965,Washington Redskins,13,356,190,53.4,2367,6.6,0,15,16,0,0,0,29,245,69.6,Sonny Jurgensen,9,Yes
+9,1966,Washington Redskins,14,436,254,58.3,3209,7.4,0,28,19,0,0,0,26,210,84.5,Sonny Jurgensen,10,Yes
+10,1967,Washington Redskins,14,508,288,56.7,3747,7.4,0,31,16,0,0,0,19,157,87.3,Sonny Jurgensen,11,Yes
+11,1968,Washington Redskins,12,292,167,57.2,1980,6.8,0,17,11,0,0,0,21,183,81.7,Sonny Jurgensen,12,Yes
+12,1969,Washington Redskins,14,442,274,62,3102,7,0,22,15,0,0,0,40,322,85.4,Sonny Jurgensen,13,Yes
+13,1970,Washington Redskins,14,337,202,59.94,2354,7,0,23,10,0,0,0,25,214,91.5,Sonny Jurgensen,14,Yes
+14,1971,Washington Redskins,5,28,16,57.14,170,6.1,0,0,2,0,0,0,1,8,45.2,Sonny Jurgensen,15,Yes
+15,1972,Washington Redskins,7,59,39,66.1,633,10.7,0,2,4,0,0,0,2,21,84.9,Sonny Jurgensen,16,Yes
+16,1973,Washington Redskins,14,145,87,60,904,6.2,0,6,5,0,0,0,16,114,77.5,Sonny Jurgensen,17,Yes
+17,1974,Washington Redskins,14,167,107,64.07,1185,7.1,0,11,5,0,0,0,10,69,94.5,Sonny Jurgensen,18,Yes
+0,1956,Green Bay Packers,9,44,24,54.5,325,7.4,0,2,3,0,0,0,0,16,65.1,Bart Starr,1,Yes
+1,1957,Green Bay Packers,12,215,117,54.4,1489,6.9,0,8,10,0,0,0,0,231,69.3,Bart Starr,2,Yes
+2,1958,Green Bay Packers,12,157,78,49.7,875,5.6,0,3,12,0,0,0,0,147,41.2,Bart Starr,3,Yes
+3,1959,Green Bay Packers,12,134,70,52.2,972,7.3,0,6,7,0,0,0,0,30,69,Bart Starr,4,Yes
+4,1960,Green Bay Packers,12,172,98,57,1358,7.9,0,4,8,0,0,0,0,78,70.8,Bart Starr,5,Yes
+5,1961,Green Bay Packers,14,295,172,58.3,2418,8.2,0,16,16,0,0,0,0,138,80.3,Bart Starr,6,Yes
+6,1962,Green Bay Packers,14,285,178,62.5,2438,8.6,0,12,9,0,0,0,0,286,90.7,Bart Starr,7,Yes
+7,1963,Green Bay Packers,13,244,132,54.1,1855,7.6,0,15,10,0,0,0,11,109,82.3,Bart Starr,8,Yes
+8,1964,Green Bay Packers,14,272,163,59.9,2144,7.9,0,15,4,0,0,0,42,323,97.1,Bart Starr,9,Yes
+9,1965,Green Bay Packers,14,251,140,55.8,2055,8.2,0,16,9,0,0,0,34,303,89,Bart Starr,10,Yes
+10,1966,Green Bay Packers,14,251,156,62.2,2257,9,0,14,3,0,0,0,26,183,105,Bart Starr,11,Yes
+11,1967,Green Bay Packers,14,210,115,54.8,1823,8.7,0,9,17,0,0,0,34,322,64.4,Bart Starr,12,Yes
+12,1968,Green Bay Packers,12,171,109,63.7,1617,9.5,0,15,8,0,0,0,29,261,104.3,Bart Starr,13,Yes
+13,1969,Green Bay Packers,12,148,92,62.2,1161,7.8,0,9,6,0,0,0,24,217,89.9,Bart Starr,14,Yes
+14,1970,Green Bay Packers,14,255,140,54.9,1645,6.5,0,8,13,0,0,0,29,252,63.9,Bart Starr,15,Yes
+15,1971,Green Bay Packers,4,45,24,53.33,286,6.4,0,0,3,0,0,0,6,64,45.2,Bart Starr,16,Yes
+0,1939,Chicago Bears,11,51,23,45.1,636,12.5,0,5,4,0,0,0,0,0,91.6,Sid Luckman,1,Yes
+1,1940,Chicago Bears,11,105,48,45.7,941,9,0,4,9,0,0,0,0,0,54.5,Sid Luckman,2,Yes
+2,1941,Chicago Bears,11,119,68,57.1,1181,9.9,0,9,6,0,0,0,0,0,95.3,Sid Luckman,3,Yes
+3,1942,Chicago Bears,11,105,57,54.3,1024,9.8,0,10,13,0,0,0,0,0,80.1,Sid Luckman,4,Yes
+4,1943,Chicago Bears,10,202,110,54.5,2194,10.9,0,28,12,0,0,0,0,0,107.5,Sid Luckman,5,Yes
+5,1944,Chicago Bears,7,143,71,49.7,1018,7.1,0,11,12,0,0,0,0,0,63.8,Sid Luckman,6,Yes
+6,1945,Chicago Bears,10,217,117,53.9,1727,8,0,14,10,0,0,0,0,0,82.5,Sid Luckman,7,Yes
+7,1946,Chicago Bears,11,229,110,48,1826,8,0,17,16,0,0,0,0,0,71,Sid Luckman,8,Yes
+8,1947,Chicago Bears,12,323,176,54.5,2712,8.4,0,24,31,0,0,0,0,68,67.7,Sid Luckman,9,Yes
+9,1948,Chicago Bears,12,163,89,54.6,1047,6.4,0,13,14,0,0,0,0,108,65.1,Sid Luckman,10,Yes
+10,1949,Chicago Bears,11,50,22,44,200,4,0,1,3,0,0,0,0,61,37.1,Sid Luckman,11,Yes
+11,1950,Chicago Bears,11,37,13,35.1,180,4.9,0,1,2,0,0,0,0,23,38.1,Sid Luckman,12,Yes
+0,1937,Washington Redskins,11,171,81,47.4,1127,6.6,0,8,14,0,0,0,0,0,50.5,Sammy Baugh,1,Yes
+1,1938,Washington Redskins,9,128,63,49.2,853,6.7,0,5,11,0,0,0,0,0,48.1,Sammy Baugh,2,Yes
+2,1939,Washington Redskins,9,96,53,55.2,518,5.4,0,6,9,0,0,0,0,0,52.3,Sammy Baugh,3,Yes
+3,1940,Washington Redskins,11,177,111,62.7,1367,7.7,0,12,10,0,0,0,0,0,85.6,Sammy Baugh,4,Yes
+4,1941,Washington Redskins,11,193,106,54.9,1236,6.4,0,10,19,0,0,0,0,0,52.2,Sammy Baugh,5,Yes
+5,1942,Washington Redskins,11,225,132,58.7,1524,6.8,0,16,11,0,0,0,0,0,82.5,Sammy Baugh,6,Yes
+6,1943,Washington Redskins,10,239,133,55.6,1754,7.3,0,23,19,0,0,0,0,0,78,Sammy Baugh,7,Yes
+7,1944,Washington Redskins,8,146,82,56.2,849,5.8,0,4,8,0,0,0,0,0,59.4,Sammy Baugh,8,Yes
+8,1945,Washington Redskins,8,182,128,70.3,1669,9.2,0,11,4,0,0,0,0,0,109.9,Sammy Baugh,9,Yes
+9,1946,Washington Redskins,11,161,87,54,1163,7.2,0,8,17,0,0,0,0,0,54.2,Sammy Baugh,10,Yes
+10,1947,Washington Redskins,12,354,210,59.3,2938,8.3,0,25,15,0,0,0,0,153,92,Sammy Baugh,11,Yes
+11,1948,Washington Redskins,12,315,185,58.7,2599,8.3,0,22,23,0,0,0,0,69,78.3,Sammy Baugh,12,Yes
+12,1949,Washington Redskins,12,255,145,56.9,1903,7.5,0,18,14,0,0,0,0,85,81.2,Sammy Baugh,13,Yes
+13,1950,Washington Redskins,11,166,90,54.2,1130,6.8,0,10,11,0,0,0,0,55,68.1,Sammy Baugh,14,Yes
+14,1951,Washington Redskins,12,154,67,43.5,1104,7.2,0,7,17,0,0,0,0,45,43.8,Sammy Baugh,15,Yes
+15,1952,Washington Redskins,7,33,20,60.6,152,4.6,0,2,1,0,0,0,0,14,79.4,Sammy Baugh,16,Yes
+0,1973,San Diego Chargers,10,194,87,44.85,1126,5.8,0,6,13,0,0,0,14,129,46,Dan Fouts,1,Yes
+1,1974,San Diego Chargers,11,237,115,48.52,1732,7.3,0,8,13,0,0,0,12,99,61.4,Dan Fouts,2,Yes
+2,1975,San Diego Chargers,10,195,106,54.36,1396,7.2,57,2,10,0,0,0,25,197,59.3,Dan Fouts,3,Yes
+3,1976,San Diego Chargers,14,359,208,57.94,2535,7.1,81,14,15,0,0,0,39,220,75.4,Dan Fouts,4,Yes
+4,1977,San Diego Chargers,4,109,69,63.3,869,8,67,4,6,0,0,0,10,77,77.4,Dan Fouts,5,Yes
+5,1978,San Diego Chargers,15,381,224,58.79,2999,7.9,55,24,20,0,0,0,22,130,83,Dan Fouts,6,Yes
+6,1979,San Diego Chargers,16,530,332,62.64,4082,7.7,65,24,24,0,0,0,28,195,82.6,Dan Fouts,7,Yes
+7,1980,San Diego Chargers,16,589,348,59.08,4715,8,65,30,24,0,0,0,32,210,84.7,Dan Fouts,8,Yes
+8,1981,San Diego Chargers,16,609,360,59.11,4802,7.9,67,33,17,0,0,0,19,134,90.6,Dan Fouts,9,Yes
+9,1982,San Diego Chargers,9,330,204,61.82,2883,8.7,44,17,11,0,0,0,12,94,93.3,Dan Fouts,10,Yes
+10,1983,San Diego Chargers,10,340,215,63.24,2975,8.8,59,20,15,0,0,0,14,107,92.5,Dan Fouts,11,Yes
+11,1984,San Diego Chargers,13,507,317,62.52,3740,7.4,61,19,17,0,0,0,29,228,83.4,Dan Fouts,12,Yes
+12,1985,San Diego Chargers,14,430,254,59.07,3638,8.5,75,27,20,0,0,0,18,135,88.1,Dan Fouts,13,Yes
+13,1986,San Diego Chargers,12,430,252,58.6,3031,7.1,65,16,22,0,0,0,21,173,71.4,Dan Fouts,14,Yes
+14,1987,San Diego Chargers,11,364,206,56.59,2517,6.9,46,10,15,0,0,0,24,176,70,Dan Fouts,15,Yes
+0,1991,Atlanta Falcons,2,4,0,0,0,0,0,0,2,0,0,0,1,11,0,Brett Favre,1,Yes
+1,1992,Green Bay Packers,15,471,302,64.12,3227,6.9,76,18,13,157,33.33,30,34,208,85.3,Brett Favre,2,Yes
+2,1993,Green Bay Packers,16,522,318,60.92,3303,6.3,66,19,24,165,31.61,37,30,199,72.2,Brett Favre,3,Yes
+3,1994,Green Bay Packers,16,582,363,62.37,3882,6.7,49,33,14,200,34.36,44,31,188,90.7,Brett Favre,4,Yes
+4,1995,Green Bay Packers,16,570,359,62.98,4413,7.7,99,38,13,227,39.82,59,33,217,99.5,Brett Favre,5,Yes
+5,1996,Green Bay Packers,16,543,325,59.85,3899,7.2,80,39,13,194,35.73,49,40,241,95.8,Brett Favre,6,Yes
+6,1997,Green Bay Packers,16,513,304,59.26,3867,7.5,74,35,16,190,37.04,61,25,176,92.6,Brett Favre,7,Yes
+7,1998,Green Bay Packers,16,551,347,62.98,4212,7.6,84,31,23,203,36.84,47,38,223,87.8,Brett Favre,8,Yes
+8,1999,Green Bay Packers,16,595,341,57.31,4091,6.9,74,22,23,194,32.61,52,35,223,74.7,Brett Favre,9,Yes
+9,2000,Green Bay Packers,16,580,338,58.28,3812,6.6,67,20,16,193,33.28,41,33,236,78,Brett Favre,10,Yes
+10,2001,Green Bay Packers,16,510,314,61.57,3921,7.7,67,32,15,187,36.67,53,22,151,94.1,Brett Favre,11,Yes
+11,2002,Green Bay Packers,16,551,341,61.89,3658,6.6,85,27,16,189,34.3,39,26,188,85.6,Brett Favre,12,Yes
+12,2003,Green Bay Packers,16,471,308,65.39,3361,7.1,66,32,21,166,35.24,42,19,137,90.4,Brett Favre,13,Yes
+13,2004,Green Bay Packers,16,540,346,64.07,4088,7.6,79,30,17,202,37.41,50,12,93,92.4,Brett Favre,14,Yes
+14,2005,Green Bay Packers,16,607,372,61.29,3881,6.4,59,20,29,202,33.28,40,24,170,70.9,Brett Favre,15,Yes
+15,2006,Green Bay Packers,16,613,343,55.95,3885,6.3,82,18,18,182,29.69,49,21,134,72.7,Brett Favre,16,Yes
+16,2007,Green Bay Packers,16,535,356,66.54,4155,7.8,82,28,15,197,36.82,49,15,93,95.7,Brett Favre,17,Yes
+17,2008,New York Jets,16,522,343,65.71,3472,6.7,56,22,22,184,35.25,40,30,213,81,Brett Favre,18,Yes
+18,2009,Minnesota Vikings,16,531,363,68.36,4202,7.9,63,33,7,211,39.74,52,34,247,107.2,Brett Favre,19,Yes
+19,2010,Minnesota Vikings,13,358,217,60.61,2509,7,53,11,19,114,31.84,38,22,139,69.9,Brett Favre,20,Yes
+0,1985,Tampa Bay Buccaneers,5,138,72,52.17,935,6.8,59,3,8,0,0,0,21,158,56.9,Steve Young,1,Yes
+1,1986,Tampa Bay Buccaneers,14,363,195,53.72,2282,6.3,46,8,13,0,0,0,47,326,65.5,Steve Young,2,Yes
+2,1987,San Francisco 49ers,8,69,37,53.62,570,8.3,50,10,0,0,0,0,3,25,120.8,Steve Young,3,Yes
+3,1988,San Francisco 49ers,11,101,54,53.47,680,6.7,73,3,3,0,0,0,13,75,72.2,Steve Young,4,Yes
+4,1989,San Francisco 49ers,10,92,64,69.57,1001,10.9,50,8,3,0,0,0,12,84,120.8,Steve Young,5,Yes
+5,1990,San Francisco 49ers,6,62,38,61.29,427,6.9,34,2,0,0,0,0,8,41,92.6,Steve Young,6,Yes
+6,1991,San Francisco 49ers,11,279,180,64.52,2517,9,97,17,8,109,39.07,35,13,79,101.8,Steve Young,7,Yes
+7,1992,San Francisco 49ers,16,402,268,66.67,3465,8.6,80,25,7,160,39.8,54,29,152,107,Steve Young,8,Yes
+8,1993,San Francisco 49ers,16,462,314,67.97,4023,8.7,80,29,16,188,40.69,56,31,160,101.5,Steve Young,9,Yes
+9,1994,San Francisco 49ers,16,461,324,70.28,3969,8.6,69,35,10,188,40.78,48,31,163,112.8,Steve Young,10,Yes
+10,1995,San Francisco 49ers,11,447,299,66.89,3200,7.2,57,20,11,159,35.57,36,25,115,92.3,Steve Young,11,Yes
+11,1996,San Francisco 49ers,12,316,214,67.72,2410,7.6,52,14,6,124,39.24,22,34,160,97.2,Steve Young,12,Yes
+12,1997,San Francisco 49ers,15,356,241,67.7,3029,8.5,82,19,6,147,41.29,43,35,220,104.7,Steve Young,13,Yes
+13,1998,San Francisco 49ers,15,517,322,62.28,4170,8.1,81,36,12,206,39.85,55,48,234,101.1,Steve Young,14,Yes
+14,1999,San Francisco 49ers,3,84,45,53.57,446,5.3,53,3,4,17,20.24,4,8,63,60.9,Steve Young,15,Yes
+0,1961,Minnesota Vikings,14,280,157,56.1,1997,7.1,0,18,17,0,0,0,0,416,74.7,Fran Tarkenton,1,Yes
+1,1962,Minnesota Vikings,14,329,163,49.5,2595,7.9,0,22,25,0,0,0,0,450,66.9,Fran Tarkenton,2,Yes
+2,1963,Minnesota Vikings,14,297,170,57.2,2311,7.8,0,15,15,0,0,0,42,448,78,Fran Tarkenton,3,Yes
+3,1964,Minnesota Vikings,14,306,171,55.9,2506,8.2,0,22,11,0,0,0,46,446,91.8,Fran Tarkenton,4,Yes
+4,1965,Minnesota Vikings,14,329,171,52,2609,7.9,0,19,11,0,0,0,28,250,83.8,Fran Tarkenton,5,Yes
+5,1966,Minnesota Vikings,14,358,192,53.6,2561,7.2,0,17,16,0,0,0,37,322,73.8,Fran Tarkenton,6,Yes
+6,1967,New York Giants,14,377,204,54.1,3088,8.2,0,29,19,0,0,0,29,283,85.9,Fran Tarkenton,7,Yes
+7,1968,New York Giants,14,337,182,54,2555,7.6,0,21,12,0,0,0,27,255,84.6,Fran Tarkenton,8,Yes
+8,1969,New York Giants,14,409,220,53.8,2918,7.1,0,23,8,0,0,0,36,289,87.2,Fran Tarkenton,9,Yes
+9,1970,New York Giants,14,389,219,56.3,2777,7.1,0,19,12,0,0,0,36,249,82.2,Fran Tarkenton,10,Yes
+10,1971,New York Giants,13,386,226,58.55,2567,6.7,0,11,21,0,0,0,27,232,65.4,Fran Tarkenton,11,Yes
+11,1972,Minnesota Vikings,14,378,215,56.88,2651,7,0,18,13,0,0,0,26,203,80.2,Fran Tarkenton,12,Yes
+12,1973,Minnesota Vikings,14,274,169,61.68,2113,7.7,0,15,7,0,0,0,31,270,93.2,Fran Tarkenton,13,Yes
+13,1974,Minnesota Vikings,13,351,199,56.7,2598,7.4,0,17,12,0,0,0,17,142,82.1,Fran Tarkenton,14,Yes
+14,1975,Minnesota Vikings,14,425,273,64.24,2994,7,46,25,13,0,0,0,27,245,91.8,Fran Tarkenton,15,Yes
+15,1976,Minnesota Vikings,13,412,255,61.89,2961,7.2,56,17,8,0,0,0,25,221,89.3,Fran Tarkenton,16,Yes
+16,1977,Minnesota Vikings,9,258,155,60.08,1734,6.7,59,9,14,0,0,0,22,232,69.2,Fran Tarkenton,17,Yes
+17,1978,Minnesota Vikings,16,572,345,60.31,3468,6.1,58,25,32,0,0,0,27,254,68.9,Fran Tarkenton,18,Yes
+0,1983,Miami Dolphins,11,296,173,58.45,2210,7.5,85,20,6,0,0,0,10,80,96,Dan Marino,1,Yes
+1,1984,Miami Dolphins,16,564,362,64.18,5084,9,80,48,17,0,0,0,13,120,108.9,Dan Marino,2,Yes
+2,1985,Miami Dolphins,16,567,336,59.26,4137,7.3,73,30,21,0,0,0,18,157,84.1,Dan Marino,3,Yes
+3,1986,Miami Dolphins,16,623,378,60.67,4746,7.6,85,44,23,0,0,0,17,119,92.5,Dan Marino,4,Yes
+4,1987,Miami Dolphins,12,444,263,59.23,3245,7.3,59,26,13,0,0,0,9,77,89.2,Dan Marino,5,Yes
+5,1988,Miami Dolphins,16,606,354,58.42,4434,7.3,80,28,23,0,0,0,6,31,80.8,Dan Marino,6,Yes
+6,1989,Miami Dolphins,16,550,308,56,3997,7.3,78,24,22,0,0,0,10,86,76.9,Dan Marino,7,Yes
+7,1990,Miami Dolphins,16,531,306,57.63,3563,6.7,69,21,11,0,0,0,15,90,82.6,Dan Marino,8,Yes
+8,1991,Miami Dolphins,16,549,318,57.92,3970,7.2,54,25,13,199,36.25,44,27,182,85.8,Dan Marino,9,Yes
+9,1992,Miami Dolphins,16,554,330,59.57,4116,7.4,62,24,16,192,34.66,45,28,173,85.1,Dan Marino,10,Yes
+10,1993,Miami Dolphins,5,150,91,60.67,1218,8.1,80,8,3,51,34,18,7,42,95.9,Dan Marino,11,Yes
+11,1994,Miami Dolphins,16,615,385,62.6,4453,7.2,64,30,17,214,34.8,55,18,113,89.2,Dan Marino,12,Yes
+12,1995,Miami Dolphins,14,482,309,64.11,3668,7.6,67,24,15,189,39.21,40,22,153,90.8,Dan Marino,13,Yes
+13,1996,Miami Dolphins,13,373,221,59.25,2795,7.5,74,17,9,128,34.32,39,18,131,87.8,Dan Marino,14,Yes
+14,1997,Miami Dolphins,16,548,319,58.21,3780,6.9,55,16,11,190,34.67,49,20,132,80.7,Dan Marino,15,Yes
+15,1998,Miami Dolphins,16,537,310,57.73,3497,6.5,61,23,15,173,32.22,45,23,178,80,Dan Marino,16,Yes
+16,1999,Miami Dolphins,11,369,204,55.28,2448,6.6,62,12,17,120,32.52,37,9,66,67.4,Dan Marino,17,Yes
+0,1946,Cleveland Browns,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Otto Graham,1,Yes
+1,1947,Cleveland Browns,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Otto Graham,2,Yes
+2,1948,Cleveland Browns,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Otto Graham,3,Yes
+3,1949,Cleveland Browns,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Otto Graham,4,Yes
+4,1950,Cleveland Browns,12,253,137,54.2,1943,7.7,0,14,20,0,0,0,0,291,64.7,Otto Graham,5,Yes
+5,1951,Cleveland Browns,12,265,147,55.5,2205,8.3,0,17,16,0,0,0,0,371,79.2,Otto Graham,6,Yes
+6,1952,Cleveland Browns,12,364,181,49.7,2816,7.7,0,20,24,0,0,0,0,242,66.6,Otto Graham,7,Yes
+7,1953,Cleveland Browns,12,258,167,64.7,2722,10.6,0,11,9,0,0,0,0,245,99.7,Otto Graham,8,Yes
+8,1954,Cleveland Browns,12,240,142,59.2,2092,8.7,0,11,17,0,0,0,0,197,73.5,Otto Graham,9,Yes
+9,1955,Cleveland Browns,12,185,98,53,1721,9.3,0,15,8,0,0,0,0,241,94,Otto Graham,10,Yes
+0,1969,Dallas Cowboys,6,47,23,48.9,421,9,0,1,2,0,0,0,12,106,69.5,Roger Staubach,1,Yes
+1,1970,Dallas Cowboys,8,82,44,53.66,542,6.6,0,2,8,0,0,0,19,130,42.9,Roger Staubach,2,Yes
+2,1971,Dallas Cowboys,13,211,126,59.72,1882,8.9,0,15,4,0,0,0,23,175,104.8,Roger Staubach,3,Yes
+3,1972,Dallas Cowboys,4,20,9,45,98,4.9,0,0,2,0,0,0,8,59,20.4,Roger Staubach,4,Yes
+4,1973,Dallas Cowboys,14,286,179,62.59,2428,8.5,0,23,15,0,0,0,43,269,94.6,Roger Staubach,5,Yes
+5,1974,Dallas Cowboys,14,360,190,52.78,2552,7.1,0,11,15,0,0,0,45,309,68.4,Roger Staubach,6,Yes
+6,1975,Dallas Cowboys,13,348,198,56.9,2666,7.7,62,17,16,0,0,0,36,213,78.5,Roger Staubach,7,Yes
+7,1976,Dallas Cowboys,14,369,208,56.37,2715,7.4,53,14,11,0,0,0,29,215,79.9,Roger Staubach,8,Yes
+8,1977,Dallas Cowboys,14,361,210,58.17,2620,7.3,67,18,9,0,0,0,30,219,87,Roger Staubach,9,Yes
+9,1978,Dallas Cowboys,15,413,231,55.93,3190,7.7,91,25,16,0,0,0,32,219,84.9,Roger Staubach,10,Yes
+10,1979,Dallas Cowboys,16,461,267,57.92,3586,7.8,75,27,11,0,0,0,36,240,92.3,Roger Staubach,11,Yes
+0,1983,Denver Broncos,11,259,123,47.49,1663,6.4,49,7,14,0,0,0,28,218,54.9,John Elway,1,Yes
+1,1984,Denver Broncos,15,380,214,56.32,2598,6.8,73,18,15,0,0,0,24,158,76.8,John Elway,2,Yes
+2,1985,Denver Broncos,16,605,327,54.05,3891,6.4,65,22,23,0,0,0,38,307,70.2,John Elway,3,Yes
+3,1986,Denver Broncos,16,504,280,55.56,3485,6.9,53,19,13,0,0,0,32,233,79,John Elway,4,Yes
+4,1987,Denver Broncos,12,410,224,54.63,3198,7.8,72,19,12,0,0,0,20,138,83.4,John Elway,5,Yes
+5,1988,Denver Broncos,15,496,274,55.24,3309,6.7,86,17,19,0,0,0,30,237,71.4,John Elway,6,Yes
+6,1989,Denver Broncos,15,416,223,53.61,3051,7.3,69,18,18,0,0,0,35,298,73.7,John Elway,7,Yes
+7,1990,Denver Broncos,16,502,294,58.57,3526,7,66,15,14,0,0,0,43,311,78.5,John Elway,8,Yes
+8,1991,Denver Broncos,16,451,242,53.66,3253,7.2,71,13,12,147,32.59,49,45,305,75.4,John Elway,9,Yes
+9,1992,Denver Broncos,12,316,174,55.06,2242,7.1,80,10,17,90,28.48,29,36,272,65.7,John Elway,10,Yes
+10,1993,Denver Broncos,16,551,348,63.16,4030,7.3,63,25,10,185,33.58,50,39,293,92.8,John Elway,11,Yes
+11,1994,Denver Broncos,14,494,307,62.15,3490,7.1,63,16,10,162,32.79,41,46,303,85.7,John Elway,12,Yes
+12,1995,Denver Broncos,16,542,316,58.3,3970,7.3,62,26,14,190,35.06,52,22,180,86.4,John Elway,13,Yes
+13,1996,Denver Broncos,15,466,287,61.59,3328,7.1,51,26,14,165,35.41,44,26,194,89.2,John Elway,14,Yes
+14,1997,Denver Broncos,16,502,280,55.78,3635,7.2,78,27,11,169,33.67,52,34,203,87.5,John Elway,15,Yes
+15,1998,Denver Broncos,13,356,210,58.99,2806,7.9,58,22,10,139,39.04,34,18,135,93,John Elway,16,Yes
+0,1998,Indianapolis Colts,16,575,326,56.7,3739,6.5,78,26,28,190,33.04,42,22,109,71.2,Peyton Manning,1,Yes
+1,1999,Indianapolis Colts,16,533,331,62.1,4135,7.8,80,26,15,198,37.15,56,14,116,90.7,Peyton Manning,2,Yes
+2,2000,Indianapolis Colts,16,571,357,62.52,4413,7.7,78,33,15,213,37.3,51,20,131,94.7,Peyton Manning,3,Yes
+3,2001,Indianapolis Colts,16,547,343,62.71,4131,7.6,86,26,23,201,36.75,55,29,232,84.1,Peyton Manning,4,Yes
+4,2002,Indianapolis Colts,16,591,392,66.33,4200,7.1,69,27,19,213,36.04,51,23,145,88.8,Peyton Manning,5,Yes
+5,2003,Indianapolis Colts,16,566,379,66.96,4267,7.5,79,29,10,210,37.1,45,18,107,99,Peyton Manning,6,Yes
+6,2004,Indianapolis Colts,16,497,336,67.61,4557,9.2,80,49,10,232,46.68,68,13,101,121.1,Peyton Manning,7,Yes
+7,2005,Indianapolis Colts,16,453,305,67.33,3747,8.3,80,28,10,197,43.49,45,17,81,104.1,Peyton Manning,8,Yes
+8,2006,Indianapolis Colts,16,557,362,64.99,4397,7.9,68,31,9,241,43.27,53,14,86,101,Peyton Manning,9,Yes
+9,2007,Indianapolis Colts,16,515,337,65.44,4040,7.8,73,31,14,205,39.81,53,21,124,98,Peyton Manning,10,Yes
+10,2008,Indianapolis Colts,16,555,371,66.85,4002,7.2,75,27,12,210,37.84,40,14,86,95,Peyton Manning,11,Yes
+11,2009,Indianapolis Colts,16,571,393,68.83,4500,7.9,80,33,16,237,41.51,59,10,74,99.9,Peyton Manning,12,Yes
+12,2010,Indianapolis Colts,16,679,450,66.27,4700,6.9,73,33,17,253,37.26,43,16,91,91.9,Peyton Manning,13,Yes
+13,2011,Indianapolis Colts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Peyton Manning,14,Yes
+14,2012,Denver Broncos,16,583,400,68.61,4659,8,71,37,11,230,39.45,64,21,137,105.8,Peyton Manning,15,Yes
+15,2013,Denver Broncos,16,659,450,68.29,5477,8.3,78,55,10,289,43.85,68,18,120,115.1,Peyton Manning,16,Yes
+16,2014,Denver Broncos,16,597,395,66.16,4727,7.9,86,39,15,225,37.69,66,17,118,101.5,Peyton Manning,17,Yes
+17,2015,Denver Broncos,10,331,198,59.82,2249,6.8,75,9,17,110,33.23,24,16,95,67.9,Peyton Manning,18,Yes
+0,1956,Baltimore Colts,12,198,110,55.6,1498,7.6,0,9,10,0,0,0,0,202,74,Johnny Unitas,1,Yes
+1,1957,Baltimore Colts,12,301,172,57.1,2550,8.5,0,24,17,0,0,0,0,212,88,Johnny Unitas,2,Yes
+2,1958,Baltimore Colts,10,263,136,51.7,2007,7.6,0,19,7,0,0,0,0,120,90,Johnny Unitas,3,Yes
+3,1959,Baltimore Colts,12,367,193,52.6,2899,7.9,0,32,14,0,0,0,0,185,92,Johnny Unitas,4,Yes
+4,1960,Baltimore Colts,12,378,190,50.3,3099,8.2,0,25,24,0,0,0,0,190,73.7,Johnny Unitas,5,Yes
+5,1961,Baltimore Colts,14,420,229,54.5,2990,7.1,0,16,24,0,0,0,0,204,66.1,Johnny Unitas,6,Yes
+6,1962,Baltimore Colts,14,389,222,57.1,2967,7.6,0,23,23,0,0,0,0,255,76.5,Johnny Unitas,7,Yes
+7,1963,Baltimore Colts,14,410,237,57.8,3481,8.5,0,20,12,0,0,0,42,298,89.7,Johnny Unitas,8,Yes
+8,1964,Baltimore Colts,14,305,158,51.8,2824,9.3,0,19,6,0,0,0,37,254,96.4,Johnny Unitas,9,Yes
+9,1965,Baltimore Colts,11,282,164,58.2,2530,9,0,23,12,0,0,0,29,221,97.4,Johnny Unitas,10,Yes
+10,1966,Baltimore Colts,14,348,195,56,2748,7.9,0,22,24,0,0,0,21,146,74,Johnny Unitas,11,Yes
+11,1967,Baltimore Colts,14,436,255,58.5,3428,7.9,0,20,16,0,0,0,25,198,83.6,Johnny Unitas,12,Yes
+12,1968,Baltimore Colts,5,32,11,34.4,139,4.3,0,2,4,0,0,0,2,15,30.1,Johnny Unitas,13,Yes
+13,1969,Baltimore Colts,13,327,178,54.4,2342,7.2,0,12,20,0,0,0,12,93,64,Johnny Unitas,14,Yes
+14,1970,Baltimore Colts,14,321,166,51.71,2213,6.9,0,14,18,0,0,0,19,158,65.1,Johnny Unitas,15,Yes
+15,1971,Baltimore Colts,13,176,92,52.27,942,5.4,0,3,9,0,0,0,15,129,52.3,Johnny Unitas,16,Yes
+16,1972,Baltimore Colts,8,157,88,56.05,1111,7.1,0,4,6,0,0,0,14,114,70.8,Johnny Unitas,17,Yes
+17,1973,San Diego Chargers,5,76,34,44.74,471,6.2,0,3,7,0,0,0,14,96,40,Johnny Unitas,18,Yes
+0,1979,San Francisco 49ers,16,23,13,56.52,96,4.2,18,1,0,0,0,0,0,0,81.1,Joe Montana,1,Yes
+1,1980,San Francisco 49ers,15,273,176,64.47,1795,6.6,71,15,9,0,0,0,15,100,87.8,Joe Montana,2,Yes
+2,1981,San Francisco 49ers,16,488,311,63.73,3565,7.3,78,19,12,0,0,0,26,193,88.4,Joe Montana,3,Yes
+3,1982,San Francisco 49ers,9,346,213,61.56,2613,7.6,55,17,11,0,0,0,20,166,88,Joe Montana,4,Yes
+4,1983,San Francisco 49ers,16,515,332,64.47,3910,7.6,77,26,12,0,0,0,33,224,94.6,Joe Montana,5,Yes
+5,1984,San Francisco 49ers,16,432,279,64.58,3630,8.4,80,28,10,0,0,0,22,138,102.9,Joe Montana,6,Yes
+6,1985,San Francisco 49ers,15,494,303,61.34,3653,7.4,73,27,13,0,0,0,35,246,91.3,Joe Montana,7,Yes
+7,1986,San Francisco 49ers,8,307,191,62.21,2236,7.3,48,8,9,0,0,0,12,95,80.7,Joe Montana,8,Yes
+8,1987,San Francisco 49ers,13,398,266,66.83,3054,7.7,57,31,13,0,0,0,22,158,102.1,Joe Montana,9,Yes
+9,1988,San Francisco 49ers,14,397,238,59.95,2981,7.5,96,18,10,0,0,0,34,223,87.9,Joe Montana,10,Yes
+10,1989,San Francisco 49ers,13,386,271,70.21,3521,9.1,95,26,8,0,0,0,33,198,112.4,Joe Montana,11,Yes
+11,1990,San Francisco 49ers,15,520,321,61.73,3944,7.6,78,26,16,0,0,0,29,153,89,Joe Montana,12,Yes
+12,1991,San Francisco 49ers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,Joe Montana,13,Yes
+13,1992,San Francisco 49ers,1,21,15,71.43,126,6,17,2,0,7,33.33,0,1,8,118.4,Joe Montana,14,Yes
+14,1993,Kansas City Chiefs,11,298,181,60.74,2144,7.2,50,13,7,110,36.91,28,12,61,87.4,Joe Montana,15,Yes
+15,1994,Kansas City Chiefs,14,493,299,60.65,3283,6.7,57,16,9,172,34.89,40,19,132,83.6,Joe Montana,16,Yes

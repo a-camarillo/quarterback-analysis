@@ -2,11 +2,11 @@ import qbscrape
 import pandas as pd
 
 a_urls = []
-with open('player_urls.txt') as a_f:
+with open('./links/player_urls.txt') as a_f:
     a_urls = a_f.read().split(',')
 
 r_urls = []
-with open('player_urls_retired.txt') as r_f:
+with open('./links/player_urls_retired.txt') as r_f:
     r_urls = r_f.read().split(',')
 
 retired_dict = {}
@@ -39,5 +39,5 @@ total_df = active_df[0]
 total_df = total_df.append(other=active_df[1::])
 total_df = total_df.append(other=retired_df)
 
-print(total_df)
+total_df.to_csv('./qb_stats.csv')
 
