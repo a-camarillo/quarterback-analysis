@@ -1,18 +1,43 @@
 import qbscrape
 import pandas as pd
 
-urls = []
-with open('player_urls.txt') as f:
-    urls = f.read().split(',')
+a_urls = []
+with open('player_urls.txt') as a_f:
+    a_urls = a_f.read().split(',')
 
-total_dict = {}
-for url in urls:
-    qb_dict, columns, qb_name = qbscrape.scraper(url) 
-    total_dict.update(qb_dict)
+r_urls = []
+with open('player_urls_retired.txt') as r_f:
+    r_urls = r_f.read().split(',')
 
-total_df = []
-for player, stats in total_dict.items():
+retired_dict = {}
+for url in r_urls:
+    qb_dict, columns, qb_name = qbscrape.scraper(url)
+    retired_dict.update(qb_dict)
+
+retired_df = []
+for player, stats in retired_dict.items():
     df = qbscrape.player_df(stats,columns=columns,qb_name=player)
-    total_df.append(df)
-    
+    retired_df.append(df)
+
+active_dict = {}
+for url in a_urls:
+    qb_dict, columns, qb_name = qbscrape.scraper(url) 
+    active_dict.update(qb_dict)
+
+active_df = []
+for player, stats in active_dict.items():
+    df = qbscrape.player_df(stats,columns=columns,qb_name=player)
+    active_df.append(df)
+
+for df in active_df:
+    df['retired'] = 'No'
+
+for df in retired_df:
+    df['retired'] = 'Yes'
+
+total_df = active_df[0]
+total_df = total_df.append(other=active_df[1::])
+total_df = total_df.append(other=retired_df)
+
 print(total_df)
+
